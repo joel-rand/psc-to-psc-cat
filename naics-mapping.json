@@ -1,0 +1,5326 @@
+[ {
+  "naicsCode" : "111110",
+  "naicsTitle" : "SOYBEAN FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111120",
+  "naicsTitle" : "OILSEED (EXCEPT SOYBEAN) FARMING",
+  "pscCode" : "8730",
+  "pscTitle" : "SEEDS AND NURSERY STOCK"
+}, {
+  "naicsCode" : "111130",
+  "naicsTitle" : "DRY PEA AND BEAN FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111140",
+  "naicsTitle" : "WHEAT FARMING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "111150",
+  "naicsTitle" : "CORN FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111160",
+  "naicsTitle" : "RICE FARMING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "111191",
+  "naicsTitle" : "OILSEED AND GRAIN COMBINATION FARMING",
+  "pscCode" : "8730",
+  "pscTitle" : "SEEDS AND NURSERY STOCK"
+}, {
+  "naicsCode" : "111199",
+  "naicsTitle" : "ALL OTHER GRAIN FARMING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "111211",
+  "naicsTitle" : "POTATO FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111219",
+  "naicsTitle" : "OTHER VEGETABLE (EXCEPT POTATO) AND MELON FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111310",
+  "naicsTitle" : "ORANGE GROVES",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111320",
+  "naicsTitle" : "CITRUS (EXCEPT ORANGE) GROVES",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111331",
+  "naicsTitle" : "APPLE ORCHARDS",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111332",
+  "naicsTitle" : "GRAPE VINEYARDS",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111333",
+  "naicsTitle" : "STRAWBERRY FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111334",
+  "naicsTitle" : "BERRY (EXCEPT STRAWBERRY) FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111335",
+  "naicsTitle" : "TREE NUT FARMING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "111336",
+  "naicsTitle" : "FRUIT AND TREE NUT COMBINATION FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111339",
+  "naicsTitle" : "OTHER NONCITRUS FRUIT FARMING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "111411",
+  "naicsTitle" : "MUSHROOM PRODUCTION",
+  "pscCode" : "9440",
+  "pscTitle" : "MISCELLANEOUS CRUDE AGRICULTURAL AND FORESTRY PRODUCTS"
+}, {
+  "naicsCode" : "111419",
+  "naicsTitle" : "OTHER FOOD CROPS GROWN UNDER COVER",
+  "pscCode" : "9440",
+  "pscTitle" : "MISCELLANEOUS CRUDE AGRICULTURAL AND FORESTRY PRODUCTS"
+}, {
+  "naicsCode" : "111421",
+  "naicsTitle" : "NURSERY AND TREE PRODUCTION",
+  "pscCode" : "F013",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- TREE BREEDING"
+}, {
+  "naicsCode" : "111422",
+  "naicsTitle" : "FLORICULTURE PRODUCTION",
+  "pscCode" : "8730",
+  "pscTitle" : "SEEDS AND NURSERY STOCK"
+}, {
+  "naicsCode" : "111910",
+  "naicsTitle" : "TOBACCO FARMING",
+  "pscCode" : "8975",
+  "pscTitle" : "TOBACCO PRODUCTS"
+}, {
+  "naicsCode" : "111920",
+  "naicsTitle" : "COTTON FARMING",
+  "pscCode" : "9440",
+  "pscTitle" : "MISCELLANEOUS CRUDE AGRICULTURAL AND FORESTRY PRODUCTS"
+}, {
+  "naicsCode" : "111930",
+  "naicsTitle" : "SUGARCANE FARMING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "111940",
+  "naicsTitle" : "HAY FARMING",
+  "pscCode" : "8710",
+  "pscTitle" : "FORAGE AND FEED"
+}, {
+  "naicsCode" : "111991",
+  "naicsTitle" : "SUGAR BEET FARMING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "111992",
+  "naicsTitle" : "PEANUT FARMING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "111998",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS CROP FARMING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "112111",
+  "naicsTitle" : "BEEF CATTLE RANCHING AND FARMING",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "112112",
+  "naicsTitle" : "CATTLE FEEDLOTS",
+  "pscCode" : "8810",
+  "pscTitle" : "LIVE ANIMALS, RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112120",
+  "naicsTitle" : "DAIRY CATTLE AND MILK PRODUCTION",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "112130",
+  "naicsTitle" : "DUAL-PURPOSE CATTLE RANCHING AND FARMING",
+  "pscCode" : "F019",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- OTHER WILDLIFE MANAGEMENT"
+}, {
+  "naicsCode" : "112210",
+  "naicsTitle" : "HOG AND PIG FARMING",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112310",
+  "naicsTitle" : "CHICKEN EGG PRODUCTION",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "112320",
+  "naicsTitle" : "BROILERS AND OTHER MEAT TYPE CHICKEN PRODUCTION",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112330",
+  "naicsTitle" : "TURKEY PRODUCTION",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112340",
+  "naicsTitle" : "POULTRY HATCHERIES",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112390",
+  "naicsTitle" : "OTHER POULTRY PRODUCTION",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112410",
+  "naicsTitle" : "SHEEP FARMING",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112420",
+  "naicsTitle" : "GOAT FARMING",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112511",
+  "naicsTitle" : "FINFISH FARMING AND FISH HATCHERIES",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112512",
+  "naicsTitle" : "SHELLFISH FARMING",
+  "pscCode" : "9910",
+  "pscTitle" : "JEWELRY"
+}, {
+  "naicsCode" : "112519",
+  "naicsTitle" : "OTHER AQUACULTURE",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "112910",
+  "naicsTitle" : "APICULTURE",
+  "pscCode" : "8930",
+  "pscTitle" : "JAMS, JELLIES, AND PRESERVES"
+}, {
+  "naicsCode" : "112920",
+  "naicsTitle" : "HORSES AND OTHER EQUINE PRODUCTION",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112930",
+  "naicsTitle" : "FUR-BEARING ANIMAL AND RABBIT PRODUCTION",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "112990",
+  "naicsTitle" : "ALL OTHER ANIMAL PRODUCTION",
+  "pscCode" : "8820",
+  "pscTitle" : "LIVE ANIMALS, NOT RAISED FOR FOOD"
+}, {
+  "naicsCode" : "113110",
+  "naicsTitle" : "TIMBER TRACT OPERATIONS",
+  "pscCode" : "F005",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- FOREST TREE PLANTING"
+}, {
+  "naicsCode" : "113210",
+  "naicsTitle" : "FOREST NURSERIES AND GATHERING OF FOREST PRODUCTS",
+  "pscCode" : "9440",
+  "pscTitle" : "MISCELLANEOUS CRUDE AGRICULTURAL AND FORESTRY PRODUCTS"
+}, {
+  "naicsCode" : "113310",
+  "naicsTitle" : "LOGGING",
+  "pscCode" : "5520",
+  "pscTitle" : "MILLWORK"
+}, {
+  "naicsCode" : "114111",
+  "naicsTitle" : "FINFISH FISHING",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "114112",
+  "naicsTitle" : "SHELLFISH FISHING",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "114119",
+  "naicsTitle" : "OTHER MARINE FISHING",
+  "pscCode" : "2060",
+  "pscTitle" : "COMMERCIAL FISHING EQUIPMENT"
+}, {
+  "naicsCode" : "114210",
+  "naicsTitle" : "HUNTING AND TRAPPING",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "115111",
+  "naicsTitle" : "COTTON GINNING",
+  "pscCode" : "3720",
+  "pscTitle" : "HARVESTING EQUIPMENT"
+}, {
+  "naicsCode" : "115112",
+  "naicsTitle" : "SOIL PREPARATION, PLANTING, AND CULTIVATING",
+  "pscCode" : "8720",
+  "pscTitle" : "FERTILIZERS"
+}, {
+  "naicsCode" : "115113",
+  "naicsTitle" : "CROP HARVESTING, PRIMARILY BY MACHINE",
+  "pscCode" : "3720",
+  "pscTitle" : "HARVESTING EQUIPMENT"
+}, {
+  "naicsCode" : "115114",
+  "naicsTitle" : "POSTHARVEST CROP ACTIVITIES (EXCEPT COTTON GINNING)",
+  "pscCode" : "3720",
+  "pscTitle" : "HARVESTING EQUIPMENT"
+}, {
+  "naicsCode" : "115115",
+  "naicsTitle" : "FARM LABOR CONTRACTORS AND CREW LEADERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "115116",
+  "naicsTitle" : "FARM MANAGEMENT SERVICES",
+  "pscCode" : "J087",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- AGRICULTURAL SUPPLIES"
+}, {
+  "naicsCode" : "115210",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+  "pscCode" : "J088",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- LIVE ANIMALS"
+}, {
+  "naicsCode" : "115310",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR FORESTRY",
+  "pscCode" : "F004",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- FOREST/RANGE FIRE REHABILITATION (NON-CONSTRUCTION)"
+}, {
+  "naicsCode" : "211111",
+  "naicsTitle" : "CRUDE PETROLEUM AND NATURAL GAS EXTRACTION",
+  "pscCode" : "9130",
+  "pscTitle" : "LIQUID PROPELLANTS AND FUELS, PETROLEUM BASE"
+}, {
+  "naicsCode" : "211112",
+  "naicsTitle" : "NATURAL GAS LIQUID EXTRACTION",
+  "pscCode" : "6830",
+  "pscTitle" : "GASES: COMPRESSED AND LIQUEFIED"
+}, {
+  "naicsCode" : "212111",
+  "naicsTitle" : "BITUMINOUS COAL AND LIGNITE SURFACE MINING",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "212112",
+  "naicsTitle" : "BITUMINOUS COAL UNDERGROUND MINING",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "212113",
+  "naicsTitle" : "ANTHRACITE MINING",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "212210",
+  "naicsTitle" : "IRON ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212221",
+  "naicsTitle" : "GOLD ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212222",
+  "naicsTitle" : "SILVER ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212231",
+  "naicsTitle" : "LEAD ORE AND ZINC ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212234",
+  "naicsTitle" : "COPPER ORE AND NICKEL ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212291",
+  "naicsTitle" : "URANIUM-RADIUM-VANADIUM ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212299",
+  "naicsTitle" : "ALL OTHER METAL ORE MINING",
+  "pscCode" : "9610",
+  "pscTitle" : "ORES"
+}, {
+  "naicsCode" : "212311",
+  "naicsTitle" : "DIMENSION STONE MINING AND QUARRYING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212312",
+  "naicsTitle" : "CRUSHED AND BROKEN LIMESTONE MINING AND QUARRYING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212313",
+  "naicsTitle" : "CRUSHED AND BROKEN GRANITE MINING AND QUARRYING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212319",
+  "naicsTitle" : "OTHER CRUSHED AND BROKEN STONE MINING AND QUARRYING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212321",
+  "naicsTitle" : "CONSTRUCTION SAND AND GRAVEL MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212322",
+  "naicsTitle" : "INDUSTRIAL SAND MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212324",
+  "naicsTitle" : "KAOLIN AND BALL CLAY MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212325",
+  "naicsTitle" : "CLAY AND CERAMIC AND REFRACTORY MINERALS MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212391",
+  "naicsTitle" : "POTASH, SODA, AND BORATE MINERAL MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212392",
+  "naicsTitle" : "PHOSPHATE ROCK MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212393",
+  "naicsTitle" : "OTHER CHEMICAL AND FERTILIZER MINERAL MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "212399",
+  "naicsTitle" : "ALL OTHER NONMETALLIC MINERAL MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "213111",
+  "naicsTitle" : "DRILLING OIL AND GAS WELLS",
+  "pscCode" : "F015",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- WELL DRILLING/EXPLORATORY"
+}, {
+  "naicsCode" : "213112",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR OIL AND GAS OPERATIONS",
+  "pscCode" : "L091",
+  "pscTitle" : "TECHNICAL REPRESENTATIVE- FUELS, LUBRICANTS, OILS, AND WAXES"
+}, {
+  "naicsCode" : "213113",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR COAL MINING",
+  "pscCode" : "F011",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- SURFACE MINING RECLAMATION (NON-CONSTRUCTION)"
+}, {
+  "naicsCode" : "213114",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR METAL MINING",
+  "pscCode" : "F011",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- SURFACE MINING RECLAMATION (NON-CONSTRUCTION)"
+}, {
+  "naicsCode" : "213115",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR NONMETALLIC MINERALS (EXCEPT FUELS) MINING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "221111",
+  "naicsTitle" : "HYDROELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221112",
+  "naicsTitle" : "FOSSIL FUEL ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221113",
+  "naicsTitle" : "NUCLEAR ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221114",
+  "naicsTitle" : "SOLAR ELECTRIC POWER GENERATION",
+  "pscCode" : "M1MG",
+  "pscTitle" : "OPERATION OF EPG FACILITIES - SOLAR"
+}, {
+  "naicsCode" : "221115",
+  "naicsTitle" : "WIND ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221116",
+  "naicsTitle" : "GEOTHERMAL ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221117",
+  "naicsTitle" : "BIOMASS ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221118",
+  "naicsTitle" : "OTHER ELECTRIC POWER GENERATION",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "221121",
+  "naicsTitle" : "ELECTRIC BULK POWER TRANSMISSION AND CONTROL",
+  "pscCode" : "M1MZ",
+  "pscTitle" : "OPERATION OF EPG FACILITIES - OTHER, INCLUDING TRANSMISSION"
+}, {
+  "naicsCode" : "221122",
+  "naicsTitle" : "ELECTRIC POWER DISTRIBUTION",
+  "pscCode" : "M1MZ",
+  "pscTitle" : "OPERATION OF EPG FACILITIES - OTHER, INCLUDING TRANSMISSION"
+}, {
+  "naicsCode" : "221210",
+  "naicsTitle" : "NATURAL GAS DISTRIBUTION",
+  "pscCode" : "S111",
+  "pscTitle" : "UTILITIES- GAS"
+}, {
+  "naicsCode" : "221310",
+  "naicsTitle" : "WATER SUPPLY AND IRRIGATION SYSTEMS",
+  "pscCode" : "S114",
+  "pscTitle" : "UTILITIES- WATER"
+}, {
+  "naicsCode" : "221320",
+  "naicsTitle" : "SEWAGE TREATMENT FACILITIES",
+  "pscCode" : "M1ND",
+  "pscTitle" : "OPERATION OF SEWAGE AND WASTE FACILITIES"
+}, {
+  "naicsCode" : "221330",
+  "naicsTitle" : "STEAM AND AIR-CONDITIONING SUPPLY",
+  "pscCode" : "E1NB",
+  "pscTitle" : "PURCHASE OF HEATING AND COOLING PLANTS"
+}, {
+  "naicsCode" : "236115",
+  "naicsTitle" : "NEW SINGLE-FAMILY HOUSING CONSTRUCTION (EXCEPT FOR-SALE BUILDERS)",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "236116",
+  "naicsTitle" : "NEW MULTIFAMILY HOUSING CONSTRUCTION (EXCEPT FOR-SALE BUILDERS)",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "236117",
+  "naicsTitle" : "NEW HOUSING FOR-SALE BUILDERS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "236118",
+  "naicsTitle" : "RESIDENTIAL REMODELERS",
+  "pscCode" : "Z169",
+  "pscTitle" : "MAINT-REP-ALT/OTHER RESIDENTIAL BLD"
+}, {
+  "naicsCode" : "236210",
+  "naicsTitle" : "INDUSTRIAL BUILDING CONSTRUCTION",
+  "pscCode" : "Y1EC",
+  "pscTitle" : "CONSTRUCTION OF PRODUCTION BUILDINGS"
+}, {
+  "naicsCode" : "236220",
+  "naicsTitle" : "COMMERCIAL AND INSTITUTIONAL BUILDING CONSTRUCTION",
+  "pscCode" : "Y1AZ",
+  "pscTitle" : "CONSTRUCTION OF OTHER ADMINISTRATIVE FACILITIES AND SERVICE BUILDINGS"
+}, {
+  "naicsCode" : "237110",
+  "naicsTitle" : "WATER AND SEWER LINE AND RELATED STRUCTURES CONSTRUCTION",
+  "pscCode" : "Y1ND",
+  "pscTitle" : "CONSTRUCTION OF SEWAGE AND WASTE FACILITIES"
+}, {
+  "naicsCode" : "237120",
+  "naicsTitle" : "OIL AND GAS PIPELINE AND RELATED STRUCTURES CONSTRUCTION",
+  "pscCode" : "Y241",
+  "pscTitle" : "CONSTRUCT/FUEL SUPPLY"
+}, {
+  "naicsCode" : "237130",
+  "naicsTitle" : "POWER AND COMMUNICATION LINE AND RELATED STRUCTURES CONSTRUCTION",
+  "pscCode" : "Y1MZ",
+  "pscTitle" : "CONSTRUCTION OF EPG FACILITIES - OTHER, INCLUDING TRANSMISSION"
+}, {
+  "naicsCode" : "237210",
+  "naicsTitle" : "LAND SUBDIVISION",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "237310",
+  "naicsTitle" : "HIGHWAY, STREET, AND BRIDGE CONSTRUCTION",
+  "pscCode" : "Y222",
+  "pscTitle" : "CONSTRUCT/HIGHWAYS-RDS-STS-BRDGS-RA"
+}, {
+  "naicsCode" : "237990",
+  "naicsTitle" : "OTHER HEAVY AND CIVIL ENGINEERING CONSTRUCTION",
+  "pscCode" : "Y299",
+  "pscTitle" : "CONTRUCT/ALL OTHER NON-BLDG FACS"
+}, {
+  "naicsCode" : "238110",
+  "naicsTitle" : "POURED CONCRETE FOUNDATION AND STRUCTURE CONTRACTORS",
+  "pscCode" : "5440",
+  "pscTitle" : "SCAFFOLDING EQUIPMENT AND CONCRETE FORMS"
+}, {
+  "naicsCode" : "238120",
+  "naicsTitle" : "STRUCTURAL STEEL AND PRECAST CONCRETE CONTRACTORS",
+  "pscCode" : "9520",
+  "pscTitle" : "STRUCTURAL SHAPES"
+}, {
+  "naicsCode" : "238130",
+  "naicsTitle" : "FRAMING CONTRACTORS",
+  "pscCode" : "N055",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- LUMBER, MILLWORK, PLYWOOD, AND VENEER"
+}, {
+  "naicsCode" : "238140",
+  "naicsTitle" : "MASONRY CONTRACTORS",
+  "pscCode" : "5440",
+  "pscTitle" : "SCAFFOLDING EQUIPMENT AND CONCRETE FORMS"
+}, {
+  "naicsCode" : "238150",
+  "naicsTitle" : "GLASS AND GLAZING CONTRACTORS",
+  "pscCode" : "9340",
+  "pscTitle" : "GLASS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "238160",
+  "naicsTitle" : "ROOFING CONTRACTORS",
+  "pscCode" : "5650",
+  "pscTitle" : "ROOFING AND SIDING MATERIALS"
+}, {
+  "naicsCode" : "238170",
+  "naicsTitle" : "SIDING CONTRACTORS",
+  "pscCode" : "5650",
+  "pscTitle" : "ROOFING AND SIDING MATERIALS"
+}, {
+  "naicsCode" : "238190",
+  "naicsTitle" : "OTHER FOUNDATION, STRUCTURE, AND BUILDING EXTERIOR CONTRACTORS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "238210",
+  "naicsTitle" : "ELECTRICAL CONTRACTORS AND OTHER WIRING INSTALLATION CONTRACTORS",
+  "pscCode" : "N059",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "238220",
+  "naicsTitle" : "PLUMBING, HEATING, AND AIR-CONDITIONING CONTRACTORS",
+  "pscCode" : "N072",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES"
+}, {
+  "naicsCode" : "238290",
+  "naicsTitle" : "OTHER BUILDING EQUIPMENT CONTRACTORS",
+  "pscCode" : "N058",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- COMMUNICATION, DETECTION, AND COHERENT RADIATION EQUIPMENT"
+}, {
+  "naicsCode" : "238310",
+  "naicsTitle" : "DRYWALL AND INSULATION CONTRACTORS",
+  "pscCode" : "5640",
+  "pscTitle" : "WALLBOARD, BUILDING PAPER, AND THERMAL INSULATION MATERIALS"
+}, {
+  "naicsCode" : "238320",
+  "naicsTitle" : "PAINTING AND WALL COVERING CONTRACTORS",
+  "pscCode" : "T001",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- ARTS/GRAPHICS"
+}, {
+  "naicsCode" : "238330",
+  "naicsTitle" : "FLOORING CONTRACTORS",
+  "pscCode" : "7220",
+  "pscTitle" : "FLOOR COVERINGS"
+}, {
+  "naicsCode" : "238340",
+  "naicsTitle" : "TILE AND TERRAZZO CONTRACTORS",
+  "pscCode" : "5620",
+  "pscTitle" : "TILE, BRICK AND BLOCK"
+}, {
+  "naicsCode" : "238350",
+  "naicsTitle" : "FINISH CARPENTRY CONTRACTORS",
+  "pscCode" : "N072",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES"
+}, {
+  "naicsCode" : "238390",
+  "naicsTitle" : "OTHER BUILDING FINISHING CONTRACTORS",
+  "pscCode" : "N072",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES"
+}, {
+  "naicsCode" : "238910",
+  "naicsTitle" : "SITE PREPARATION CONTRACTORS",
+  "pscCode" : "W038",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- CONSTRUCTION, MINING, EXCAVATING, AND HIGHWAY MAINTENANCE EQUIPMENT"
+}, {
+  "naicsCode" : "238990",
+  "naicsTitle" : "ALL OTHER SPECIALTY TRADE CONTRACTORS",
+  "pscCode" : "W036",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- SPECIAL INDUSTRY MACHINERY"
+}, {
+  "naicsCode" : "311111",
+  "naicsTitle" : "DOG AND CAT FOOD MANUFACTURING",
+  "pscCode" : "8970",
+  "pscTitle" : "COMPOSITE FOOD PACKAGES"
+}, {
+  "naicsCode" : "311119",
+  "naicsTitle" : "OTHER ANIMAL FOOD MANUFACTURING",
+  "pscCode" : "8970",
+  "pscTitle" : "COMPOSITE FOOD PACKAGES"
+}, {
+  "naicsCode" : "311211",
+  "naicsTitle" : "FLOUR MILLING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311212",
+  "naicsTitle" : "RICE MILLING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311213",
+  "naicsTitle" : "MALT MANUFACTURING",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "311221",
+  "naicsTitle" : "WET CORN MILLING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311224",
+  "naicsTitle" : "SOYBEAN AND OTHER OILSEED PROCESSING",
+  "pscCode" : "8945",
+  "pscTitle" : "FOOD, OILS AND FATS"
+}, {
+  "naicsCode" : "311225",
+  "naicsTitle" : "FATS AND OILS REFINING AND BLENDING",
+  "pscCode" : "8945",
+  "pscTitle" : "FOOD, OILS AND FATS"
+}, {
+  "naicsCode" : "311230",
+  "naicsTitle" : "BREAKFAST CEREAL MANUFACTURING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311313",
+  "naicsTitle" : "BEET SUGAR MANUFACTURING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "311314",
+  "naicsTitle" : "CANE SUGAR MANUFACTURING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "311340",
+  "naicsTitle" : "NONCHOCOLATE CONFECTIONERY MANUFACTURING",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "311351",
+  "naicsTitle" : "CHOCOLATE AND CONFECTIONERY MANUFACTURING FROM CACAO BEANS",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "311352",
+  "naicsTitle" : "CONFECTIONERY MANUFACTURING FROM PURCHASED CHOCOLATE",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "311411",
+  "naicsTitle" : "FROZEN FRUIT, JUICE, AND VEGETABLE MANUFACTURING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "311412",
+  "naicsTitle" : "FROZEN SPECIALTY FOOD MANUFACTURING",
+  "pscCode" : "8940",
+  "pscTitle" : "SPECIAL DIETARY FOODS AND FOOD SPECIALTY PREPARATIONS"
+}, {
+  "naicsCode" : "311421",
+  "naicsTitle" : "FRUIT AND VEGETABLE CANNING",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "311422",
+  "naicsTitle" : "SPECIALTY CANNING",
+  "pscCode" : "8940",
+  "pscTitle" : "SPECIAL DIETARY FOODS AND FOOD SPECIALTY PREPARATIONS"
+}, {
+  "naicsCode" : "311423",
+  "naicsTitle" : "DRIED AND DEHYDRATED FOOD MANUFACTURING",
+  "pscCode" : "8970",
+  "pscTitle" : "COMPOSITE FOOD PACKAGES"
+}, {
+  "naicsCode" : "311511",
+  "naicsTitle" : "FLUID MILK MANUFACTURING",
+  "pscCode" : "8950",
+  "pscTitle" : "CONDIMENTS AND RELATED PRODUCTS"
+}, {
+  "naicsCode" : "311512",
+  "naicsTitle" : "CREAMERY BUTTER MANUFACTURING",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "311513",
+  "naicsTitle" : "CHEESE MANUFACTURING",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "311514",
+  "naicsTitle" : "DRY, CONDENSED, AND EVAPORATED DAIRY PRODUCT MANUFACTURING",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "311520",
+  "naicsTitle" : "ICE CREAM AND FROZEN DESSERT MANUFACTURING",
+  "pscCode" : "8910",
+  "pscTitle" : "DAIRY FOODS AND EGGS"
+}, {
+  "naicsCode" : "311611",
+  "naicsTitle" : "ANIMAL (EXCEPT POULTRY) SLAUGHTERING",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "311612",
+  "naicsTitle" : "MEAT PROCESSED FROM CARCASSES",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "311613",
+  "naicsTitle" : "RENDERING AND MEAT BYPRODUCT PROCESSING",
+  "pscCode" : "8945",
+  "pscTitle" : "FOOD, OILS AND FATS"
+}, {
+  "naicsCode" : "311615",
+  "naicsTitle" : "POULTRY PROCESSING",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "311710",
+  "naicsTitle" : "SEAFOOD PRODUCT PREPARATION AND PACKAGING",
+  "pscCode" : "8945",
+  "pscTitle" : "FOOD, OILS AND FATS"
+}, {
+  "naicsCode" : "311811",
+  "naicsTitle" : "RETAIL BAKERIES",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311812",
+  "naicsTitle" : "COMMERCIAL BAKERIES",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311813",
+  "naicsTitle" : "FROZEN CAKES, PIES, AND OTHER PASTRIES MANUFACTURING",
+  "pscCode" : "8940",
+  "pscTitle" : "SPECIAL DIETARY FOODS AND FOOD SPECIALTY PREPARATIONS"
+}, {
+  "naicsCode" : "311821",
+  "naicsTitle" : "COOKIE AND CRACKER MANUFACTURING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311824",
+  "naicsTitle" : "DRY PASTA, DOUGH, AND FLOUR MIXES MANUFACTURING FROM PURCHASED FLOUR",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311830",
+  "naicsTitle" : "TORTILLA MANUFACTURING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311911",
+  "naicsTitle" : "ROASTED NUTS AND PEANUT BUTTER MANUFACTURING",
+  "pscCode" : "8925",
+  "pscTitle" : "SUGAR, CONFECTIONERY, AND NUTS"
+}, {
+  "naicsCode" : "311919",
+  "naicsTitle" : "OTHER SNACK FOOD MANUFACTURING",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "311920",
+  "naicsTitle" : "COFFEE AND TEA MANUFACTURING",
+  "pscCode" : "8955",
+  "pscTitle" : "COFFEE, TEA, AND COCOA"
+}, {
+  "naicsCode" : "311930",
+  "naicsTitle" : "FLAVORING SYRUP AND CONCENTRATE MANUFACTURING",
+  "pscCode" : "8950",
+  "pscTitle" : "CONDIMENTS AND RELATED PRODUCTS"
+}, {
+  "naicsCode" : "311941",
+  "naicsTitle" : "MAYONNAISE, DRESSING, AND OTHER PREPARED SAUCE MANUFACTURING",
+  "pscCode" : "8950",
+  "pscTitle" : "CONDIMENTS AND RELATED PRODUCTS"
+}, {
+  "naicsCode" : "311942",
+  "naicsTitle" : "SPICE AND EXTRACT MANUFACTURING",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "311991",
+  "naicsTitle" : "PERISHABLE PREPARED FOOD MANUFACTURING",
+  "pscCode" : "8950",
+  "pscTitle" : "CONDIMENTS AND RELATED PRODUCTS"
+}, {
+  "naicsCode" : "311999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS FOOD MANUFACTURING",
+  "pscCode" : "8970",
+  "pscTitle" : "COMPOSITE FOOD PACKAGES"
+}, {
+  "naicsCode" : "312111",
+  "naicsTitle" : "SOFT DRINK MANUFACTURING",
+  "pscCode" : "8960",
+  "pscTitle" : "BEVERAGES, NONALCOHOLIC"
+}, {
+  "naicsCode" : "312112",
+  "naicsTitle" : "BOTTLED WATER MANUFACTURING",
+  "pscCode" : "8960",
+  "pscTitle" : "BEVERAGES, NONALCOHOLIC"
+}, {
+  "naicsCode" : "312113",
+  "naicsTitle" : "ICE MANUFACTURING",
+  "pscCode" : "8940",
+  "pscTitle" : "SPECIAL DIETARY FOODS AND FOOD SPECIALTY PREPARATIONS"
+}, {
+  "naicsCode" : "312120",
+  "naicsTitle" : "BREWERIES",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "312130",
+  "naicsTitle" : "WINERIES",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "312140",
+  "naicsTitle" : "DISTILLERIES",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "312230",
+  "naicsTitle" : "TOBACCO MANUFACTURING",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "313110",
+  "naicsTitle" : "FIBER, YARN, AND THREAD MILLS",
+  "pscCode" : "8105",
+  "pscTitle" : "BAGS AND SACKS"
+}, {
+  "naicsCode" : "313210",
+  "naicsTitle" : "BROADWOVEN FABRIC MILLS",
+  "pscCode" : "5520",
+  "pscTitle" : "MILLWORK"
+}, {
+  "naicsCode" : "313220",
+  "naicsTitle" : "NARROW FABRIC MILLS AND SCHIFFLI MACHINE EMBROIDERY",
+  "pscCode" : "T001",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- ARTS/GRAPHICS"
+}, {
+  "naicsCode" : "313230",
+  "naicsTitle" : "NONWOVEN FABRIC MILLS",
+  "pscCode" : "8305",
+  "pscTitle" : "TEXTILE FABRICS"
+}, {
+  "naicsCode" : "313240",
+  "naicsTitle" : "KNIT FABRIC MILLS",
+  "pscCode" : "5520",
+  "pscTitle" : "MILLWORK"
+}, {
+  "naicsCode" : "313310",
+  "naicsTitle" : "TEXTILE AND FABRIC FINISHING MILLS",
+  "pscCode" : "J083",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- TEXTILES, LEATHER, FURS, APPAREL/SHOE FINDINGS, TENTS/FLAGS"
+}, {
+  "naicsCode" : "313320",
+  "naicsTitle" : "FABRIC COATING MILLS",
+  "pscCode" : "8305",
+  "pscTitle" : "TEXTILE FABRICS"
+}, {
+  "naicsCode" : "314110",
+  "naicsTitle" : "CARPET AND RUG MILLS",
+  "pscCode" : "S214",
+  "pscTitle" : "HOUSEKEEPING- CARPET LAYING/CLEANING"
+}, {
+  "naicsCode" : "314120",
+  "naicsTitle" : "CURTAIN AND LINEN MILLS",
+  "pscCode" : "7230",
+  "pscTitle" : "DRAPERIES, AWNINGS, AND SHADES"
+}, {
+  "naicsCode" : "314910",
+  "naicsTitle" : "TEXTILE BAG AND CANVAS MILLS",
+  "pscCode" : "8105",
+  "pscTitle" : "BAGS AND SACKS"
+}, {
+  "naicsCode" : "314994",
+  "naicsTitle" : "ROPE, CORDAGE, TWINE, TIRE CORD, AND TIRE FABRIC MILLS",
+  "pscCode" : "4010",
+  "pscTitle" : "CHAIN AND WIRE ROPE"
+}, {
+  "naicsCode" : "314999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS TEXTILE PRODUCT MILLS",
+  "pscCode" : "1080",
+  "pscTitle" : "CAMOUFLAGE AND DECEPTION EQUIPMENT"
+}, {
+  "naicsCode" : "315110",
+  "naicsTitle" : "HOSIERY AND SOCK MILLS",
+  "pscCode" : "8440",
+  "pscTitle" : "HOSIERY, HANDWEAR, AND CLOTHING ACCESSORIES, MEN'S"
+}, {
+  "naicsCode" : "315190",
+  "naicsTitle" : "OTHER APPAREL KNITTING MILLS",
+  "pscCode" : "8440",
+  "pscTitle" : "HOSIERY, HANDWEAR, AND CLOTHING ACCESSORIES, MEN'S"
+}, {
+  "naicsCode" : "315210",
+  "naicsTitle" : "CUT AND SEW APPAREL CONTRACTORS",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "315220",
+  "naicsTitle" : "MEN’S AND BOYS’ CUT AND SEW APPAREL MANUFACTURING",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "315240",
+  "naicsTitle" : "WOMEN’S, GIRLS’, AND INFANTS’ CUT AND SEW APPAREL MANUFACTURING",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "315280",
+  "naicsTitle" : "OTHER CUT AND SEW APPAREL MANUFACTURING",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "315990",
+  "naicsTitle" : "APPAREL ACCESSORIES AND OTHER APPAREL MANUFACTURING",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "316110",
+  "naicsTitle" : "LEATHER AND HIDE TANNING AND FINISHING",
+  "pscCode" : "8325",
+  "pscTitle" : "FUR MATERIALS"
+}, {
+  "naicsCode" : "316210",
+  "naicsTitle" : "FOOTWEAR MANUFACTURING",
+  "pscCode" : "8430",
+  "pscTitle" : "FOOTWEAR, MEN'S"
+}, {
+  "naicsCode" : "316992",
+  "naicsTitle" : "WOMEN'S HANDBAG AND PURSE MANUFACTURING",
+  "pscCode" : "8315",
+  "pscTitle" : "NOTIONS AND APPAREL FINDINGS"
+}, {
+  "naicsCode" : "316998",
+  "naicsTitle" : "ALL OTHER LEATHER GOOD AND ALLIED PRODUCT MANUFACTURING",
+  "pscCode" : "8330",
+  "pscTitle" : "LEATHER"
+}, {
+  "naicsCode" : "321113",
+  "naicsTitle" : "SAWMILLS",
+  "pscCode" : "3210",
+  "pscTitle" : "SAWMILL AND PLANING MILL MACHINERY"
+}, {
+  "naicsCode" : "321114",
+  "naicsTitle" : "WOOD PRESERVATION",
+  "pscCode" : "8030",
+  "pscTitle" : "PRESERVATIVE AND SEALING COMPOUNDS"
+}, {
+  "naicsCode" : "321211",
+  "naicsTitle" : "HARDWOOD VENEER AND PLYWOOD MANUFACTURING",
+  "pscCode" : "5530",
+  "pscTitle" : "PLYWOOD AND VENEER"
+}, {
+  "naicsCode" : "321212",
+  "naicsTitle" : "SOFTWOOD VENEER AND PLYWOOD MANUFACTURING",
+  "pscCode" : "5530",
+  "pscTitle" : "PLYWOOD AND VENEER"
+}, {
+  "naicsCode" : "321213",
+  "naicsTitle" : "ENGINEERED WOOD MEMBER (EXCEPT TRUSS) MANUFACTURING",
+  "pscCode" : "5450",
+  "pscTitle" : "MISCELLANEOUS PREFABRICATED STRUCTURES"
+}, {
+  "naicsCode" : "321214",
+  "naicsTitle" : "TRUSS MANUFACTURING",
+  "pscCode" : "5450",
+  "pscTitle" : "MISCELLANEOUS PREFABRICATED STRUCTURES"
+}, {
+  "naicsCode" : "321219",
+  "naicsTitle" : "RECONSTITUTED WOOD PRODUCT MANUFACTURING",
+  "pscCode" : "5680",
+  "pscTitle" : "MISCELLANEOUS CONSTRUCTION MATERIALS"
+}, {
+  "naicsCode" : "321911",
+  "naicsTitle" : "WOOD WINDOW AND DOOR MANUFACTURING",
+  "pscCode" : "5520",
+  "pscTitle" : "MILLWORK"
+}, {
+  "naicsCode" : "321912",
+  "naicsTitle" : "CUT STOCK, RESAWING LUMBER, AND PLANING",
+  "pscCode" : "5510",
+  "pscTitle" : "LUMBER AND RELATED BASIC WOOD MATERIALS"
+}, {
+  "naicsCode" : "321918",
+  "naicsTitle" : "OTHER MILLWORK (INCLUDING FLOORING)",
+  "pscCode" : "3417",
+  "pscTitle" : "MILLING MACHINES"
+}, {
+  "naicsCode" : "321920",
+  "naicsTitle" : "WOOD CONTAINER AND PALLET MANUFACTURING",
+  "pscCode" : "8115",
+  "pscTitle" : "BOXES, CARTONS, AND CRATES"
+}, {
+  "naicsCode" : "321991",
+  "naicsTitle" : "MANUFACTURED HOME (MOBILE HOME) MANUFACTURING",
+  "pscCode" : "2330",
+  "pscTitle" : "TRAILERS"
+}, {
+  "naicsCode" : "321992",
+  "naicsTitle" : "PREFABRICATED WOOD BUILDING MANUFACTURING",
+  "pscCode" : "5670",
+  "pscTitle" : "BUILDING COMPONENTS, PREFABRICATED"
+}, {
+  "naicsCode" : "321999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS WOOD PRODUCT MANUFACTURING",
+  "pscCode" : "7125",
+  "pscTitle" : "CABINETS, LOCKERS, BINS, AND SHELVING"
+}, {
+  "naicsCode" : "322110",
+  "naicsTitle" : "PULP MILLS",
+  "pscCode" : "3615",
+  "pscTitle" : "PULP AND PAPER INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "322121",
+  "naicsTitle" : "PAPER (EXCEPT NEWSPRINT) MILLS",
+  "pscCode" : "3615",
+  "pscTitle" : "PULP AND PAPER INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "322122",
+  "naicsTitle" : "NEWSPRINT MILLS",
+  "pscCode" : "3615",
+  "pscTitle" : "PULP AND PAPER INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "322130",
+  "naicsTitle" : "PAPERBOARD MILLS",
+  "pscCode" : "3615",
+  "pscTitle" : "PULP AND PAPER INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "322211",
+  "naicsTitle" : "CORRUGATED AND SOLID FIBER BOX MANUFACTURING",
+  "pscCode" : "8115",
+  "pscTitle" : "BOXES, CARTONS, AND CRATES"
+}, {
+  "naicsCode" : "322212",
+  "naicsTitle" : "FOLDING PAPERBOARD BOX MANUFACTURING",
+  "pscCode" : "8115",
+  "pscTitle" : "BOXES, CARTONS, AND CRATES"
+}, {
+  "naicsCode" : "322219",
+  "naicsTitle" : "OTHER PAPERBOARD CONTAINER MANUFACTURING",
+  "pscCode" : "8110",
+  "pscTitle" : "DRUMS AND CANS"
+}, {
+  "naicsCode" : "322220",
+  "naicsTitle" : "PAPER BAG AND COATED AND TREATED PAPER MANUFACTURING",
+  "pscCode" : "8105",
+  "pscTitle" : "BAGS AND SACKS"
+}, {
+  "naicsCode" : "322230",
+  "naicsTitle" : "STATIONERY PRODUCT MANUFACTURING",
+  "pscCode" : "7510",
+  "pscTitle" : "OFFICE SUPPLIES"
+}, {
+  "naicsCode" : "322291",
+  "naicsTitle" : "SANITARY PAPER PRODUCT MANUFACTURING",
+  "pscCode" : "6510",
+  "pscTitle" : "SURGICAL DRESSING MATERIALS"
+}, {
+  "naicsCode" : "322299",
+  "naicsTitle" : "ALL OTHER CONVERTED PAPER PRODUCT MANUFACTURING",
+  "pscCode" : "9310",
+  "pscTitle" : "PAPER AND PAPERBOARD"
+}, {
+  "naicsCode" : "323111",
+  "naicsTitle" : "COMMERCIAL PRINTING (EXCEPT SCREEN AND BOOKS)",
+  "pscCode" : "7610",
+  "pscTitle" : "BOOKS AND PAMPHLETS"
+}, {
+  "naicsCode" : "323113",
+  "naicsTitle" : "COMMERCIAL SCREEN PRINTING",
+  "pscCode" : "T001",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- ARTS/GRAPHICS"
+}, {
+  "naicsCode" : "323117",
+  "naicsTitle" : "BOOKS PRINTING",
+  "pscCode" : "7610",
+  "pscTitle" : "BOOKS AND PAMPHLETS"
+}, {
+  "naicsCode" : "323120",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR PRINTING",
+  "pscCode" : "T011",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- PRINT/BINDING"
+}, {
+  "naicsCode" : "324110",
+  "naicsTitle" : "PETROLEUM REFINERIES",
+  "pscCode" : "9140",
+  "pscTitle" : "FUEL OILS"
+}, {
+  "naicsCode" : "324121",
+  "naicsTitle" : "ASPHALT PAVING MIXTURE AND BLOCK MANUFACTURING",
+  "pscCode" : "5440",
+  "pscTitle" : "SCAFFOLDING EQUIPMENT AND CONCRETE FORMS"
+}, {
+  "naicsCode" : "324122",
+  "naicsTitle" : "ASPHALT SHINGLE AND COATING MATERIALS MANUFACTURING",
+  "pscCode" : "5680",
+  "pscTitle" : "MISCELLANEOUS CONSTRUCTION MATERIALS"
+}, {
+  "naicsCode" : "324191",
+  "naicsTitle" : "PETROLEUM LUBRICATING OIL AND GREASE MANUFACTURING",
+  "pscCode" : "9150",
+  "pscTitle" : "OILS AND GREASES: CUTTING, LUBRICATING, AND HYDRAULIC"
+}, {
+  "naicsCode" : "324199",
+  "naicsTitle" : "ALL OTHER PETROLEUM AND COAL PRODUCTS MANUFACTURING",
+  "pscCode" : "9110",
+  "pscTitle" : "FUELS, SOLID"
+}, {
+  "naicsCode" : "325110",
+  "naicsTitle" : "PETROCHEMICAL MANUFACTURING",
+  "pscCode" : "6850",
+  "pscTitle" : "MISCELLANEOUS CHEMICAL SPECIALTIES"
+}, {
+  "naicsCode" : "325120",
+  "naicsTitle" : "INDUSTRIAL GAS MANUFACTURING",
+  "pscCode" : "6830",
+  "pscTitle" : "GASES: COMPRESSED AND LIQUEFIED"
+}, {
+  "naicsCode" : "325130",
+  "naicsTitle" : "SYNTHETIC DYE AND PIGMENT MANUFACTURING",
+  "pscCode" : "6820",
+  "pscTitle" : "DYES"
+}, {
+  "naicsCode" : "325180",
+  "naicsTitle" : "OTHER BASIC INORGANIC CHEMICAL MANUFACTURING",
+  "pscCode" : "6810",
+  "pscTitle" : "CHEMICALS"
+}, {
+  "naicsCode" : "325193",
+  "naicsTitle" : "ETHYL ALCOHOL MANUFACTURING",
+  "pscCode" : "6850",
+  "pscTitle" : "MISCELLANEOUS CHEMICAL SPECIALTIES"
+}, {
+  "naicsCode" : "325194",
+  "naicsTitle" : "CYCLIC CRUDE, INTERMEDIATE, AND GUM AND WOOD CHEMICAL MANUFACTURING",
+  "pscCode" : "9410",
+  "pscTitle" : "CRUDE GRADES OF PLANT MATERIALS"
+}, {
+  "naicsCode" : "325199",
+  "naicsTitle" : "ALL OTHER BASIC ORGANIC CHEMICAL MANUFACTURING",
+  "pscCode" : "6810",
+  "pscTitle" : "CHEMICALS"
+}, {
+  "naicsCode" : "325211",
+  "naicsTitle" : "PLASTICS MATERIAL AND RESIN MANUFACTURING",
+  "pscCode" : "9330",
+  "pscTitle" : "PLASTICS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "325212",
+  "naicsTitle" : "SYNTHETIC RUBBER MANUFACTURING",
+  "pscCode" : "9320",
+  "pscTitle" : "RUBBER FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "325220",
+  "naicsTitle" : "ARTIFICIAL AND SYNTHETIC FIBERS AND FILAMENTS MANUFACTURING",
+  "pscCode" : "9420",
+  "pscTitle" : "FIBERS:  VEGETABLE, ANIMAL, AND SYNTHETIC"
+}, {
+  "naicsCode" : "325311",
+  "naicsTitle" : "NITROGENOUS FERTILIZER MANUFACTURING",
+  "pscCode" : "8720",
+  "pscTitle" : "FERTILIZERS"
+}, {
+  "naicsCode" : "325312",
+  "naicsTitle" : "PHOSPHATIC FERTILIZER MANUFACTURING",
+  "pscCode" : "8720",
+  "pscTitle" : "FERTILIZERS"
+}, {
+  "naicsCode" : "325314",
+  "naicsTitle" : "FERTILIZER (MIXING ONLY) MANUFACTURING",
+  "pscCode" : "8720",
+  "pscTitle" : "FERTILIZERS"
+}, {
+  "naicsCode" : "325320",
+  "naicsTitle" : "PESTICIDE AND OTHER AGRICULTURAL CHEMICAL MANUFACTURING",
+  "pscCode" : "F105",
+  "pscTitle" : "ENVIRONMENTAL SYSTEMS PROTECTION- PESTICIDES SUPPORT"
+}, {
+  "naicsCode" : "325411",
+  "naicsTitle" : "MEDICINAL AND BOTANICAL MANUFACTURING",
+  "pscCode" : "6505",
+  "pscTitle" : "DRUGS AND BIOLOGICALS"
+}, {
+  "naicsCode" : "325412",
+  "naicsTitle" : "PHARMACEUTICAL PREPARATION MANUFACTURING",
+  "pscCode" : "6505",
+  "pscTitle" : "DRUGS AND BIOLOGICALS"
+}, {
+  "naicsCode" : "325413",
+  "naicsTitle" : "IN-VITRO DIAGNOSTIC SUBSTANCE MANUFACTURING",
+  "pscCode" : "6550",
+  "pscTitle" : "IN VITRO DIAGNOSTIC SUBSTANCES, REAGENTS, TEST KITS AND SETS"
+}, {
+  "naicsCode" : "325414",
+  "naicsTitle" : "BIOLOGICAL PRODUCT (EXCEPT DIAGNOSTIC) MANUFACTURING",
+  "pscCode" : "6505",
+  "pscTitle" : "DRUGS AND BIOLOGICALS"
+}, {
+  "naicsCode" : "325510",
+  "naicsTitle" : "PAINT AND COATING MANUFACTURING",
+  "pscCode" : "6850",
+  "pscTitle" : "MISCELLANEOUS CHEMICAL SPECIALTIES"
+}, {
+  "naicsCode" : "325520",
+  "naicsTitle" : "ADHESIVE MANUFACTURING",
+  "pscCode" : "8040",
+  "pscTitle" : "ADHESIVES"
+}, {
+  "naicsCode" : "325611",
+  "naicsTitle" : "SOAP AND OTHER DETERGENT MANUFACTURING",
+  "pscCode" : "8530",
+  "pscTitle" : "PERSONAL TOILETRY ARTICLES"
+}, {
+  "naicsCode" : "325612",
+  "naicsTitle" : "POLISH AND OTHER SANITATION GOOD MANUFACTURING",
+  "pscCode" : "7930",
+  "pscTitle" : "CLEANING AND POLISHING COMPOUNDS AND PREPARATIONS"
+}, {
+  "naicsCode" : "325613",
+  "naicsTitle" : "SURFACE ACTIVE AGENT MANUFACTURING",
+  "pscCode" : "6850",
+  "pscTitle" : "MISCELLANEOUS CHEMICAL SPECIALTIES"
+}, {
+  "naicsCode" : "325620",
+  "naicsTitle" : "TOILET PREPARATION MANUFACTURING",
+  "pscCode" : "8510",
+  "pscTitle" : "PERFUMES, TOILET PREPARATIONS, AND POWDERS"
+}, {
+  "naicsCode" : "325910",
+  "naicsTitle" : "PRINTING INK MANUFACTURING",
+  "pscCode" : "3610",
+  "pscTitle" : "PRINTING, DUPLICATING, AND BOOKBINDING EQUIPMENT"
+}, {
+  "naicsCode" : "325920",
+  "naicsTitle" : "EXPLOSIVES MANUFACTURING",
+  "pscCode" : "1325",
+  "pscTitle" : "BOMBS"
+}, {
+  "naicsCode" : "325991",
+  "naicsTitle" : "CUSTOM COMPOUNDING OF PURCHASED RESINS",
+  "pscCode" : "9390",
+  "pscTitle" : "MISCELLANEOUS FABRICATED NONMETALLIC MATERIALS"
+}, {
+  "naicsCode" : "325992",
+  "naicsTitle" : "PHOTOGRAPHIC FILM, PAPER, PLATE, AND CHEMICAL MANUFACTURING",
+  "pscCode" : "6770",
+  "pscTitle" : "FILM, PROCESSED"
+}, {
+  "naicsCode" : "325998",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS CHEMICAL PRODUCT AND PREPARATION MANUFACTURING",
+  "pscCode" : "5865",
+  "pscTitle" : "ELECTRONIC COUNTERMEASURES, COUNTER-COUNTERMEASURES AND QUICK REACTION CAPABILITY EQUIPMENT"
+}, {
+  "naicsCode" : "326111",
+  "naicsTitle" : "PLASTICS BAG AND POUCH MANUFACTURING",
+  "pscCode" : "8105",
+  "pscTitle" : "BAGS AND SACKS"
+}, {
+  "naicsCode" : "326112",
+  "naicsTitle" : "PLASTICS PACKAGING FILM AND SHEET (INCLUDING LAMINATED) MANUFACTURING",
+  "pscCode" : "8135",
+  "pscTitle" : "PACKAGING AND PACKING BULK MATERIALS"
+}, {
+  "naicsCode" : "326113",
+  "naicsTitle" : "UNLAMINATED PLASTICS FILM AND SHEET (EXCEPT PACKAGING) MANUFACTURING",
+  "pscCode" : "9330",
+  "pscTitle" : "PLASTICS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "326121",
+  "naicsTitle" : "UNLAMINATED PLASTICS PROFILE SHAPE MANUFACTURING",
+  "pscCode" : "9330",
+  "pscTitle" : "PLASTICS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "326122",
+  "naicsTitle" : "PLASTICS PIPE AND PIPE FITTING MANUFACTURING",
+  "pscCode" : "1080",
+  "pscTitle" : "CAMOUFLAGE AND DECEPTION EQUIPMENT"
+}, {
+  "naicsCode" : "326130",
+  "naicsTitle" : "LAMINATED PLASTICS PLATE, SHEET (EXCEPT PACKAGING), AND SHAPE MANUFACTURING",
+  "pscCode" : "9330",
+  "pscTitle" : "PLASTICS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "326140",
+  "naicsTitle" : "POLYSTYRENE FOAM PRODUCT MANUFACTURING",
+  "pscCode" : "9390",
+  "pscTitle" : "MISCELLANEOUS FABRICATED NONMETALLIC MATERIALS"
+}, {
+  "naicsCode" : "326150",
+  "naicsTitle" : "URETHANE AND OTHER FOAM PRODUCT (EXCEPT POLYSTYRENE) MANUFACTURING",
+  "pscCode" : "9390",
+  "pscTitle" : "MISCELLANEOUS FABRICATED NONMETALLIC MATERIALS"
+}, {
+  "naicsCode" : "326160",
+  "naicsTitle" : "PLASTICS BOTTLE MANUFACTURING",
+  "pscCode" : "8125",
+  "pscTitle" : "BOTTLES AND JARS"
+}, {
+  "naicsCode" : "326191",
+  "naicsTitle" : "PLASTICS PLUMBING FIXTURE MANUFACTURING",
+  "pscCode" : "4510",
+  "pscTitle" : "PLUMBING FIXTURES AND ACCESSORIES"
+}, {
+  "naicsCode" : "326199",
+  "naicsTitle" : "ALL OTHER PLASTICS PRODUCT MANUFACTURING",
+  "pscCode" : "7220",
+  "pscTitle" : "FLOOR COVERINGS"
+}, {
+  "naicsCode" : "326211",
+  "naicsTitle" : "TIRE MANUFACTURING (EXCEPT RETREADING)",
+  "pscCode" : "2640",
+  "pscTitle" : "TIRE REBUILDING AND TIRE AND TUBE REPAIR MATERIALS"
+}, {
+  "naicsCode" : "326212",
+  "naicsTitle" : "TIRE RETREADING",
+  "pscCode" : "J026",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- TIRES AND TUBES"
+}, {
+  "naicsCode" : "326220",
+  "naicsTitle" : "RUBBER AND PLASTICS HOSES AND BELTING MANUFACTURING",
+  "pscCode" : "4720",
+  "pscTitle" : "HOSE AND FLEXIBLE TUBING"
+}, {
+  "naicsCode" : "326291",
+  "naicsTitle" : "RUBBER PRODUCT MANUFACTURING FOR MECHANICAL USE",
+  "pscCode" : "9320",
+  "pscTitle" : "RUBBER FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "326299",
+  "naicsTitle" : "ALL OTHER RUBBER PRODUCT MANUFACTURING",
+  "pscCode" : "3030",
+  "pscTitle" : "BELTING, DRIVE BELTS, FAN BELTS, AND ACCESSORIES"
+}, {
+  "naicsCode" : "327110",
+  "naicsTitle" : "POTTERY, CERAMICS, AND PLUMBING FIXTURE MANUFACTURING",
+  "pscCode" : "3630",
+  "pscTitle" : "CLAY AND CONCRETE PRODUCTS INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "327120",
+  "naicsTitle" : "CLAY BUILDING MATERIAL AND REFRACTORIES MANUFACTURING",
+  "pscCode" : "3630",
+  "pscTitle" : "CLAY AND CONCRETE PRODUCTS INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "327211",
+  "naicsTitle" : "FLAT GLASS MANUFACTURING",
+  "pscCode" : "9340",
+  "pscTitle" : "GLASS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "327212",
+  "naicsTitle" : "OTHER PRESSED AND BLOWN GLASS AND GLASSWARE MANUFACTURING",
+  "pscCode" : "9340",
+  "pscTitle" : "GLASS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "327213",
+  "naicsTitle" : "GLASS CONTAINER MANUFACTURING",
+  "pscCode" : "8125",
+  "pscTitle" : "BOTTLES AND JARS"
+}, {
+  "naicsCode" : "327215",
+  "naicsTitle" : "GLASS PRODUCT MANUFACTURING MADE OF PURCHASED GLASS",
+  "pscCode" : "9340",
+  "pscTitle" : "GLASS FABRICATED MATERIALS"
+}, {
+  "naicsCode" : "327310",
+  "naicsTitle" : "CEMENT MANUFACTURING",
+  "pscCode" : "5440",
+  "pscTitle" : "SCAFFOLDING EQUIPMENT AND CONCRETE FORMS"
+}, {
+  "naicsCode" : "327320",
+  "naicsTitle" : "READY-MIX CONCRETE MANUFACTURING",
+  "pscCode" : "5440",
+  "pscTitle" : "SCAFFOLDING EQUIPMENT AND CONCRETE FORMS"
+}, {
+  "naicsCode" : "327331",
+  "naicsTitle" : "CONCRETE BLOCK AND BRICK MANUFACTURING",
+  "pscCode" : "5620",
+  "pscTitle" : "TILE, BRICK AND BLOCK"
+}, {
+  "naicsCode" : "327332",
+  "naicsTitle" : "CONCRETE PIPE MANUFACTURING",
+  "pscCode" : "4710",
+  "pscTitle" : "PIPE, TUBE AND RIGID TUBING"
+}, {
+  "naicsCode" : "327390",
+  "naicsTitle" : "OTHER CONCRETE PRODUCT MANUFACTURING",
+  "pscCode" : "3630",
+  "pscTitle" : "CLAY AND CONCRETE PRODUCTS INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "327410",
+  "naicsTitle" : "LIME MANUFACTURING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "327420",
+  "naicsTitle" : "GYPSUM PRODUCT MANUFACTURING",
+  "pscCode" : "9620",
+  "pscTitle" : "MINERALS, NATURAL AND SYNTHETIC"
+}, {
+  "naicsCode" : "327910",
+  "naicsTitle" : "ABRASIVE PRODUCT MANUFACTURING",
+  "pscCode" : "5350",
+  "pscTitle" : "ABRASIVE MATERIALS"
+}, {
+  "naicsCode" : "327991",
+  "naicsTitle" : "CUT STONE AND STONE PRODUCT MANUFACTURING",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "327992",
+  "naicsTitle" : "GROUND OR TREATED MINERAL AND EARTH MANUFACTURING",
+  "pscCode" : "5610",
+  "pscTitle" : "MINERAL CONSTRUCTION MATERIALS, BULK"
+}, {
+  "naicsCode" : "327993",
+  "naicsTitle" : "MINERAL WOOL MANUFACTURING",
+  "pscCode" : "5610",
+  "pscTitle" : "MINERAL CONSTRUCTION MATERIALS, BULK"
+}, {
+  "naicsCode" : "327999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS NONMETALLIC MINERAL PRODUCT MANUFACTURING",
+  "pscCode" : "3630",
+  "pscTitle" : "CLAY AND CONCRETE PRODUCTS INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "331110",
+  "naicsTitle" : "IRON AND STEEL MILLS AND FERROALLOY MANUFACTURING",
+  "pscCode" : "9630",
+  "pscTitle" : "ADDITIVE METAL MATERIALS"
+}, {
+  "naicsCode" : "331210",
+  "naicsTitle" : "IRON AND STEEL PIPE AND TUBE MANUFACTURING FROM PURCHASED STEEL",
+  "pscCode" : "4710",
+  "pscTitle" : "PIPE, TUBE AND RIGID TUBING"
+}, {
+  "naicsCode" : "331221",
+  "naicsTitle" : "ROLLED STEEL SHAPE MANUFACTURING",
+  "pscCode" : "9510",
+  "pscTitle" : "BARS AND RODS"
+}, {
+  "naicsCode" : "331222",
+  "naicsTitle" : "STEEL WIRE DRAWING",
+  "pscCode" : "7650",
+  "pscTitle" : "DRAWINGS AND SPECIFICATIONS"
+}, {
+  "naicsCode" : "331313",
+  "naicsTitle" : "ALUMINA REFINING AND PRIMARY ALUMINUM PRODUCTION",
+  "pscCode" : "9660",
+  "pscTitle" : "PRECIOUS METALS PRIMARY FORMS"
+}, {
+  "naicsCode" : "331314",
+  "naicsTitle" : "SECONDARY SMELTING AND ALLOYING OF ALUMINUM",
+  "pscCode" : "9640",
+  "pscTitle" : "IRON AND STEEL PRIMARY AND SEMIFINISHED PRODUCTS"
+}, {
+  "naicsCode" : "331315",
+  "naicsTitle" : "ALUMINUM SHEET, PLATE, AND FOIL MANUFACTURING",
+  "pscCode" : "9515",
+  "pscTitle" : "PLATE, SHEET, STRIP, FOIL, AND LEAF"
+}, {
+  "naicsCode" : "331318",
+  "naicsTitle" : "OTHER ALUMINUM ROLLING, DRAWING, AND EXTRUDING",
+  "pscCode" : "9650",
+  "pscTitle" : "NONFERROUS BASE METAL REFINERY AND INTERMEDIATE FORMS"
+}, {
+  "naicsCode" : "331410",
+  "naicsTitle" : "NONFERROUS METAL (EXCEPT ALUMINUM) SMELTING AND REFINING",
+  "pscCode" : "9650",
+  "pscTitle" : "NONFERROUS BASE METAL REFINERY AND INTERMEDIATE FORMS"
+}, {
+  "naicsCode" : "331420",
+  "naicsTitle" : "COPPER ROLLING, DRAWING, EXTRUDING, AND ALLOYING",
+  "pscCode" : "9640",
+  "pscTitle" : "IRON AND STEEL PRIMARY AND SEMIFINISHED PRODUCTS"
+}, {
+  "naicsCode" : "331491",
+  "naicsTitle" : "NONFERROUS METAL (EXCEPT COPPER AND ALUMINUM) ROLLING, DRAWING, AND EXTRUDING",
+  "pscCode" : "9530",
+  "pscTitle" : "BARS AND RODS, NONFERROUS BASE METAL"
+}, {
+  "naicsCode" : "331492",
+  "naicsTitle" : "SECONDARY SMELTING, REFINING, AND ALLOYING OF NONFERROUS METAL (EXCEPT COPPER AND ALUMINUM)",
+  "pscCode" : "9650",
+  "pscTitle" : "NONFERROUS BASE METAL REFINERY AND INTERMEDIATE FORMS"
+}, {
+  "naicsCode" : "331511",
+  "naicsTitle" : "IRON FOUNDRIES",
+  "pscCode" : "3680",
+  "pscTitle" : "FOUNDRY MACHINERY, RELATED EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "331512",
+  "naicsTitle" : "STEEL INVESTMENT FOUNDRIES",
+  "pscCode" : "3680",
+  "pscTitle" : "FOUNDRY MACHINERY, RELATED EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "331513",
+  "naicsTitle" : "STEEL FOUNDRIES (EXCEPT INVESTMENT)",
+  "pscCode" : "3680",
+  "pscTitle" : "FOUNDRY MACHINERY, RELATED EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "331523",
+  "naicsTitle" : "NONFERROUS METAL DIE-CASTING FOUNDRIES",
+  "pscCode" : "5136",
+  "pscTitle" : "TAPS, DIES, AND COLLETS; HAND AND MACHINE"
+}, {
+  "naicsCode" : "331524",
+  "naicsTitle" : "ALUMINUM FOUNDRIES (EXCEPT DIE-CASTING)",
+  "pscCode" : "3680",
+  "pscTitle" : "FOUNDRY MACHINERY, RELATED EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "331529",
+  "naicsTitle" : "OTHER NONFERROUS METAL FOUNDRIES (EXCEPT DIE-CASTING)",
+  "pscCode" : "3680",
+  "pscTitle" : "FOUNDRY MACHINERY, RELATED EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "332111",
+  "naicsTitle" : "IRON AND STEEL FORGING",
+  "pscCode" : "3446",
+  "pscTitle" : "FORGING MACHINERY AND HAMMERS"
+}, {
+  "naicsCode" : "332112",
+  "naicsTitle" : "NONFERROUS FORGING",
+  "pscCode" : "3446",
+  "pscTitle" : "FORGING MACHINERY AND HAMMERS"
+}, {
+  "naicsCode" : "332114",
+  "naicsTitle" : "CUSTOM ROLL FORMING",
+  "pscCode" : "3441",
+  "pscTitle" : "BENDING AND FORMING MACHINES"
+}, {
+  "naicsCode" : "332117",
+  "naicsTitle" : "POWDER METALLURGY PART MANUFACTURING",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "332119",
+  "naicsTitle" : "METAL CROWN, CLOSURE, AND OTHER METAL STAMPING (EXCEPT AUTOMOTIVE)",
+  "pscCode" : "5365",
+  "pscTitle" : "BUSHINGS, RINGS, SHIMS, AND SPACERS"
+}, {
+  "naicsCode" : "332215",
+  "naicsTitle" : "METAL KITCHEN COOKWARE, UTENSIL, CUTLERY, AND FLATWARE (EXCEPT PRECIOUS) MANUFACTURING",
+  "pscCode" : "7340",
+  "pscTitle" : "CUTLERY AND FLATWARE"
+}, {
+  "naicsCode" : "332216",
+  "naicsTitle" : "SAW BLADE AND HANDTOOL MANUFACTURING",
+  "pscCode" : "3456",
+  "pscTitle" : "CUTTING AND FORMING TOOLS FOR SECONDARY METALWORKING MACHINERY"
+}, {
+  "naicsCode" : "332311",
+  "naicsTitle" : "PREFABRICATED METAL BUILDING AND COMPONENT MANUFACTURING",
+  "pscCode" : "5450",
+  "pscTitle" : "MISCELLANEOUS PREFABRICATED STRUCTURES"
+}, {
+  "naicsCode" : "332312",
+  "naicsTitle" : "FABRICATED STRUCTURAL METAL MANUFACTURING",
+  "pscCode" : "9510",
+  "pscTitle" : "BARS AND RODS"
+}, {
+  "naicsCode" : "332313",
+  "naicsTitle" : "PLATE WORK MANUFACTURING",
+  "pscCode" : "8115",
+  "pscTitle" : "BOXES, CARTONS, AND CRATES"
+}, {
+  "naicsCode" : "332321",
+  "naicsTitle" : "METAL WINDOW AND DOOR MANUFACTURING",
+  "pscCode" : "6210",
+  "pscTitle" : "INDOOR AND OUTDOOR ELECTRIC LIGHTING FIXTURES"
+}, {
+  "naicsCode" : "332322",
+  "naicsTitle" : "SHEET METAL WORK MANUFACTURING",
+  "pscCode" : "9535",
+  "pscTitle" : "PLATE, SHEET, STRIP, AND FOIL; NONFERROUS BASE METAL"
+}, {
+  "naicsCode" : "332323",
+  "naicsTitle" : "ORNAMENTAL AND ARCHITECTURAL METAL WORK MANUFACTURING",
+  "pscCode" : "C219",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- GENERAL: OTHER"
+}, {
+  "naicsCode" : "332410",
+  "naicsTitle" : "POWER BOILER AND HEAT EXCHANGER MANUFACTURING",
+  "pscCode" : "4420",
+  "pscTitle" : "HEAT EXCHANGERS AND STEAM CONDENSERS"
+}, {
+  "naicsCode" : "332420",
+  "naicsTitle" : "METAL TANK (HEAVY GAUGE) MANUFACTURING",
+  "pscCode" : "8120",
+  "pscTitle" : "COMMERCIAL AND INDUSTRIAL GAS CYLINDERS"
+}, {
+  "naicsCode" : "332431",
+  "naicsTitle" : "METAL CAN MANUFACTURING",
+  "pscCode" : "8110",
+  "pscTitle" : "DRUMS AND CANS"
+}, {
+  "naicsCode" : "332439",
+  "naicsTitle" : "OTHER METAL CONTAINER MANUFACTURING",
+  "pscCode" : "1740",
+  "pscTitle" : "AIRFIELD SPECIALIZED TRUCKS AND TRAILERS"
+}, {
+  "naicsCode" : "332510",
+  "naicsTitle" : "HARDWARE MANUFACTURING",
+  "pscCode" : "7125",
+  "pscTitle" : "CABINETS, LOCKERS, BINS, AND SHELVING"
+}, {
+  "naicsCode" : "332613",
+  "naicsTitle" : "SPRING MANUFACTURING",
+  "pscCode" : "5360",
+  "pscTitle" : "COIL, FLAT, LEAF, AND WIRE SPRINGS"
+}, {
+  "naicsCode" : "332618",
+  "naicsTitle" : "OTHER FABRICATED WIRE PRODUCT MANUFACTURING",
+  "pscCode" : "4010",
+  "pscTitle" : "CHAIN AND WIRE ROPE"
+}, {
+  "naicsCode" : "332710",
+  "naicsTitle" : "MACHINE SHOPS",
+  "pscCode" : "3470",
+  "pscTitle" : "MACHINE SHOP SETS, KITS, AND OUTFITS"
+}, {
+  "naicsCode" : "332721",
+  "naicsTitle" : "PRECISION TURNED PRODUCT MANUFACTURING",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "332722",
+  "naicsTitle" : "BOLT, NUT, SCREW, RIVET, AND WASHER MANUFACTURING",
+  "pscCode" : "5306",
+  "pscTitle" : "BOLTS"
+}, {
+  "naicsCode" : "332811",
+  "naicsTitle" : "METAL HEAT TREATING",
+  "pscCode" : "3424",
+  "pscTitle" : "METAL HEAT TREATING AND NON-THERMAL TREATING EQUIPMENT"
+}, {
+  "naicsCode" : "332812",
+  "naicsTitle" : "METAL COATING, ENGRAVING (EXCEPT JEWELRY AND SILVERWARE), AND ALLIED SERVICES TO MANUFACTURERS",
+  "pscCode" : "3426",
+  "pscTitle" : "METAL FINISHING EQUIPMENT"
+}, {
+  "naicsCode" : "332813",
+  "naicsTitle" : "ELECTROPLATING, PLATING, POLISHING, ANODIZING, AND COLORING",
+  "pscCode" : "7930",
+  "pscTitle" : "CLEANING AND POLISHING COMPOUNDS AND PREPARATIONS"
+}, {
+  "naicsCode" : "332911",
+  "naicsTitle" : "INDUSTRIAL VALVE MANUFACTURING",
+  "pscCode" : "4820",
+  "pscTitle" : "VALVES, NONPOWERED"
+}, {
+  "naicsCode" : "332912",
+  "naicsTitle" : "FLUID POWER VALVE AND HOSE FITTING MANUFACTURING",
+  "pscCode" : "2895",
+  "pscTitle" : "MISCELLANEOUS ENGINES AND COMPONENTS"
+}, {
+  "naicsCode" : "332913",
+  "naicsTitle" : "PLUMBING FIXTURE FITTING AND TRIM MANUFACTURING",
+  "pscCode" : "4510",
+  "pscTitle" : "PLUMBING FIXTURES AND ACCESSORIES"
+}, {
+  "naicsCode" : "332919",
+  "naicsTitle" : "OTHER METAL VALVE AND PIPE FITTING MANUFACTURING",
+  "pscCode" : "4730",
+  "pscTitle" : "HOSE, PIPE, TUBE, LUBRICATION, AND RAILING FITTINGS"
+}, {
+  "naicsCode" : "332991",
+  "naicsTitle" : "BALL AND ROLLER BEARING MANUFACTURING",
+  "pscCode" : "3110",
+  "pscTitle" : "BEARINGS, ANTIFRICTION, UNMOUNTED"
+}, {
+  "naicsCode" : "332992",
+  "naicsTitle" : "SMALL ARMS AMMUNITION MANUFACTURING",
+  "pscCode" : "1305",
+  "pscTitle" : "AMMUNITION, THROUGH 30MM"
+}, {
+  "naicsCode" : "332993",
+  "naicsTitle" : "AMMUNITION (EXCEPT SMALL ARMS) MANUFACTURING",
+  "pscCode" : "1315",
+  "pscTitle" : "AMMUNITION, 75MM THROUGH 125MM"
+}, {
+  "naicsCode" : "332994",
+  "naicsTitle" : "SMALL ARMS, ORDNANCE, AND ORDNANCE ACCESSORIES MANUFACTURING",
+  "pscCode" : "1090",
+  "pscTitle" : "ASSEMBLIES INTERCHANGEABLE BETWEEN WEAPONS IN TWO OR MORE CLASSES"
+}, {
+  "naicsCode" : "332996",
+  "naicsTitle" : "FABRICATED PIPE AND PIPE FITTING MANUFACTURING",
+  "pscCode" : "4730",
+  "pscTitle" : "HOSE, PIPE, TUBE, LUBRICATION, AND RAILING FITTINGS"
+}, {
+  "naicsCode" : "332999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS FABRICATED METAL PRODUCT MANUFACTURING",
+  "pscCode" : "5350",
+  "pscTitle" : "ABRASIVE MATERIALS"
+}, {
+  "naicsCode" : "333111",
+  "naicsTitle" : "FARM MACHINERY AND EQUIPMENT MANUFACTURING",
+  "pscCode" : "3720",
+  "pscTitle" : "HARVESTING EQUIPMENT"
+}, {
+  "naicsCode" : "333112",
+  "naicsTitle" : "LAWN AND GARDEN TRACTOR AND HOME LAWN AND GARDEN EQUIPMENT MANUFACTURING",
+  "pscCode" : "3750",
+  "pscTitle" : "GARDENING IMPLEMENTS AND TOOLS"
+}, {
+  "naicsCode" : "333120",
+  "naicsTitle" : "CONSTRUCTION MACHINERY MANUFACTURING",
+  "pscCode" : "3805",
+  "pscTitle" : "EARTH MOVING AND EXCAVATING EQUIPMENT"
+}, {
+  "naicsCode" : "333131",
+  "naicsTitle" : "MINING MACHINERY AND EQUIPMENT MANUFACTURING",
+  "pscCode" : "3820",
+  "pscTitle" : "MINING, ROCK DRILLING, EARTH BORING, AND RELATED EQUIPMENT"
+}, {
+  "naicsCode" : "333132",
+  "naicsTitle" : "OIL AND GAS FIELD MACHINERY AND EQUIPMENT MANUFACTURING",
+  "pscCode" : "3835",
+  "pscTitle" : "PETROLEUM PRODUCTION AND DISTRIBUTION EQUIPMENT"
+}, {
+  "naicsCode" : "333241",
+  "naicsTitle" : "FOOD PRODUCT MACHINERY MANUFACTURING",
+  "pscCode" : "3605",
+  "pscTitle" : "FOOD PRODUCTS MACHINERY AND EQUIPMENT"
+}, {
+  "naicsCode" : "333242",
+  "naicsTitle" : "SEMICONDUCTOR MACHINERY MANUFACTURING",
+  "pscCode" : "3670",
+  "pscTitle" : "SPECIALIZED SEMICONDUCTOR, MICROCIRCUIT, AND PRINTED CIRCUIT BOARD MANUFACTURING MACHINERY"
+}, {
+  "naicsCode" : "333243",
+  "naicsTitle" : "SAWMILL, WOODWORKING, AND PAPER MACHINERY MANUFACTURING",
+  "pscCode" : "3615",
+  "pscTitle" : "PULP AND PAPER INDUSTRIES MACHINERY"
+}, {
+  "naicsCode" : "333244",
+  "naicsTitle" : "PRINTING MACHINERY AND EQUIPMENT MANUFACTURING",
+  "pscCode" : "3611",
+  "pscTitle" : "INDUSTRIAL MARKING MACHINES"
+}, {
+  "naicsCode" : "333249",
+  "naicsTitle" : "OTHER INDUSTRIAL MACHINERY MANUFACTURING",
+  "pscCode" : "3530",
+  "pscTitle" : "INDUSTRIAL SEWING MACHINES AND MOBILE TEXTILE REPAIR SHOPS"
+}, {
+  "naicsCode" : "333314",
+  "naicsTitle" : "OPTICAL INSTRUMENT AND LENS MANUFACTURING",
+  "pscCode" : "6650",
+  "pscTitle" : "OPTICAL INSTRUMENTS, TEST EQUIPMENT, COMPONENTS AND ACCESSORIES"
+}, {
+  "naicsCode" : "333316",
+  "naicsTitle" : "PHOTOGRAPHIC AND PHOTOCOPYING EQUIPMENT MANUFACTURING",
+  "pscCode" : "6710",
+  "pscTitle" : "CAMERAS, MOTION PICTURE"
+}, {
+  "naicsCode" : "333318",
+  "naicsTitle" : "OTHER COMMERCIAL AND SERVICE INDUSTRY MACHINERY MANUFACTURING",
+  "pscCode" : "7420",
+  "pscTitle" : "ACCOUNTING AND CALCULATING MACHINES"
+}, {
+  "naicsCode" : "333413",
+  "naicsTitle" : "INDUSTRIAL AND COMMERCIAL FAN AND BLOWER AND AIR PURIFICATION EQUIPMENT MANUFACTURING",
+  "pscCode" : "4460",
+  "pscTitle" : "AIR PURIFICATION EQUIPMENT"
+}, {
+  "naicsCode" : "333414",
+  "naicsTitle" : "HEATING EQUIPMENT (EXCEPT WARM AIR FURNACES) MANUFACTURING",
+  "pscCode" : "1660",
+  "pscTitle" : "AIRCRAFT AIR CONDITIONING, HEATING, AND PRESSURIZING EQUIPMENT"
+}, {
+  "naicsCode" : "333415",
+  "naicsTitle" : "AIR-CONDITIONING AND WARM AIR HEATING EQUIPMENT AND COMMERCIAL AND INDUSTRIAL REFRIGERATION EQUIPMENT MANUFACTURING",
+  "pscCode" : "4120",
+  "pscTitle" : "AIR CONDITIONING EQUIPMENT"
+}, {
+  "naicsCode" : "333511",
+  "naicsTitle" : "INDUSTRIAL MOLD MANUFACTURING",
+  "pscCode" : "3465",
+  "pscTitle" : "PRODUCTION JIGS, FIXTURES, AND TEMPLATES"
+}, {
+  "naicsCode" : "333514",
+  "naicsTitle" : "SPECIAL DIE AND TOOL, DIE SET, JIG, AND FIXTURE MANUFACTURING",
+  "pscCode" : "3465",
+  "pscTitle" : "PRODUCTION JIGS, FIXTURES, AND TEMPLATES"
+}, {
+  "naicsCode" : "333515",
+  "naicsTitle" : "CUTTING TOOL AND MACHINE TOOL ACCESSORY MANUFACTURING",
+  "pscCode" : "3456",
+  "pscTitle" : "CUTTING AND FORMING TOOLS FOR SECONDARY METALWORKING MACHINERY"
+}, {
+  "naicsCode" : "333517",
+  "naicsTitle" : "MACHINE TOOL MANUFACTURING",
+  "pscCode" : "3441",
+  "pscTitle" : "BENDING AND FORMING MACHINES"
+}, {
+  "naicsCode" : "333519",
+  "naicsTitle" : "ROLLING MILL AND OTHER METALWORKING MACHINERY MANUFACTURING",
+  "pscCode" : "3433",
+  "pscTitle" : "GAS WELDING, HEAT CUTTING, AND METALIZING EQUIPMENT"
+}, {
+  "naicsCode" : "333611",
+  "naicsTitle" : "TURBINE AND TURBINE GENERATOR SET UNITS MANUFACTURING",
+  "pscCode" : "2840",
+  "pscTitle" : "GAS TURBINES AND JET ENGINES, AIRCRAFT, PRIME MOVING; AND COMPONENTS"
+}, {
+  "naicsCode" : "333612",
+  "naicsTitle" : "SPEED CHANGER, INDUSTRIAL HIGH-SPEED DRIVE, AND GEAR MANUFACTURING",
+  "pscCode" : "3020",
+  "pscTitle" : "GEARS, PULLEYS, SPROCKETS, AND TRANSMISSION CHAIN"
+}, {
+  "naicsCode" : "333613",
+  "naicsTitle" : "MECHANICAL POWER TRANSMISSION EQUIPMENT MANUFACTURING",
+  "pscCode" : "3040",
+  "pscTitle" : "MISCELLANEOUS POWER TRANSMISSION EQUIPMENT"
+}, {
+  "naicsCode" : "333618",
+  "naicsTitle" : "OTHER ENGINE EQUIPMENT MANUFACTURING",
+  "pscCode" : "2815",
+  "pscTitle" : "DIESEL ENGINES AND COMPONENTS"
+}, {
+  "naicsCode" : "333911",
+  "naicsTitle" : "PUMP AND PUMPING EQUIPMENT MANUFACTURING",
+  "pscCode" : "4310",
+  "pscTitle" : "COMPRESSORS AND VACUUM PUMPS"
+}, {
+  "naicsCode" : "333912",
+  "naicsTitle" : "AIR AND GAS COMPRESSOR MANUFACTURING",
+  "pscCode" : "4310",
+  "pscTitle" : "COMPRESSORS AND VACUUM PUMPS"
+}, {
+  "naicsCode" : "333913",
+  "naicsTitle" : "MEASURING AND DISPENSING PUMP MANUFACTURING",
+  "pscCode" : "4930",
+  "pscTitle" : "LUBRICATION AND FUEL DISPENSING EQUIPMENT"
+}, {
+  "naicsCode" : "333921",
+  "naicsTitle" : "ELEVATOR AND MOVING STAIRWAY MANUFACTURING",
+  "pscCode" : "3960",
+  "pscTitle" : "FREIGHT ELEVATORS"
+}, {
+  "naicsCode" : "333922",
+  "naicsTitle" : "CONVEYOR AND CONVEYING EQUIPMENT MANUFACTURING",
+  "pscCode" : "3910",
+  "pscTitle" : "CONVEYORS"
+}, {
+  "naicsCode" : "333923",
+  "naicsTitle" : "OVERHEAD TRAVELING CRANE, HOIST, AND MONORAIL SYSTEM MANUFACTURING",
+  "pscCode" : "3940",
+  "pscTitle" : "BLOCKS, TACKLE, RIGGING, AND SLINGS"
+}, {
+  "naicsCode" : "333924",
+  "naicsTitle" : "INDUSTRIAL TRUCK, TRACTOR, TRAILER, AND STACKER MACHINERY MANUFACTURING",
+  "pscCode" : "1740",
+  "pscTitle" : "AIRFIELD SPECIALIZED TRUCKS AND TRAILERS"
+}, {
+  "naicsCode" : "333991",
+  "naicsTitle" : "POWER-DRIVEN HANDTOOL MANUFACTURING",
+  "pscCode" : "5130",
+  "pscTitle" : "HAND TOOLS, POWER DRIVEN"
+}, {
+  "naicsCode" : "333992",
+  "naicsTitle" : "WELDING AND SOLDERING EQUIPMENT MANUFACTURING",
+  "pscCode" : "3431",
+  "pscTitle" : "ELECTRIC ARC WELDING EQUIPMENT"
+}, {
+  "naicsCode" : "333993",
+  "naicsTitle" : "PACKAGING MACHINERY MANUFACTURING",
+  "pscCode" : "3540",
+  "pscTitle" : "WRAPPING AND PACKAGING MACHINERY"
+}, {
+  "naicsCode" : "333994",
+  "naicsTitle" : "INDUSTRIAL PROCESS FURNACE AND OVEN MANUFACTURING",
+  "pscCode" : "4440",
+  "pscTitle" : "DRIERS, DEHYDRATORS, AND ANHYDRATORS"
+}, {
+  "naicsCode" : "333995",
+  "naicsTitle" : "FLUID POWER CYLINDER AND ACTUATOR MANUFACTURING",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "333996",
+  "naicsTitle" : "FLUID POWER PUMP AND MOTOR MANUFACTURING",
+  "pscCode" : "6105",
+  "pscTitle" : "MOTORS, ELECTRICAL"
+}, {
+  "naicsCode" : "333997",
+  "naicsTitle" : "SCALE AND BALANCE MANUFACTURING",
+  "pscCode" : "6640",
+  "pscTitle" : "LABORATORY EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "333999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS GENERAL PURPOSE MACHINERY MANUFACTURING",
+  "pscCode" : "4330",
+  "pscTitle" : "CENTRIFUGALS, SEPARATORS, AND PRESSURE AND VACUUM FILTERS"
+}, {
+  "naicsCode" : "334111",
+  "naicsTitle" : "ELECTRONIC COMPUTER MANUFACTURING",
+  "pscCode" : "7021",
+  "pscTitle" : "ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL"
+}, {
+  "naicsCode" : "334112",
+  "naicsTitle" : "COMPUTER STORAGE DEVICE MANUFACTURING",
+  "pscCode" : "7025",
+  "pscTitle" : "INFORMATION TECHNOLOGY INPUT/OUTPUT AND STORAGE DEVICES"
+}, {
+  "naicsCode" : "334118",
+  "naicsTitle" : "COMPUTER TERMINAL AND OTHER COMPUTER PERIPHERAL EQUIPMENT MANUFACTURING",
+  "pscCode" : "7420",
+  "pscTitle" : "ACCOUNTING AND CALCULATING MACHINES"
+}, {
+  "naicsCode" : "334210",
+  "naicsTitle" : "TELEPHONE APPARATUS MANUFACTURING",
+  "pscCode" : "5805",
+  "pscTitle" : "TELEPHONE AND TELEGRAPH EQUIPMENT"
+}, {
+  "naicsCode" : "334220",
+  "naicsTitle" : "RADIO AND TELEVISION BROADCASTING AND WIRELESS COMMUNICATIONS EQUIPMENT MANUFACTURING",
+  "pscCode" : "5985",
+  "pscTitle" : "ANTENNAS, WAVEGUIDES, AND RELATED EQUIPMENT"
+}, {
+  "naicsCode" : "334290",
+  "naicsTitle" : "OTHER COMMUNICATIONS EQUIPMENT MANUFACTURING",
+  "pscCode" : "6940",
+  "pscTitle" : "COMMUNICATION TRAINING DEVICES"
+}, {
+  "naicsCode" : "334310",
+  "naicsTitle" : "AUDIO AND VIDEO EQUIPMENT MANUFACTURING",
+  "pscCode" : "5965",
+  "pscTitle" : "HEADSETS, HANDSETS, MICROPHONES AND SPEAKERS"
+}, {
+  "naicsCode" : "334412",
+  "naicsTitle" : "BARE PRINTED CIRCUIT BOARD MANUFACTURING",
+  "pscCode" : "5998",
+  "pscTitle" : "ELECTRICAL AND ELECTRONIC ASSEMBLIES, BOARDS, CARDS, AND ASSOCIATED HARDWARE"
+}, {
+  "naicsCode" : "334413",
+  "naicsTitle" : "SEMICONDUCTOR AND RELATED DEVICE MANUFACTURING",
+  "pscCode" : "5963",
+  "pscTitle" : "ELECTRONIC MODULES"
+}, {
+  "naicsCode" : "334416",
+  "naicsTitle" : "CAPACITOR, RESISTOR, COIL, TRANSFORMER, AND OTHER INDUCTOR MANUFACTURING",
+  "pscCode" : "5910",
+  "pscTitle" : "CAPACITORS"
+}, {
+  "naicsCode" : "334417",
+  "naicsTitle" : "ELECTRONIC CONNECTOR MANUFACTURING",
+  "pscCode" : "5935",
+  "pscTitle" : "CONNECTORS, ELECTRICAL"
+}, {
+  "naicsCode" : "334418",
+  "naicsTitle" : "PRINTED CIRCUIT ASSEMBLY (ELECTRONIC ASSEMBLY) MANUFACTURING",
+  "pscCode" : "7050",
+  "pscTitle" : "INFORMATION TECHNOLOGY COMPONENTS"
+}, {
+  "naicsCode" : "334419",
+  "naicsTitle" : "OTHER ELECTRONIC COMPONENT MANUFACTURING",
+  "pscCode" : "1280",
+  "pscTitle" : "AIRCRAFT BOMBING FIRE CONTROL COMPONENTS"
+}, {
+  "naicsCode" : "334510",
+  "naicsTitle" : "ELECTROMEDICAL AND ELECTROTHERAPEUTIC APPARATUS MANUFACTURING",
+  "pscCode" : "5963",
+  "pscTitle" : "ELECTRONIC MODULES"
+}, {
+  "naicsCode" : "334511",
+  "naicsTitle" : "SEARCH, DETECTION, NAVIGATION, GUIDANCE, AERONAUTICAL, AND NAUTICAL SYSTEM AND INSTRUMENT MANUFACTURING",
+  "pscCode" : "1270",
+  "pscTitle" : "AIRCRAFT GUNNERY FIRE CONTROL COMPONENTS"
+}, {
+  "naicsCode" : "334512",
+  "naicsTitle" : "AUTOMATIC ENVIRONMENTAL CONTROL MANUFACTURING FOR RESIDENTIAL, COMMERCIAL, AND APPLIANCE USE",
+  "pscCode" : "6685",
+  "pscTitle" : "PRESSURE, TEMPERATURE, AND HUMIDITY MEASURING AND CONTROLLING INSTRUMENTS"
+}, {
+  "naicsCode" : "334513",
+  "naicsTitle" : "INSTRUMENTS AND RELATED PRODUCTS MANUFACTURING FOR MEASURING, DISPLAYING, AND CONTROLLING INDUSTRIAL PROCESS VARIABLES",
+  "pscCode" : "6695",
+  "pscTitle" : "COMBINATION AND MISCELLANEOUS INSTRUMENTS"
+}, {
+  "naicsCode" : "334514",
+  "naicsTitle" : "TOTALIZING FLUID METER AND COUNTING DEVICE MANUFACTURING",
+  "pscCode" : "7420",
+  "pscTitle" : "ACCOUNTING AND CALCULATING MACHINES"
+}, {
+  "naicsCode" : "334515",
+  "naicsTitle" : "INSTRUMENT MANUFACTURING FOR MEASURING AND TESTING ELECTRICITY AND ELECTRICAL SIGNALS",
+  "pscCode" : "6630",
+  "pscTitle" : "CHEMICAL ANALYSIS INSTRUMENTS"
+}, {
+  "naicsCode" : "334516",
+  "naicsTitle" : "ANALYTICAL LABORATORY INSTRUMENT MANUFACTURING",
+  "pscCode" : "6630",
+  "pscTitle" : "CHEMICAL ANALYSIS INSTRUMENTS"
+}, {
+  "naicsCode" : "334517",
+  "naicsTitle" : "IRRADIATION APPARATUS MANUFACTURING",
+  "pscCode" : "6525",
+  "pscTitle" : "IMAGING EQUIPMENT AND SUPPLIES: MEDICAL, DENTAL, VETERINARY"
+}, {
+  "naicsCode" : "334519",
+  "naicsTitle" : "OTHER MEASURING AND CONTROLLING DEVICE MANUFACTURING",
+  "pscCode" : "5360",
+  "pscTitle" : "COIL, FLAT, LEAF, AND WIRE SPRINGS"
+}, {
+  "naicsCode" : "334613",
+  "naicsTitle" : "BLANK MAGNETIC AND OPTICAL RECORDING MEDIA MANUFACTURING",
+  "pscCode" : "7045",
+  "pscTitle" : "INFORMATION TECHNOLOGY SUPPLIES"
+}, {
+  "naicsCode" : "334614",
+  "naicsTitle" : "SOFTWARE AND OTHER PRERECORDED COMPACT DISC, TAPE, AND RECORD REPRODUCING",
+  "pscCode" : "7025",
+  "pscTitle" : "INFORMATION TECHNOLOGY INPUT/OUTPUT AND STORAGE DEVICES"
+}, {
+  "naicsCode" : "335110",
+  "naicsTitle" : "ELECTRIC LAMP BULB AND PART MANUFACTURING",
+  "pscCode" : "6250",
+  "pscTitle" : "BALLASTS, LAMPHOLDERS, AND STARTERS"
+}, {
+  "naicsCode" : "335121",
+  "naicsTitle" : "RESIDENTIAL ELECTRIC LIGHTING FIXTURE MANUFACTURING",
+  "pscCode" : "6240",
+  "pscTitle" : "ELECTRIC LAMPS"
+}, {
+  "naicsCode" : "335122",
+  "naicsTitle" : "COMMERCIAL, INDUSTRIAL, AND INSTITUTIONAL ELECTRIC LIGHTING FIXTURE MANUFACTURING",
+  "pscCode" : "6210",
+  "pscTitle" : "INDOOR AND OUTDOOR ELECTRIC LIGHTING FIXTURES"
+}, {
+  "naicsCode" : "335129",
+  "naicsTitle" : "OTHER LIGHTING EQUIPMENT MANUFACTURING",
+  "pscCode" : "6230",
+  "pscTitle" : "ELECTRIC PORTABLE AND HAND LIGHTING EQUIPMENT"
+}, {
+  "naicsCode" : "335210",
+  "naicsTitle" : "SMALL ELECTRICAL APPLIANCE MANUFACTURING",
+  "pscCode" : "5963",
+  "pscTitle" : "ELECTRONIC MODULES"
+}, {
+  "naicsCode" : "335221",
+  "naicsTitle" : "HOUSEHOLD COOKING APPLIANCE MANUFACTURING",
+  "pscCode" : "7340",
+  "pscTitle" : "CUTLERY AND FLATWARE"
+}, {
+  "naicsCode" : "335222",
+  "naicsTitle" : "HOUSEHOLD REFRIGERATOR AND HOME FREEZER MANUFACTURING",
+  "pscCode" : "4110",
+  "pscTitle" : "REFRIGERATION EQUIPMENT"
+}, {
+  "naicsCode" : "335224",
+  "naicsTitle" : "HOUSEHOLD LAUNDRY EQUIPMENT MANUFACTURING",
+  "pscCode" : "S209",
+  "pscTitle" : "HOUSEKEEPING- LAUNDRY/DRYCLEANING"
+}, {
+  "naicsCode" : "335228",
+  "naicsTitle" : "OTHER MAJOR HOUSEHOLD APPLIANCE MANUFACTURING",
+  "pscCode" : "3530",
+  "pscTitle" : "INDUSTRIAL SEWING MACHINES AND MOBILE TEXTILE REPAIR SHOPS"
+}, {
+  "naicsCode" : "335311",
+  "naicsTitle" : "POWER, DISTRIBUTION, AND SPECIALTY TRANSFORMER MANUFACTURING",
+  "pscCode" : "6250",
+  "pscTitle" : "BALLASTS, LAMPHOLDERS, AND STARTERS"
+}, {
+  "naicsCode" : "335312",
+  "naicsTitle" : "MOTOR AND GENERATOR MANUFACTURING",
+  "pscCode" : "6125",
+  "pscTitle" : "CONVERTERS, ELECTRICAL, ROTATING"
+}, {
+  "naicsCode" : "335313",
+  "naicsTitle" : "SWITCHGEAR AND SWITCHBOARD APPARATUS MANUFACTURING",
+  "pscCode" : "5925",
+  "pscTitle" : "CIRCUIT BREAKERS"
+}, {
+  "naicsCode" : "335314",
+  "naicsTitle" : "RELAY AND INDUSTRIAL CONTROL MANUFACTURING",
+  "pscCode" : "5945",
+  "pscTitle" : "RELAYS AND SOLENOIDS"
+}, {
+  "naicsCode" : "335911",
+  "naicsTitle" : "STORAGE BATTERY MANUFACTURING",
+  "pscCode" : "6135",
+  "pscTitle" : "BATTERIES, NONRECHARGEABLE"
+}, {
+  "naicsCode" : "335912",
+  "naicsTitle" : "PRIMARY BATTERY MANUFACTURING",
+  "pscCode" : "6135",
+  "pscTitle" : "BATTERIES, NONRECHARGEABLE"
+}, {
+  "naicsCode" : "335921",
+  "naicsTitle" : "FIBER OPTIC CABLE MANUFACTURING",
+  "pscCode" : "6020",
+  "pscTitle" : "FIBER OPTIC CABLE ASSEMBLIES AND HARNESSES"
+}, {
+  "naicsCode" : "335929",
+  "naicsTitle" : "OTHER COMMUNICATION AND ENERGY WIRE MANUFACTURING",
+  "pscCode" : "3422",
+  "pscTitle" : "ROLLING MILLS AND DRAWING MACHINES"
+}, {
+  "naicsCode" : "335931",
+  "naicsTitle" : "CURRENT-CARRYING WIRING DEVICE MANUFACTURING",
+  "pscCode" : "5995",
+  "pscTitle" : "CABLE, CORD, AND WIRE ASSEMBLIES: COMMUNICATION EQUIPMENT"
+}, {
+  "naicsCode" : "335932",
+  "naicsTitle" : "NONCURRENT-CARRYING WIRING DEVICE MANUFACTURING",
+  "pscCode" : "5970",
+  "pscTitle" : "ELECTRICAL INSULATORS AND INSULATING MATERIALS"
+}, {
+  "naicsCode" : "335991",
+  "naicsTitle" : "CARBON AND GRAPHITE PRODUCT MANUFACTURING",
+  "pscCode" : "5977",
+  "pscTitle" : "ELECTRICAL CONTACT BRUSHES AND ELECTRODES"
+}, {
+  "naicsCode" : "335999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS ELECTRICAL EQUIPMENT AND COMPONENT MANUFACTURING",
+  "pscCode" : "7050",
+  "pscTitle" : "INFORMATION TECHNOLOGY COMPONENTS"
+}, {
+  "naicsCode" : "336111",
+  "naicsTitle" : "AUTOMOBILE MANUFACTURING",
+  "pscCode" : "2340",
+  "pscTitle" : "MOTORCYCLES, MOTOR SCOOTERS, AND BICYCLES"
+}, {
+  "naicsCode" : "336112",
+  "naicsTitle" : "LIGHT TRUCK AND UTILITY VEHICLE MANUFACTURING",
+  "pscCode" : "2320",
+  "pscTitle" : "TRUCKS AND TRUCK TRACTORS, WHEELED"
+}, {
+  "naicsCode" : "336120",
+  "naicsTitle" : "HEAVY DUTY TRUCK MANUFACTURING",
+  "pscCode" : "2305",
+  "pscTitle" : "GROUND EFFECT VEHICLES"
+}, {
+  "naicsCode" : "336211",
+  "naicsTitle" : "MOTOR VEHICLE BODY MANUFACTURING",
+  "pscCode" : "2590",
+  "pscTitle" : "MISCELLANEOUS VEHICULAR COMPONENTS"
+}, {
+  "naicsCode" : "336212",
+  "naicsTitle" : "TRUCK TRAILER MANUFACTURING",
+  "pscCode" : "1740",
+  "pscTitle" : "AIRFIELD SPECIALIZED TRUCKS AND TRAILERS"
+}, {
+  "naicsCode" : "336213",
+  "naicsTitle" : "MOTOR HOME MANUFACTURING",
+  "pscCode" : "2330",
+  "pscTitle" : "TRAILERS"
+}, {
+  "naicsCode" : "336214",
+  "naicsTitle" : "TRAVEL TRAILER AND CAMPER MANUFACTURING",
+  "pscCode" : "2090",
+  "pscTitle" : "MISCELLANEOUS SHIP AND MARINE EQUIPMENT"
+}, {
+  "naicsCode" : "336310",
+  "naicsTitle" : "MOTOR VEHICLE GASOLINE ENGINE AND ENGINE PARTS MANUFACTURING",
+  "pscCode" : "2815",
+  "pscTitle" : "DIESEL ENGINES AND COMPONENTS"
+}, {
+  "naicsCode" : "336320",
+  "naicsTitle" : "MOTOR VEHICLE ELECTRICAL AND ELECTRONIC EQUIPMENT MANUFACTURING",
+  "pscCode" : "6220",
+  "pscTitle" : "ELECTRIC VEHICULAR LIGHTS AND FIXTURES"
+}, {
+  "naicsCode" : "336330",
+  "naicsTitle" : "MOTOR VEHICLE STEERING AND SUSPENSION COMPONENTS (EXCEPT SPRING) MANUFACTURING",
+  "pscCode" : "2530",
+  "pscTitle" : "VEHICULAR BRAKE, STEERING, AXLE, WHEEL, AND TRACK COMPONENTS"
+}, {
+  "naicsCode" : "336340",
+  "naicsTitle" : "MOTOR VEHICLE BRAKE SYSTEM MANUFACTURING",
+  "pscCode" : "2530",
+  "pscTitle" : "VEHICULAR BRAKE, STEERING, AXLE, WHEEL, AND TRACK COMPONENTS"
+}, {
+  "naicsCode" : "336350",
+  "naicsTitle" : "MOTOR VEHICLE TRANSMISSION AND POWER TRAIN PARTS MANUFACTURING",
+  "pscCode" : "3020",
+  "pscTitle" : "GEARS, PULLEYS, SPROCKETS, AND TRANSMISSION CHAIN"
+}, {
+  "naicsCode" : "336360",
+  "naicsTitle" : "MOTOR VEHICLE SEATING AND INTERIOR TRIM MANUFACTURING",
+  "pscCode" : "2510",
+  "pscTitle" : "VEHICULAR CAB, BODY, AND FRAME STRUCTURAL COMPONENTS"
+}, {
+  "naicsCode" : "336370",
+  "naicsTitle" : "MOTOR VEHICLE METAL STAMPING",
+  "pscCode" : "3442",
+  "pscTitle" : "HYDRAULIC AND PNEUMATIC PRESSES, POWER DRIVEN"
+}, {
+  "naicsCode" : "336390",
+  "naicsTitle" : "OTHER MOTOR VEHICLE PARTS MANUFACTURING",
+  "pscCode" : "3110",
+  "pscTitle" : "BEARINGS, ANTIFRICTION, UNMOUNTED"
+}, {
+  "naicsCode" : "336411",
+  "naicsTitle" : "AIRCRAFT MANUFACTURING",
+  "pscCode" : "1510",
+  "pscTitle" : "AIRCRAFT, FIXED WING"
+}, {
+  "naicsCode" : "336412",
+  "naicsTitle" : "AIRCRAFT ENGINE AND ENGINE PARTS MANUFACTURING",
+  "pscCode" : "2945",
+  "pscTitle" : "ENGINE AIR AND OIL FILTERS, CLEANERS, AIRCRAFT PRIME MOVING"
+}, {
+  "naicsCode" : "336413",
+  "naicsTitle" : "OTHER AIRCRAFT PARTS AND AUXILIARY EQUIPMENT MANUFACTURING",
+  "pscCode" : "1660",
+  "pscTitle" : "AIRCRAFT AIR CONDITIONING, HEATING, AND PRESSURIZING EQUIPMENT"
+}, {
+  "naicsCode" : "336414",
+  "naicsTitle" : "GUIDED MISSILE AND SPACE VEHICLE MANUFACTURING",
+  "pscCode" : "1427",
+  "pscTitle" : "GUIDED MISSILE SUBSYSTEMS"
+}, {
+  "naicsCode" : "336415",
+  "naicsTitle" : "GUIDED MISSILE AND SPACE VEHICLE PROPULSION UNIT AND PROPULSION UNIT PARTS MANUFACTURING",
+  "pscCode" : "1337",
+  "pscTitle" : "GUIDED MISSILE AND SPACE VEHICLE EXPLOSIVE PROPULSION UNITS, SOLID FUEL; AND COMPONENTS"
+}, {
+  "naicsCode" : "336419",
+  "naicsTitle" : "OTHER GUIDED MISSILE AND SPACE VEHICLE PARTS AND AUXILIARY EQUIPMENT MANUFACTURING",
+  "pscCode" : "1420",
+  "pscTitle" : "GUIDED MISSILE COMPONENTS"
+}, {
+  "naicsCode" : "336510",
+  "naicsTitle" : "RAILROAD ROLLING STOCK MANUFACTURING",
+  "pscCode" : "2240",
+  "pscTitle" : "LOCOMOTIVE AND RAIL CAR ACCESSORIES AND COMPONENTS"
+}, {
+  "naicsCode" : "336611",
+  "naicsTitle" : "SHIP BUILDING AND REPAIRING",
+  "pscCode" : "1930",
+  "pscTitle" : "BARGES AND LIGHTERS, CARGO"
+}, {
+  "naicsCode" : "336612",
+  "naicsTitle" : "BOAT BUILDING",
+  "pscCode" : "2040",
+  "pscTitle" : "MARINE HARDWARE AND HULL ITEMS"
+}, {
+  "naicsCode" : "336991",
+  "naicsTitle" : "MOTORCYCLE, BICYCLE, AND PARTS MANUFACTURING",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "336992",
+  "naicsTitle" : "MILITARY ARMORED VEHICLE, TANK, AND TANK COMPONENT MANUFACTURING",
+  "pscCode" : "1915",
+  "pscTitle" : "CARGO AND TANKER VESSELS"
+}, {
+  "naicsCode" : "336999",
+  "naicsTitle" : "ALL OTHER TRANSPORTATION EQUIPMENT MANUFACTURING",
+  "pscCode" : "2590",
+  "pscTitle" : "MISCELLANEOUS VEHICULAR COMPONENTS"
+}, {
+  "naicsCode" : "337110",
+  "naicsTitle" : "WOOD KITCHEN CABINET AND COUNTERTOP MANUFACTURING",
+  "pscCode" : "7125",
+  "pscTitle" : "CABINETS, LOCKERS, BINS, AND SHELVING"
+}, {
+  "naicsCode" : "337121",
+  "naicsTitle" : "UPHOLSTERED HOUSEHOLD FURNITURE MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "337122",
+  "naicsTitle" : "NONUPHOLSTERED WOOD HOUSEHOLD FURNITURE MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "337124",
+  "naicsTitle" : "METAL HOUSEHOLD FURNITURE MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "337125",
+  "naicsTitle" : "HOUSEHOLD FURNITURE (EXCEPT WOOD AND METAL) MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "337127",
+  "naicsTitle" : "INSTITUTIONAL FURNITURE MANUFACTURING",
+  "pscCode" : "6640",
+  "pscTitle" : "LABORATORY EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "337211",
+  "naicsTitle" : "WOOD OFFICE FURNITURE MANUFACTURING",
+  "pscCode" : "7110",
+  "pscTitle" : "OFFICE FURNITURE"
+}, {
+  "naicsCode" : "337212",
+  "naicsTitle" : "CUSTOM ARCHITECTURAL WOODWORK AND MILLWORK MANUFACTURING",
+  "pscCode" : "7110",
+  "pscTitle" : "OFFICE FURNITURE"
+}, {
+  "naicsCode" : "337214",
+  "naicsTitle" : "OFFICE FURNITURE (EXCEPT WOOD) MANUFACTURING",
+  "pscCode" : "7110",
+  "pscTitle" : "OFFICE FURNITURE"
+}, {
+  "naicsCode" : "337215",
+  "naicsTitle" : "SHOWCASE, PARTITION, SHELVING, AND LOCKER MANUFACTURING",
+  "pscCode" : "7125",
+  "pscTitle" : "CABINETS, LOCKERS, BINS, AND SHELVING"
+}, {
+  "naicsCode" : "337910",
+  "naicsTitle" : "MATTRESS MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "337920",
+  "naicsTitle" : "BLIND AND SHADE MANUFACTURING",
+  "pscCode" : "7230",
+  "pscTitle" : "DRAPERIES, AWNINGS, AND SHADES"
+}, {
+  "naicsCode" : "339112",
+  "naicsTitle" : "SURGICAL AND MEDICAL INSTRUMENT MANUFACTURING",
+  "pscCode" : "6515",
+  "pscTitle" : "MEDICAL AND SURGICAL INSTRUMENTS, EQUIPMENT, AND SUPPLIES"
+}, {
+  "naicsCode" : "339113",
+  "naicsTitle" : "SURGICAL APPLIANCE AND SUPPLIES MANUFACTURING",
+  "pscCode" : "6532",
+  "pscTitle" : "HOSPITAL AND SURGICAL CLOTHING AND RELATED SPECIAL PURPOSE ITEMS"
+}, {
+  "naicsCode" : "339114",
+  "naicsTitle" : "DENTAL EQUIPMENT AND SUPPLIES MANUFACTURING",
+  "pscCode" : "6520",
+  "pscTitle" : "DENTAL INSTRUMENTS, EQUIPMENT, AND SUPPLIES"
+}, {
+  "naicsCode" : "339115",
+  "naicsTitle" : "OPHTHALMIC GOODS MANUFACTURING",
+  "pscCode" : "Q512",
+  "pscTitle" : "MEDICAL- OPTOMETRY"
+}, {
+  "naicsCode" : "339116",
+  "naicsTitle" : "DENTAL LABORATORIES",
+  "pscCode" : "Q503",
+  "pscTitle" : "MEDICAL- DENTISTRY"
+}, {
+  "naicsCode" : "339910",
+  "naicsTitle" : "JEWELRY AND SILVERWARE MANUFACTURING",
+  "pscCode" : "8315",
+  "pscTitle" : "NOTIONS AND APPAREL FINDINGS"
+}, {
+  "naicsCode" : "339920",
+  "naicsTitle" : "SPORTING AND ATHLETIC GOODS MANUFACTURING",
+  "pscCode" : "7810",
+  "pscTitle" : "ATHLETIC AND SPORTING EQUIPMENT"
+}, {
+  "naicsCode" : "339930",
+  "naicsTitle" : "DOLL, TOY, AND GAME MANUFACTURING",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "339940",
+  "naicsTitle" : "OFFICE SUPPLIES (EXCEPT PAPER) MANUFACTURING",
+  "pscCode" : "6675",
+  "pscTitle" : "DRAFTING, SURVEYING, AND MAPPING INSTRUMENTS"
+}, {
+  "naicsCode" : "339950",
+  "naicsTitle" : "SIGN MANUFACTURING",
+  "pscCode" : "9905",
+  "pscTitle" : "SIGNS, ADVERTISING DISPLAYS, AND IDENTIFICATION PLATES"
+}, {
+  "naicsCode" : "339991",
+  "naicsTitle" : "GASKET, PACKING, AND SEALING DEVICE MANUFACTURING",
+  "pscCode" : "5330",
+  "pscTitle" : "PACKING AND GASKET MATERIALS"
+}, {
+  "naicsCode" : "339992",
+  "naicsTitle" : "MUSICAL INSTRUMENT MANUFACTURING",
+  "pscCode" : "7720",
+  "pscTitle" : "MUSICAL INSTRUMENT PARTS AND ACCESSORIES"
+}, {
+  "naicsCode" : "339993",
+  "naicsTitle" : "FASTENER, BUTTON, NEEDLE, AND PIN MANUFACTURING",
+  "pscCode" : "5325",
+  "pscTitle" : "FASTENING DEVICES"
+}, {
+  "naicsCode" : "339994",
+  "naicsTitle" : "BROOM, BRUSH, AND MOP MANUFACTURING",
+  "pscCode" : "7920",
+  "pscTitle" : "BROOMS, BRUSHES, MOPS, AND SPONGES"
+}, {
+  "naicsCode" : "339995",
+  "naicsTitle" : "BURIAL CASKET MANUFACTURING",
+  "pscCode" : "9930",
+  "pscTitle" : "MEMORIALS; CEMETERIAL AND MORTUARY EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "339999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS MANUFACTURING",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "423110",
+  "naicsTitle" : "AUTOMOBILE AND OTHER MOTOR VEHICLE MERCHANT WHOLESALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "423120",
+  "naicsTitle" : "MOTOR VEHICLE SUPPLIES AND NEW PARTS MERCHANT WHOLESALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "423130",
+  "naicsTitle" : "TIRE AND TUBE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423140",
+  "naicsTitle" : "MOTOR VEHICLE PARTS (USED) MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423210",
+  "naicsTitle" : "FURNITURE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423220",
+  "naicsTitle" : "HOME FURNISHING MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423310",
+  "naicsTitle" : "LUMBER, PLYWOOD, MILLWORK, AND WOOD PANEL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423320",
+  "naicsTitle" : "BRICK, STONE, AND RELATED CONSTRUCTION MATERIAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423330",
+  "naicsTitle" : "ROOFING, SIDING, AND INSULATION MATERIAL MERCHANT WHOLESALERS",
+  "pscCode" : "R707",
+  "pscTitle" : "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+}, {
+  "naicsCode" : "423390",
+  "naicsTitle" : "OTHER CONSTRUCTION MATERIAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423410",
+  "naicsTitle" : "PHOTOGRAPHIC EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423420",
+  "naicsTitle" : "OFFICE EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423430",
+  "naicsTitle" : "COMPUTER AND COMPUTER PERIPHERAL EQUIPMENT AND SOFTWARE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423440",
+  "naicsTitle" : "OTHER COMMERCIAL EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423450",
+  "naicsTitle" : "MEDICAL, DENTAL, AND HOSPITAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423460",
+  "naicsTitle" : "OPHTHALMIC GOODS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423490",
+  "naicsTitle" : "OTHER PROFESSIONAL EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423510",
+  "naicsTitle" : "METAL SERVICE CENTERS AND OTHER METAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423520",
+  "naicsTitle" : "COAL AND OTHER MINERAL AND ORE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423610",
+  "naicsTitle" : "ELECTRICAL APPARATUS AND EQUIPMENT, WIRING SUPPLIES, AND RELATED EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423620",
+  "naicsTitle" : "HOUSEHOLD APPLIANCES, ELECTRIC HOUSEWARES, AND CONSUMER ELECTRONICS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423690",
+  "naicsTitle" : "OTHER ELECTRONIC PARTS AND EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423710",
+  "naicsTitle" : "HARDWARE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423720",
+  "naicsTitle" : "PLUMBING AND HEATING EQUIPMENT AND SUPPLIES (HYDRONICS) MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423730",
+  "naicsTitle" : "WARM AIR HEATING AND AIR-CONDITIONING EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423740",
+  "naicsTitle" : "REFRIGERATION EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423810",
+  "naicsTitle" : "CONSTRUCTION AND MINING (EXCEPT OIL WELL) MACHINERY AND EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423820",
+  "naicsTitle" : "FARM AND GARDEN MACHINERY AND EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423830",
+  "naicsTitle" : "INDUSTRIAL MACHINERY AND EQUIPMENT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423840",
+  "naicsTitle" : "INDUSTRIAL SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423850",
+  "naicsTitle" : "SERVICE ESTABLISHMENT EQUIPMENT AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423860",
+  "naicsTitle" : "TRANSPORTATION EQUIPMENT AND SUPPLIES (EXCEPT MOTOR VEHICLE) MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423910",
+  "naicsTitle" : "SPORTING AND RECREATIONAL GOODS AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423920",
+  "naicsTitle" : "TOY AND HOBBY GOODS AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423930",
+  "naicsTitle" : "RECYCLABLE MATERIAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423940",
+  "naicsTitle" : "JEWELRY, WATCH, PRECIOUS STONE, AND PRECIOUS METAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "423990",
+  "naicsTitle" : "OTHER MISCELLANEOUS DURABLE GOODS MERCHANT WHOLESALERS",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "424110",
+  "naicsTitle" : "PRINTING AND WRITING PAPER MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424120",
+  "naicsTitle" : "STATIONERY AND OFFICE SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424130",
+  "naicsTitle" : "INDUSTRIAL AND PERSONAL SERVICE PAPER MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424210",
+  "naicsTitle" : "DRUGS AND DRUGGISTS' SUNDRIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424310",
+  "naicsTitle" : "PIECE GOODS, NOTIONS, AND OTHER DRY GOODS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424320",
+  "naicsTitle" : "MEN'S AND BOYS' CLOTHING AND FURNISHINGS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424330",
+  "naicsTitle" : "WOMEN'S, CHILDREN'S, AND INFANTS' CLOTHING AND ACCESSORIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424340",
+  "naicsTitle" : "FOOTWEAR MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424410",
+  "naicsTitle" : "GENERAL LINE GROCERY MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424420",
+  "naicsTitle" : "PACKAGED FROZEN FOOD MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424430",
+  "naicsTitle" : "DAIRY PRODUCT (EXCEPT DRIED OR CANNED) MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424440",
+  "naicsTitle" : "POULTRY AND POULTRY PRODUCT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424450",
+  "naicsTitle" : "CONFECTIONERY MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424460",
+  "naicsTitle" : "FISH AND SEAFOOD MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424470",
+  "naicsTitle" : "MEAT AND MEAT PRODUCT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424480",
+  "naicsTitle" : "FRESH FRUIT AND VEGETABLE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424490",
+  "naicsTitle" : "OTHER GROCERY AND RELATED PRODUCTS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424510",
+  "naicsTitle" : "GRAIN AND FIELD BEAN MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424520",
+  "naicsTitle" : "LIVESTOCK MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424590",
+  "naicsTitle" : "OTHER FARM PRODUCT RAW MATERIAL MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424610",
+  "naicsTitle" : "PLASTICS MATERIALS AND BASIC FORMS AND SHAPES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424690",
+  "naicsTitle" : "OTHER CHEMICAL AND ALLIED PRODUCTS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424710",
+  "naicsTitle" : "PETROLEUM BULK STATIONS AND TERMINALS",
+  "pscCode" : "9130",
+  "pscTitle" : "LIQUID PROPELLANTS AND FUELS, PETROLEUM BASE"
+}, {
+  "naicsCode" : "424720",
+  "naicsTitle" : "PETROLEUM AND PETROLEUM PRODUCTS MERCHANT WHOLESALERS (EXCEPT BULK STATIONS AND TERMINALS)",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424810",
+  "naicsTitle" : "BEER AND ALE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424820",
+  "naicsTitle" : "WINE AND DISTILLED ALCOHOLIC BEVERAGE MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424910",
+  "naicsTitle" : "FARM SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424920",
+  "naicsTitle" : "BOOK, PERIODICAL, AND NEWSPAPER MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424930",
+  "naicsTitle" : "FLOWER, NURSERY STOCK, AND FLORISTS' SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424940",
+  "naicsTitle" : "TOBACCO AND TOBACCO PRODUCT MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424950",
+  "naicsTitle" : "PAINT, VARNISH, AND SUPPLIES MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "424990",
+  "naicsTitle" : "OTHER MISCELLANEOUS NONDURABLE GOODS MERCHANT WHOLESALERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "425110",
+  "naicsTitle" : "BUSINESS TO BUSINESS ELECTRONIC MARKETS",
+  "pscCode" : "R707",
+  "pscTitle" : "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+}, {
+  "naicsCode" : "425120",
+  "naicsTitle" : "WHOLESALE TRADE AGENTS AND BROKERS",
+  "pscCode" : "W020",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- SHIP AND MARINE EQUIPMENT"
+}, {
+  "naicsCode" : "441110",
+  "naicsTitle" : "NEW CAR DEALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "441120",
+  "naicsTitle" : "USED CAR DEALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "441210",
+  "naicsTitle" : "RECREATIONAL VEHICLE DEALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "441222",
+  "naicsTitle" : "BOAT DEALERS",
+  "pscCode" : "W019",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- SHIPS, SMALL CRAFT, PONTOONS, AND FLOATING DOCKS"
+}, {
+  "naicsCode" : "441228",
+  "naicsTitle" : "MOTORCYCLE, ATV, AND ALL OTHER MOTOR VEHICLE DEALERS",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "441310",
+  "naicsTitle" : "AUTOMOTIVE PARTS AND ACCESSORIES STORES",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "441320",
+  "naicsTitle" : "TIRE DEALERS",
+  "pscCode" : "W026",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- TIRES AND TUBES"
+}, {
+  "naicsCode" : "442110",
+  "naicsTitle" : "FURNITURE STORES",
+  "pscCode" : "7105",
+  "pscTitle" : "HOUSEHOLD FURNITURE"
+}, {
+  "naicsCode" : "442210",
+  "naicsTitle" : "FLOOR COVERING STORES",
+  "pscCode" : "7220",
+  "pscTitle" : "FLOOR COVERINGS"
+}, {
+  "naicsCode" : "442291",
+  "naicsTitle" : "WINDOW TREATMENT STORES",
+  "pscCode" : "7230",
+  "pscTitle" : "DRAPERIES, AWNINGS, AND SHADES"
+}, {
+  "naicsCode" : "442299",
+  "naicsTitle" : "ALL OTHER HOME FURNISHINGS STORES",
+  "pscCode" : "7210",
+  "pscTitle" : "HOUSEHOLD FURNISHINGS"
+}, {
+  "naicsCode" : "443141",
+  "naicsTitle" : "HOUSEHOLD APPLIANCE STORES",
+  "pscCode" : "N072",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- HOUSEHOLD AND COMMERCIAL FURNISHINGS AND APPLIANCES"
+}, {
+  "naicsCode" : "443142",
+  "naicsTitle" : "ELECTRONICS STORES",
+  "pscCode" : "7021",
+  "pscTitle" : "ADP CENTRAL PROCESSING UNIT (CPU, COMPUTER), DIGITAL"
+}, {
+  "naicsCode" : "444110",
+  "naicsTitle" : "HOME CENTERS",
+  "pscCode" : "5510",
+  "pscTitle" : "LUMBER AND RELATED BASIC WOOD MATERIALS"
+}, {
+  "naicsCode" : "444120",
+  "naicsTitle" : "PAINT AND WALLPAPER STORES",
+  "pscCode" : "5640",
+  "pscTitle" : "WALLBOARD, BUILDING PAPER, AND THERMAL INSULATION MATERIALS"
+}, {
+  "naicsCode" : "444130",
+  "naicsTitle" : "HARDWARE STORES",
+  "pscCode" : "5340",
+  "pscTitle" : "HARDWARE, COMMERCIAL"
+}, {
+  "naicsCode" : "444190",
+  "naicsTitle" : "OTHER BUILDING MATERIAL DEALERS",
+  "pscCode" : "5996",
+  "pscTitle" : "AMPLIFIERS"
+}, {
+  "naicsCode" : "444210",
+  "naicsTitle" : "OUTDOOR POWER EQUIPMENT STORES",
+  "pscCode" : "5133",
+  "pscTitle" : "DRILL BITS, COUNTERBORES, AND COUNTERSINKS: HAND AND MACHINE"
+}, {
+  "naicsCode" : "444220",
+  "naicsTitle" : "NURSERY, GARDEN CENTER, AND FARM SUPPLY STORES",
+  "pscCode" : "3750",
+  "pscTitle" : "GARDENING IMPLEMENTS AND TOOLS"
+}, {
+  "naicsCode" : "445110",
+  "naicsTitle" : "SUPERMARKETS AND OTHER GROCERY (EXCEPT CONVENIENCE) STORES",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "445120",
+  "naicsTitle" : "CONVENIENCE STORES",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "445210",
+  "naicsTitle" : "MEAT MARKETS",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "445220",
+  "naicsTitle" : "FISH AND SEAFOOD MARKETS",
+  "pscCode" : "8905",
+  "pscTitle" : "MEAT, POULTRY, AND FISH"
+}, {
+  "naicsCode" : "445230",
+  "naicsTitle" : "FRUIT AND VEGETABLE MARKETS",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "445291",
+  "naicsTitle" : "BAKED GOODS STORES",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "445292",
+  "naicsTitle" : "CONFECTIONERY AND NUT STORES",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "445299",
+  "naicsTitle" : "ALL OTHER SPECIALTY FOOD STORES",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "445310",
+  "naicsTitle" : "BEER, WINE, AND LIQUOR STORES",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "446110",
+  "naicsTitle" : "PHARMACIES AND DRUG STORES",
+  "pscCode" : "6505",
+  "pscTitle" : "DRUGS AND BIOLOGICALS"
+}, {
+  "naicsCode" : "446120",
+  "naicsTitle" : "COSMETICS, BEAUTY SUPPLIES, AND PERFUME STORES",
+  "pscCode" : "6508",
+  "pscTitle" : "MEDICATED COSMETICS AND TOILETRIES"
+}, {
+  "naicsCode" : "446130",
+  "naicsTitle" : "OPTICAL GOODS STORES",
+  "pscCode" : "Q512",
+  "pscTitle" : "MEDICAL- OPTOMETRY"
+}, {
+  "naicsCode" : "446191",
+  "naicsTitle" : "FOOD (HEALTH) SUPPLEMENT STORES",
+  "pscCode" : "8950",
+  "pscTitle" : "CONDIMENTS AND RELATED PRODUCTS"
+}, {
+  "naicsCode" : "446199",
+  "naicsTitle" : "ALL OTHER HEALTH AND PERSONAL CARE STORES",
+  "pscCode" : "6520",
+  "pscTitle" : "DENTAL INSTRUMENTS, EQUIPMENT, AND SUPPLIES"
+}, {
+  "naicsCode" : "447110",
+  "naicsTitle" : "GASOLINE STATIONS WITH CONVENIENCE STORES",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "447190",
+  "naicsTitle" : "OTHER GASOLINE STATIONS",
+  "pscCode" : "S204",
+  "pscTitle" : "HOUSEKEEPING- FUELING AND OTHER PETROLEUM"
+}, {
+  "naicsCode" : "448110",
+  "naicsTitle" : "MEN'S CLOTHING STORES",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "448120",
+  "naicsTitle" : "WOMEN'S CLOTHING STORES",
+  "pscCode" : "8445",
+  "pscTitle" : "HOSIERY, HANDWEAR, AND CLOTHING ACCESSORIES, WOMEN'S"
+}, {
+  "naicsCode" : "448130",
+  "naicsTitle" : "CHILDREN'S AND INFANTS' CLOTHING STORES",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "448140",
+  "naicsTitle" : "FAMILY CLOTHING STORES",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "448150",
+  "naicsTitle" : "CLOTHING ACCESSORIES STORES",
+  "pscCode" : "8440",
+  "pscTitle" : "HOSIERY, HANDWEAR, AND CLOTHING ACCESSORIES, MEN'S"
+}, {
+  "naicsCode" : "448190",
+  "naicsTitle" : "OTHER CLOTHING STORES",
+  "pscCode" : "8415",
+  "pscTitle" : "CLOTHING, SPECIAL PURPOSE"
+}, {
+  "naicsCode" : "448210",
+  "naicsTitle" : "SHOE STORES",
+  "pscCode" : "8430",
+  "pscTitle" : "FOOTWEAR, MEN'S"
+}, {
+  "naicsCode" : "448310",
+  "naicsTitle" : "JEWELRY STORES",
+  "pscCode" : "9910",
+  "pscTitle" : "JEWELRY"
+}, {
+  "naicsCode" : "448320",
+  "naicsTitle" : "LUGGAGE AND LEATHER GOODS STORES",
+  "pscCode" : "N083",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- TEXTILES, LEATHER, FURS, APPAREL AND SHOE FINDINGS, TENTS AND FLAGS"
+}, {
+  "naicsCode" : "451110",
+  "naicsTitle" : "SPORTING GOODS STORES",
+  "pscCode" : "1305",
+  "pscTitle" : "AMMUNITION, THROUGH 30MM"
+}, {
+  "naicsCode" : "451120",
+  "naicsTitle" : "HOBBY, TOY, AND GAME STORES",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "451130",
+  "naicsTitle" : "SEWING, NEEDLEWORK, AND PIECE GOODS STORES",
+  "pscCode" : "3530",
+  "pscTitle" : "INDUSTRIAL SEWING MACHINES AND MOBILE TEXTILE REPAIR SHOPS"
+}, {
+  "naicsCode" : "451140",
+  "naicsTitle" : "MUSICAL INSTRUMENT AND SUPPLIES STORES",
+  "pscCode" : "J077",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- MUSICAL INST/PHONOGRAPH/HOME RADIO"
+}, {
+  "naicsCode" : "451211",
+  "naicsTitle" : "BOOK STORES",
+  "pscCode" : "7610",
+  "pscTitle" : "BOOKS AND PAMPHLETS"
+}, {
+  "naicsCode" : "451212",
+  "naicsTitle" : "NEWS DEALERS AND NEWSSTANDS",
+  "pscCode" : "7630",
+  "pscTitle" : "NEWSPAPERS AND PERIODICALS"
+}, {
+  "naicsCode" : "452111",
+  "naicsTitle" : "DEPARTMENT STORES (EXCEPT DISCOUNT DEPARTMENT STORES)",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "452112",
+  "naicsTitle" : "DISCOUNT DEPARTMENT STORES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "452910",
+  "naicsTitle" : "WAREHOUSE CLUBS AND SUPERCENTERS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "452990",
+  "naicsTitle" : "ALL OTHER GENERAL MERCHANDISE STORES",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "453110",
+  "naicsTitle" : "FLORISTS",
+  "pscCode" : "S217",
+  "pscTitle" : "HOUSEKEEPING- INTERIOR PLANTSCAPING"
+}, {
+  "naicsCode" : "453210",
+  "naicsTitle" : "OFFICE SUPPLIES AND STATIONERY STORES",
+  "pscCode" : "J075",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- OFFICE SUPPLIES AND DEVICES"
+}, {
+  "naicsCode" : "453220",
+  "naicsTitle" : "GIFT, NOVELTY, AND SOUVENIR STORES",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "453310",
+  "naicsTitle" : "USED MERCHANDISE STORES",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "453910",
+  "naicsTitle" : "PET AND PET SUPPLIES STORES",
+  "pscCode" : "8710",
+  "pscTitle" : "FORAGE AND FEED"
+}, {
+  "naicsCode" : "453920",
+  "naicsTitle" : "ART DEALERS",
+  "pscCode" : "T001",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- ARTS/GRAPHICS"
+}, {
+  "naicsCode" : "453930",
+  "naicsTitle" : "MANUFACTURED (MOBILE) HOME DEALERS",
+  "pscCode" : "2330",
+  "pscTitle" : "TRAILERS"
+}, {
+  "naicsCode" : "453991",
+  "naicsTitle" : "TOBACCO STORES",
+  "pscCode" : "8975",
+  "pscTitle" : "TOBACCO PRODUCTS"
+}, {
+  "naicsCode" : "453998",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS STORE RETAILERS (EXCEPT TOBACCO STORES)",
+  "pscCode" : "3693",
+  "pscTitle" : "INDUSTRIAL ASSEMBLY MACHINES"
+}, {
+  "naicsCode" : "454111",
+  "naicsTitle" : "ELECTRONIC SHOPPING",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "454112",
+  "naicsTitle" : "ELECTRONIC AUCTIONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "454113",
+  "naicsTitle" : "MAIL-ORDER HOUSES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "454210",
+  "naicsTitle" : "VENDING MACHINE OPERATORS",
+  "pscCode" : "3550",
+  "pscTitle" : "VENDING AND COIN OPERATED MACHINES"
+}, {
+  "naicsCode" : "454310",
+  "naicsTitle" : "FUEL DEALERS",
+  "pscCode" : "9140",
+  "pscTitle" : "FUEL OILS"
+}, {
+  "naicsCode" : "454390",
+  "naicsTitle" : "OTHER DIRECT SELLING ESTABLISHMENTS",
+  "pscCode" : "8915",
+  "pscTitle" : "FRUITS AND VEGETABLES"
+}, {
+  "naicsCode" : "481111",
+  "naicsTitle" : "SCHEDULED PASSENGER AIR TRANSPORTATION",
+  "pscCode" : "V211",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: AIR PASSENGER"
+}, {
+  "naicsCode" : "481112",
+  "naicsTitle" : "SCHEDULED FREIGHT AIR TRANSPORTATION",
+  "pscCode" : "V111",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: AIR FREIGHT"
+}, {
+  "naicsCode" : "481211",
+  "naicsTitle" : "NONSCHEDULED CHARTERED PASSENGER AIR TRANSPORTATION",
+  "pscCode" : "V211",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: AIR PASSENGER"
+}, {
+  "naicsCode" : "481212",
+  "naicsTitle" : "NONSCHEDULED CHARTERED FREIGHT AIR TRANSPORTATION",
+  "pscCode" : "V111",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: AIR FREIGHT"
+}, {
+  "naicsCode" : "481219",
+  "naicsTitle" : "OTHER NONSCHEDULED AIR TRANSPORTATION",
+  "pscCode" : "T009",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- AERIAL PHOTOGRAPHIC"
+}, {
+  "naicsCode" : "482111",
+  "naicsTitle" : "LINE-HAUL RAILROADS",
+  "pscCode" : "V113",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: RAIL FREIGHT"
+}, {
+  "naicsCode" : "482112",
+  "naicsTitle" : "SHORT LINE RAILROADS",
+  "pscCode" : "V113",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: RAIL FREIGHT"
+}, {
+  "naicsCode" : "483111",
+  "naicsTitle" : "DEEP SEA FREIGHT TRANSPORTATION",
+  "pscCode" : "V115",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: VESSEL FREIGHT"
+}, {
+  "naicsCode" : "483112",
+  "naicsTitle" : "DEEP SEA PASSENGER TRANSPORTATION",
+  "pscCode" : "V214",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MARINE PASSENGER"
+}, {
+  "naicsCode" : "483113",
+  "naicsTitle" : "COASTAL AND GREAT LAKES FREIGHT TRANSPORTATION",
+  "pscCode" : "V115",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: VESSEL FREIGHT"
+}, {
+  "naicsCode" : "483114",
+  "naicsTitle" : "COASTAL AND GREAT LAKES PASSENGER TRANSPORTATION",
+  "pscCode" : "V214",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MARINE PASSENGER"
+}, {
+  "naicsCode" : "483211",
+  "naicsTitle" : "INLAND WATER FREIGHT TRANSPORTATION",
+  "pscCode" : "1930",
+  "pscTitle" : "BARGES AND LIGHTERS, CARGO"
+}, {
+  "naicsCode" : "483212",
+  "naicsTitle" : "INLAND WATER PASSENGER TRANSPORTATION",
+  "pscCode" : "1905",
+  "pscTitle" : "COMBAT SHIPS AND LANDING VESSELS"
+}, {
+  "naicsCode" : "484110",
+  "naicsTitle" : "GENERAL FREIGHT TRUCKING, LOCAL",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "484121",
+  "naicsTitle" : "GENERAL FREIGHT TRUCKING, LONG-DISTANCE, TRUCKLOAD",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "484122",
+  "naicsTitle" : "GENERAL FREIGHT TRUCKING, LONG-DISTANCE, LESS THAN TRUCKLOAD",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "484210",
+  "naicsTitle" : "USED HOUSEHOLD AND OFFICE GOODS MOVING",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "484220",
+  "naicsTitle" : "SPECIALIZED FREIGHT (EXCEPT USED GOODS) TRUCKING, LOCAL",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "484230",
+  "naicsTitle" : "SPECIALIZED FREIGHT (EXCEPT USED GOODS) TRUCKING, LONG-DISTANCE",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "485111",
+  "naicsTitle" : "MIXED MODE TRANSIT SYSTEMS",
+  "pscCode" : "V002",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- MOTOR POOL AND PACKING/CRATING: MOTOR POOL OPERATIONS"
+}, {
+  "naicsCode" : "485112",
+  "naicsTitle" : "COMMUTER RAIL SYSTEMS",
+  "pscCode" : "V213",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: RAIL PASSENGER"
+}, {
+  "naicsCode" : "485113",
+  "naicsTitle" : "BUS AND OTHER MOTOR VEHICLE TRANSIT SYSTEMS",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485119",
+  "naicsTitle" : "OTHER URBAN TRANSIT SYSTEMS",
+  "pscCode" : "V225",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: AMBULANCE"
+}, {
+  "naicsCode" : "485210",
+  "naicsTitle" : "INTERURBAN AND RURAL BUS TRANSPORTATION",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485310",
+  "naicsTitle" : "TAXI SERVICE",
+  "pscCode" : "V226",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: TAXICAB"
+}, {
+  "naicsCode" : "485320",
+  "naicsTitle" : "LIMOUSINE SERVICE",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485410",
+  "naicsTitle" : "SCHOOL AND EMPLOYEE BUS TRANSPORTATION",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485510",
+  "naicsTitle" : "CHARTER BUS INDUSTRY",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485991",
+  "naicsTitle" : "SPECIAL NEEDS TRANSPORTATION",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "485999",
+  "naicsTitle" : "ALL OTHER TRANSIT AND GROUND PASSENGER TRANSPORTATION",
+  "pscCode" : "V211",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: AIR PASSENGER"
+}, {
+  "naicsCode" : "486110",
+  "naicsTitle" : "PIPELINE TRANSPORTATION OF CRUDE OIL",
+  "pscCode" : "3835",
+  "pscTitle" : "PETROLEUM PRODUCTION AND DISTRIBUTION EQUIPMENT"
+}, {
+  "naicsCode" : "486210",
+  "naicsTitle" : "PIPELINE TRANSPORTATION OF NATURAL GAS",
+  "pscCode" : "S111",
+  "pscTitle" : "UTILITIES- GAS"
+}, {
+  "naicsCode" : "486910",
+  "naicsTitle" : "PIPELINE TRANSPORTATION OF REFINED PETROLEUM PRODUCTS",
+  "pscCode" : "3835",
+  "pscTitle" : "PETROLEUM PRODUCTION AND DISTRIBUTION EQUIPMENT"
+}, {
+  "naicsCode" : "486990",
+  "naicsTitle" : "ALL OTHER PIPELINE TRANSPORTATION",
+  "pscCode" : "4710",
+  "pscTitle" : "PIPE, TUBE AND RIGID TUBING"
+}, {
+  "naicsCode" : "487110",
+  "naicsTitle" : "SCENIC AND SIGHTSEEING TRANSPORTATION, LAND",
+  "pscCode" : "V999",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- OTHER: OTHER"
+}, {
+  "naicsCode" : "487210",
+  "naicsTitle" : "SCENIC AND SIGHTSEEING TRANSPORTATION, WATER",
+  "pscCode" : "V214",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MARINE PASSENGER"
+}, {
+  "naicsCode" : "487990",
+  "naicsTitle" : "SCENIC AND SIGHTSEEING TRANSPORTATION, OTHER",
+  "pscCode" : "V221",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: PASSENGER AIR CHARTER"
+}, {
+  "naicsCode" : "488111",
+  "naicsTitle" : "AIR TRAFFIC CONTROL",
+  "pscCode" : "R426",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: COMMUNICATIONS"
+}, {
+  "naicsCode" : "488119",
+  "naicsTitle" : "OTHER AIRPORT OPERATIONS",
+  "pscCode" : "S201",
+  "pscTitle" : "HOUSEKEEPING- CUSTODIAL JANITORIAL"
+}, {
+  "naicsCode" : "488190",
+  "naicsTitle" : "OTHER SUPPORT ACTIVITIES FOR AIR TRANSPORTATION",
+  "pscCode" : "J015",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- AIRCRAFT AND AIRFRAME STRUCTURAL COMPONENTS"
+}, {
+  "naicsCode" : "488210",
+  "naicsTitle" : "SUPPORT ACTIVITIES FOR RAIL TRANSPORTATION",
+  "pscCode" : "J023",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "488310",
+  "naicsTitle" : "PORT AND HARBOR OPERATIONS",
+  "pscCode" : "1950",
+  "pscTitle" : "FLOATING DRYDOCKS"
+}, {
+  "naicsCode" : "488320",
+  "naicsTitle" : "MARINE CARGO HANDLING",
+  "pscCode" : "V119",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: OTHER"
+}, {
+  "naicsCode" : "488330",
+  "naicsTitle" : "NAVIGATIONAL SERVICES TO SHIPPING",
+  "pscCode" : "V999",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- OTHER: OTHER"
+}, {
+  "naicsCode" : "488390",
+  "naicsTitle" : "OTHER SUPPORT ACTIVITIES FOR WATER TRANSPORTATION",
+  "pscCode" : "H319",
+  "pscTitle" : "INSPECTION- SHIPS, SMALL CRAFT, PONTOONS, AND FLOATING DOCKS"
+}, {
+  "naicsCode" : "488410",
+  "naicsTitle" : "MOTOR VEHICLE TOWING",
+  "pscCode" : "V002",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- MOTOR POOL AND PACKING/CRATING: MOTOR POOL OPERATIONS"
+}, {
+  "naicsCode" : "488490",
+  "naicsTitle" : "OTHER SUPPORT ACTIVITIES FOR ROAD TRANSPORTATION",
+  "pscCode" : "1740",
+  "pscTitle" : "AIRFIELD SPECIALIZED TRUCKS AND TRAILERS"
+}, {
+  "naicsCode" : "488510",
+  "naicsTitle" : "FREIGHT TRANSPORTATION ARRANGEMENT",
+  "pscCode" : "V111",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: AIR FREIGHT"
+}, {
+  "naicsCode" : "488991",
+  "naicsTitle" : "PACKING AND CRATING",
+  "pscCode" : "V003",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- MOTOR POOL AND PACKING/CRATING: PACKING/CRATING"
+}, {
+  "naicsCode" : "488999",
+  "naicsTitle" : "ALL OTHER SUPPORT ACTIVITIES FOR TRANSPORTATION",
+  "pscCode" : "V999",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- OTHER: OTHER"
+}, {
+  "naicsCode" : "491110",
+  "naicsTitle" : "POSTAL SERVICE",
+  "pscCode" : "R602",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: COURIER/MESSENGER"
+}, {
+  "naicsCode" : "492110",
+  "naicsTitle" : "COURIERS AND EXPRESS DELIVERY SERVICES",
+  "pscCode" : "R602",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: COURIER/MESSENGER"
+}, {
+  "naicsCode" : "492210",
+  "naicsTitle" : "LOCAL MESSENGERS AND LOCAL DELIVERY",
+  "pscCode" : "R602",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: COURIER/MESSENGER"
+}, {
+  "naicsCode" : "493110",
+  "naicsTitle" : "GENERAL WAREHOUSING AND STORAGE",
+  "pscCode" : "S215",
+  "pscTitle" : "HOUSEKEEPING- WAREHOUSING/STORAGE"
+}, {
+  "naicsCode" : "493120",
+  "naicsTitle" : "REFRIGERATED WAREHOUSING AND STORAGE",
+  "pscCode" : "S215",
+  "pscTitle" : "HOUSEKEEPING- WAREHOUSING/STORAGE"
+}, {
+  "naicsCode" : "493130",
+  "naicsTitle" : "FARM PRODUCT WAREHOUSING AND STORAGE",
+  "pscCode" : "S215",
+  "pscTitle" : "HOUSEKEEPING- WAREHOUSING/STORAGE"
+}, {
+  "naicsCode" : "493190",
+  "naicsTitle" : "OTHER WAREHOUSING AND STORAGE",
+  "pscCode" : "S215",
+  "pscTitle" : "HOUSEKEEPING- WAREHOUSING/STORAGE"
+}, {
+  "naicsCode" : "511110",
+  "naicsTitle" : "NEWSPAPER PUBLISHERS",
+  "pscCode" : "7630",
+  "pscTitle" : "NEWSPAPERS AND PERIODICALS"
+}, {
+  "naicsCode" : "511120",
+  "naicsTitle" : "PERIODICAL PUBLISHERS",
+  "pscCode" : "7630",
+  "pscTitle" : "NEWSPAPERS AND PERIODICALS"
+}, {
+  "naicsCode" : "511130",
+  "naicsTitle" : "BOOK PUBLISHERS",
+  "pscCode" : "7610",
+  "pscTitle" : "BOOKS AND PAMPHLETS"
+}, {
+  "naicsCode" : "511140",
+  "naicsTitle" : "DIRECTORY AND MAILING LIST PUBLISHERS",
+  "pscCode" : "T011",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- PRINT/BINDING"
+}, {
+  "naicsCode" : "511191",
+  "naicsTitle" : "GREETING CARD PUBLISHERS",
+  "pscCode" : "T011",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- PRINT/BINDING"
+}, {
+  "naicsCode" : "511199",
+  "naicsTitle" : "ALL OTHER PUBLISHERS",
+  "pscCode" : "T011",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- PRINT/BINDING"
+}, {
+  "naicsCode" : "511210",
+  "naicsTitle" : "SOFTWARE PUBLISHERS",
+  "pscCode" : "7030",
+  "pscTitle" : "INFORMATION TECHNOLOGY SOFTWARE"
+}, {
+  "naicsCode" : "512110",
+  "naicsTitle" : "MOTION PICTURE AND VIDEO PRODUCTION",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "512120",
+  "naicsTitle" : "MOTION PICTURE AND VIDEO DISTRIBUTION",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "512131",
+  "naicsTitle" : "MOTION PICTURE THEATERS (EXCEPT DRIVE-INS)",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "512132",
+  "naicsTitle" : "DRIVE-IN MOTION PICTURE THEATERS",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "512191",
+  "naicsTitle" : "TELEPRODUCTION AND OTHER POSTPRODUCTION SERVICES",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "512199",
+  "naicsTitle" : "OTHER MOTION PICTURE AND VIDEO INDUSTRIES",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "512210",
+  "naicsTitle" : "RECORD PRODUCTION",
+  "pscCode" : "T016",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- AUDIO/VISUAL"
+}, {
+  "naicsCode" : "512220",
+  "naicsTitle" : "INTEGRATED RECORD PRODUCTION/DISTRIBUTION",
+  "pscCode" : "7740",
+  "pscTitle" : "PHONOGRAPH RECORDS"
+}, {
+  "naicsCode" : "512230",
+  "naicsTitle" : "MUSIC PUBLISHERS",
+  "pscCode" : "T016",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- AUDIO/VISUAL"
+}, {
+  "naicsCode" : "512240",
+  "naicsTitle" : "SOUND RECORDING STUDIOS",
+  "pscCode" : "T016",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- AUDIO/VISUAL"
+}, {
+  "naicsCode" : "512290",
+  "naicsTitle" : "OTHER SOUND RECORDING INDUSTRIES",
+  "pscCode" : "T016",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- AUDIO/VISUAL"
+}, {
+  "naicsCode" : "515111",
+  "naicsTitle" : "RADIO NETWORKS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "515112",
+  "naicsTitle" : "RADIO STATIONS",
+  "pscCode" : "D399",
+  "pscTitle" : "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+}, {
+  "naicsCode" : "515120",
+  "naicsTitle" : "TELEVISION BROADCASTING",
+  "pscCode" : "D399",
+  "pscTitle" : "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+}, {
+  "naicsCode" : "515210",
+  "naicsTitle" : "CABLE AND OTHER SUBSCRIPTION PROGRAMMING",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "517110",
+  "naicsTitle" : "WIRED TELECOMMUNICATIONS CARRIERS",
+  "pscCode" : "D309",
+  "pscTitle" : "IT AND TELECOM- INFORMATION AND DATA BROADCASTING OR DATA DISTRIBUTION"
+}, {
+  "naicsCode" : "517210",
+  "naicsTitle" : "WIRELESS TELECOMMUNICATIONS CARRIERS (EXCEPT SATELLITE)",
+  "pscCode" : "D399",
+  "pscTitle" : "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+}, {
+  "naicsCode" : "517410",
+  "naicsTitle" : "SATELLITE TELECOMMUNICATIONS",
+  "pscCode" : "D399",
+  "pscTitle" : "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+}, {
+  "naicsCode" : "517911",
+  "naicsTitle" : "TELECOMMUNICATIONS RESELLERS",
+  "pscCode" : "D304",
+  "pscTitle" : "IT AND TELECOM- TELECOMMUNICATIONS AND TRANSMISSION"
+}, {
+  "naicsCode" : "517919",
+  "naicsTitle" : "ALL OTHER TELECOMMUNICATIONS",
+  "pscCode" : "D309",
+  "pscTitle" : "IT AND TELECOM- INFORMATION AND DATA BROADCASTING OR DATA DISTRIBUTION"
+}, {
+  "naicsCode" : "518210",
+  "naicsTitle" : "DATA PROCESSING, HOSTING, AND RELATED SERVICES",
+  "pscCode" : "D303",
+  "pscTitle" : "IT AND TELECOM- DATA ENTRY"
+}, {
+  "naicsCode" : "519110",
+  "naicsTitle" : "NEWS SYNDICATES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "519120",
+  "naicsTitle" : "LIBRARIES AND ARCHIVES",
+  "pscCode" : "T006",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM/VIDEO TAPE PRODUCTION"
+}, {
+  "naicsCode" : "519130",
+  "naicsTitle" : "INTERNET PUBLISHING AND BROADCASTING AND WEB SEARCH PORTALS",
+  "pscCode" : "7610",
+  "pscTitle" : "BOOKS AND PAMPHLETS"
+}, {
+  "naicsCode" : "519190",
+  "naicsTitle" : "ALL OTHER INFORMATION SERVICES",
+  "pscCode" : "T013",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- TECHNICAL WRITING"
+}, {
+  "naicsCode" : "521110",
+  "naicsTitle" : "MONETARY AUTHORITIES-CENTRAL BANK",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "522110",
+  "naicsTitle" : "COMMERCIAL BANKING",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522120",
+  "naicsTitle" : "SAVINGS INSTITUTIONS",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522130",
+  "naicsTitle" : "CREDIT UNIONS",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522190",
+  "naicsTitle" : "OTHER DEPOSITORY CREDIT INTERMEDIATION",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522210",
+  "naicsTitle" : "CREDIT CARD ISSUING",
+  "pscCode" : "R611",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: CREDIT REPORTING"
+}, {
+  "naicsCode" : "522220",
+  "naicsTitle" : "SALES FINANCING",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522291",
+  "naicsTitle" : "CONSUMER LENDING",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522292",
+  "naicsTitle" : "REAL ESTATE CREDIT",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522293",
+  "naicsTitle" : "INTERNATIONAL TRADE FINANCING",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522294",
+  "naicsTitle" : "SECONDARY MARKET FINANCING",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522298",
+  "naicsTitle" : "ALL OTHER NONDEPOSITORY CREDIT INTERMEDIATION",
+  "pscCode" : "9999",
+  "pscTitle" : "MISCELLANEOUS ITEMS"
+}, {
+  "naicsCode" : "522310",
+  "naicsTitle" : "MORTGAGE AND NONMORTGAGE LOAN BROKERS",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "522320",
+  "naicsTitle" : "FINANCIAL TRANSACTIONS PROCESSING, RESERVE, AND CLEARINGHOUSE ACTIVITIES",
+  "pscCode" : "R611",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: CREDIT REPORTING"
+}, {
+  "naicsCode" : "522390",
+  "naicsTitle" : "OTHER ACTIVITIES RELATED TO CREDIT INTERMEDIATION",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "523110",
+  "naicsTitle" : "INVESTMENT BANKING AND SECURITIES DEALING",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "523120",
+  "naicsTitle" : "SECURITIES BROKERAGE",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "523130",
+  "naicsTitle" : "COMMODITY CONTRACTS DEALING",
+  "pscCode" : "R604",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION"
+}, {
+  "naicsCode" : "523140",
+  "naicsTitle" : "COMMODITY CONTRACTS BROKERAGE",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "523210",
+  "naicsTitle" : "SECURITIES AND COMMODITY EXCHANGES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "523910",
+  "naicsTitle" : "MISCELLANEOUS INTERMEDIATION",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "523920",
+  "naicsTitle" : "PORTFOLIO MANAGEMENT",
+  "pscCode" : "R707",
+  "pscTitle" : "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+}, {
+  "naicsCode" : "523930",
+  "naicsTitle" : "INVESTMENT ADVICE",
+  "pscCode" : "R422",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+}, {
+  "naicsCode" : "523991",
+  "naicsTitle" : "TRUST, FIDUCIARY, AND CUSTODY ACTIVITIES",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "523999",
+  "naicsTitle" : "MISCELLANEOUS FINANCIAL INVESTMENT ACTIVITIES",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "524113",
+  "naicsTitle" : "DIRECT LIFE INSURANCE CARRIERS",
+  "pscCode" : "G009",
+  "pscTitle" : "SOCIAL- NON-GOVERNMENT INSURANCE PROGRAMS"
+}, {
+  "naicsCode" : "524114",
+  "naicsTitle" : "DIRECT HEALTH AND MEDICAL INSURANCE CARRIERS",
+  "pscCode" : "Q101",
+  "pscTitle" : "MEDICAL- DEPENDENT MEDICARE"
+}, {
+  "naicsCode" : "524126",
+  "naicsTitle" : "DIRECT PROPERTY AND CASUALTY INSURANCE CARRIERS",
+  "pscCode" : "S202",
+  "pscTitle" : "HOUSEKEEPING- FIRE PROTECTION"
+}, {
+  "naicsCode" : "524127",
+  "naicsTitle" : "DIRECT TITLE INSURANCE CARRIERS",
+  "pscCode" : "G009",
+  "pscTitle" : "SOCIAL- NON-GOVERNMENT INSURANCE PROGRAMS"
+}, {
+  "naicsCode" : "524128",
+  "naicsTitle" : "OTHER DIRECT INSURANCE (EXCEPT LIFE, HEALTH, AND MEDICAL) CARRIERS",
+  "pscCode" : "Q512",
+  "pscTitle" : "MEDICAL- OPTOMETRY"
+}, {
+  "naicsCode" : "524130",
+  "naicsTitle" : "REINSURANCE CARRIERS",
+  "pscCode" : "S202",
+  "pscTitle" : "HOUSEKEEPING- FIRE PROTECTION"
+}, {
+  "naicsCode" : "524210",
+  "naicsTitle" : "INSURANCE AGENCIES AND BROKERAGES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "524291",
+  "naicsTitle" : "CLAIMS ADJUSTING",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "524292",
+  "naicsTitle" : "THIRD PARTY ADMINISTRATION OF INSURANCE AND PENSION FUNDS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "524298",
+  "naicsTitle" : "ALL OTHER INSURANCE RELATED ACTIVITIES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "525110",
+  "naicsTitle" : "PENSION FUNDS",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "525120",
+  "naicsTitle" : "HEALTH AND WELFARE FUNDS",
+  "pscCode" : "Q101",
+  "pscTitle" : "MEDICAL- DEPENDENT MEDICARE"
+}, {
+  "naicsCode" : "525190",
+  "naicsTitle" : "OTHER INSURANCE FUNDS",
+  "pscCode" : "S202",
+  "pscTitle" : "HOUSEKEEPING- FIRE PROTECTION"
+}, {
+  "naicsCode" : "525910",
+  "naicsTitle" : "OPEN-END INVESTMENT FUNDS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "525920",
+  "naicsTitle" : "TRUSTS, ESTATES, AND AGENCY ACCOUNTS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "525990",
+  "naicsTitle" : "OTHER FINANCIAL VEHICLES",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "531110",
+  "naicsTitle" : "LESSORS OF RESIDENTIAL BUILDINGS AND DWELLINGS",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "531120",
+  "naicsTitle" : "LESSORS OF NONRESIDENTIAL BUILDINGS (EXCEPT MINIWAREHOUSES)",
+  "pscCode" : "S216",
+  "pscTitle" : "HOUSEKEEPING- FACILITIES OPERATIONS SUPPORT"
+}, {
+  "naicsCode" : "531130",
+  "naicsTitle" : "LESSORS OF MINIWAREHOUSES AND SELF-STORAGE UNITS",
+  "pscCode" : "S215",
+  "pscTitle" : "HOUSEKEEPING- WAREHOUSING/STORAGE"
+}, {
+  "naicsCode" : "531190",
+  "naicsTitle" : "LESSORS OF OTHER REAL ESTATE PROPERTY",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "531210",
+  "naicsTitle" : "OFFICES OF REAL ESTATE AGENTS AND BROKERS",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "531311",
+  "naicsTitle" : "RESIDENTIAL PROPERTY MANAGERS",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "531312",
+  "naicsTitle" : "NONRESIDENTIAL PROPERTY MANAGERS",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "531320",
+  "naicsTitle" : "OFFICES OF REAL ESTATE APPRAISERS",
+  "pscCode" : "R411",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: REAL PROPERTY APPRAISALS"
+}, {
+  "naicsCode" : "531390",
+  "naicsTitle" : "OTHER ACTIVITIES RELATED TO REAL ESTATE",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "532111",
+  "naicsTitle" : "PASSENGER CAR RENTAL",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "532112",
+  "naicsTitle" : "PASSENGER CAR LEASING",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "532120",
+  "naicsTitle" : "TRUCK, UTILITY TRAILER, AND RV (RECREATIONAL VEHICLE) RENTAL AND LEASING",
+  "pscCode" : "W023",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "532210",
+  "naicsTitle" : "CONSUMER ELECTRONICS AND APPLIANCES RENTAL",
+  "pscCode" : "W059",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "532220",
+  "naicsTitle" : "FORMAL WEAR AND COSTUME RENTAL",
+  "pscCode" : "8415",
+  "pscTitle" : "CLOTHING, SPECIAL PURPOSE"
+}, {
+  "naicsCode" : "532230",
+  "naicsTitle" : "VIDEO TAPE AND DISC RENTAL",
+  "pscCode" : "W099",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- MISCELLANEOUS"
+}, {
+  "naicsCode" : "532291",
+  "naicsTitle" : "HOME HEALTH EQUIPMENT RENTAL",
+  "pscCode" : "W071",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- FURNITURE"
+}, {
+  "naicsCode" : "532292",
+  "naicsTitle" : "RECREATIONAL GOODS RENTAL",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "532299",
+  "naicsTitle" : "ALL OTHER CONSUMER GOODS RENTAL",
+  "pscCode" : "W079",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- CLEANING EQUIPMENT AND SUPPLIES"
+}, {
+  "naicsCode" : "532310",
+  "naicsTitle" : "GENERAL RENTAL CENTERS",
+  "pscCode" : "W087",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- AGRICULTURAL SUPPLIES"
+}, {
+  "naicsCode" : "532411",
+  "naicsTitle" : "COMMERCIAL AIR, RAIL, AND WATER TRANSPORTATION EQUIPMENT RENTAL AND LEASING",
+  "pscCode" : "W015",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- AIRCRAFT AND AIRFRAME STRUCTURAL COMPONENTS"
+}, {
+  "naicsCode" : "532412",
+  "naicsTitle" : "CONSTRUCTION, MINING, AND FORESTRY MACHINERY AND EQUIPMENT RENTAL AND LEASING",
+  "pscCode" : "W037",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- AGRICULTURAL MACHINERY AND EQUIPMENT"
+}, {
+  "naicsCode" : "532420",
+  "naicsTitle" : "OFFICE MACHINERY AND EQUIPMENT RENTAL AND LEASING",
+  "pscCode" : "W070",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- INFORMATION TECHNOLOGY/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+}, {
+  "naicsCode" : "532490",
+  "naicsTitle" : "OTHER COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT RENTAL AND LEASING",
+  "pscCode" : "6710",
+  "pscTitle" : "CAMERAS, MOTION PICTURE"
+}, {
+  "naicsCode" : "533110",
+  "naicsTitle" : "LESSORS OF NONFINANCIAL INTANGIBLE ASSETS (EXCEPT COPYRIGHTED WORKS)",
+  "pscCode" : "R498",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: PATENT AND TRADEMARK"
+}, {
+  "naicsCode" : "541110",
+  "naicsTitle" : "OFFICES OF LAWYERS",
+  "pscCode" : "R418",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: LEGAL"
+}, {
+  "naicsCode" : "541120",
+  "naicsTitle" : "OFFICES OF NOTARIES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "541191",
+  "naicsTitle" : "TITLE ABSTRACT AND SETTLEMENT OFFICES",
+  "pscCode" : "R707",
+  "pscTitle" : "SUPPORT- MANAGEMENT: CONTRACT/PROCUREMENT/ACQUISITION SUPPORT"
+}, {
+  "naicsCode" : "541199",
+  "naicsTitle" : "ALL OTHER LEGAL SERVICES",
+  "pscCode" : "R418",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: LEGAL"
+}, {
+  "naicsCode" : "541211",
+  "naicsTitle" : "OFFICES OF CERTIFIED PUBLIC ACCOUNTANTS",
+  "pscCode" : "R703",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ACCOUNTING"
+}, {
+  "naicsCode" : "541213",
+  "naicsTitle" : "TAX PREPARATION SERVICES",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "541214",
+  "naicsTitle" : "PAYROLL SERVICES",
+  "pscCode" : "R703",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ACCOUNTING"
+}, {
+  "naicsCode" : "541219",
+  "naicsTitle" : "OTHER ACCOUNTING SERVICES",
+  "pscCode" : "R703",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ACCOUNTING"
+}, {
+  "naicsCode" : "541310",
+  "naicsTitle" : "ARCHITECTURAL SERVICES",
+  "pscCode" : "C213",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- GENERAL: INSPECTION (NON-CONSTRUCTION)"
+}, {
+  "naicsCode" : "541320",
+  "naicsTitle" : "LANDSCAPE ARCHITECTURAL SERVICES",
+  "pscCode" : "R404",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: LAND SURVEYS-CADASTRAL (NON-CONSTRUCTION)"
+}, {
+  "naicsCode" : "541330",
+  "naicsTitle" : "ENGINEERING SERVICES",
+  "pscCode" : "C212",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- GENERAL: ENGINEERING DRAFTING, NOT CAD/CAM"
+}, {
+  "naicsCode" : "541340",
+  "naicsTitle" : "DRAFTING SERVICES",
+  "pscCode" : "C212",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- GENERAL: ENGINEERING DRAFTING, NOT CAD/CAM"
+}, {
+  "naicsCode" : "541350",
+  "naicsTitle" : "BUILDING INSPECTION SERVICES",
+  "pscCode" : "H399",
+  "pscTitle" : "INSPECTION- MISCELLANEOUS"
+}, {
+  "naicsCode" : "541360",
+  "naicsTitle" : "GEOPHYSICAL SURVEYING AND MAPPING SERVICES",
+  "pscCode" : "6675",
+  "pscTitle" : "DRAFTING, SURVEYING, AND MAPPING INSTRUMENTS"
+}, {
+  "naicsCode" : "541370",
+  "naicsTitle" : "SURVEYING AND MAPPING (EXCEPT GEOPHYSICAL) SERVICES",
+  "pscCode" : "T002",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- CARTOGRAPHY"
+}, {
+  "naicsCode" : "541380",
+  "naicsTitle" : "TESTING LABORATORIES",
+  "pscCode" : "Q301",
+  "pscTitle" : "MEDICAL- LABORATORY TESTING"
+}, {
+  "naicsCode" : "541410",
+  "naicsTitle" : "INTERIOR DESIGN SERVICES",
+  "pscCode" : "C211",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- GENERAL: LANDSCAPING, INTERIOR LAYOUT, AND DESIGNING"
+}, {
+  "naicsCode" : "541420",
+  "naicsTitle" : "INDUSTRIAL DESIGN SERVICES",
+  "pscCode" : "C1EZ",
+  "pscTitle" : "ARCHITECT AND ENGINEERING- CONSTRUCTION: OTHER INDUSTRIAL BUILDINGS"
+}, {
+  "naicsCode" : "541430",
+  "naicsTitle" : "GRAPHIC DESIGN SERVICES",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "541490",
+  "naicsTitle" : "OTHER SPECIALIZED DESIGN SERVICES",
+  "pscCode" : "K084",
+  "pscTitle" : "MODIFICATION OF EQUIPMENT- CLOTHING, INDIVIDUAL EQUIPMENT, AND INSIGNIA"
+}, {
+  "naicsCode" : "541511",
+  "naicsTitle" : "CUSTOM COMPUTER PROGRAMMING SERVICES",
+  "pscCode" : "D399",
+  "pscTitle" : "IT AND TELECOM- OTHER IT AND TELECOMMUNICATIONS"
+}, {
+  "naicsCode" : "541512",
+  "naicsTitle" : "COMPUTER SYSTEMS DESIGN SERVICES",
+  "pscCode" : "7010",
+  "pscTitle" : "INFORMATION TECHNOLOGY EQUIPMENT SYSTEM CONFIGURATION"
+}, {
+  "naicsCode" : "541513",
+  "naicsTitle" : "COMPUTER FACILITIES MANAGEMENT SERVICES",
+  "pscCode" : "D301",
+  "pscTitle" : "IT AND TELECOM- FACILITY OPERATION AND MAINTENANCE"
+}, {
+  "naicsCode" : "541519",
+  "naicsTitle" : "OTHER COMPUTER RELATED SERVICES",
+  "pscCode" : "D310",
+  "pscTitle" : "IT AND TELECOM- CYBER SECURITY AND DATA BACKUP"
+}, {
+  "naicsCode" : "541611",
+  "naicsTitle" : "ADMINISTRATIVE MANAGEMENT AND GENERAL MANAGEMENT CONSULTING SERVICES",
+  "pscCode" : "R699",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: OTHER"
+}, {
+  "naicsCode" : "541612",
+  "naicsTitle" : "HUMAN RESOURCES CONSULTING SERVICES",
+  "pscCode" : "B524",
+  "pscTitle" : "SPECIAL STUDIES/ANALYSIS- MATHEMATICAL/STATISTICAL"
+}, {
+  "naicsCode" : "541613",
+  "naicsTitle" : "MARKETING CONSULTING SERVICES",
+  "pscCode" : "R422",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+}, {
+  "naicsCode" : "541614",
+  "naicsTitle" : "PROCESS, PHYSICAL DISTRIBUTION, AND LOGISTICS CONSULTING SERVICES",
+  "pscCode" : "R704",
+  "pscTitle" : "SUPPORT- MANAGEMENT: AUDITING"
+}, {
+  "naicsCode" : "541618",
+  "naicsTitle" : "OTHER MANAGEMENT CONSULTING SERVICES",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "541620",
+  "naicsTitle" : "ENVIRONMENTAL CONSULTING SERVICES",
+  "pscCode" : "AH93",
+  "pscTitle" : "R&D- ENVIRONMENTAL PROTECTION: OTHER (ADVANCED DEVELOPMENT)"
+}, {
+  "naicsCode" : "541690",
+  "naicsTitle" : "OTHER SCIENTIFIC AND TECHNICAL CONSULTING SERVICES",
+  "pscCode" : "AA92",
+  "pscTitle" : "R&D- AGRICULTURE: OTHER (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+}, {
+  "naicsCode" : "541711",
+  "naicsTitle" : "RESEARCH AND DEVELOPMENT IN BIOTECHNOLOGY",
+  "pscCode" : "AJ52",
+  "pscTitle" : "R&D- GENERAL SCIENCE/TECHNOLOGY: LIFE SCIENCES (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+}, {
+  "naicsCode" : "541712",
+  "naicsTitle" : "RESEARCH AND DEVELOPMENT IN THE PHYSICAL, ENGINEERING, AND LIFE SCIENCES (EXCEPT BIOTECHNOLOGY)",
+  "pscCode" : "AC13",
+  "pscTitle" : "R&D- DEFENSE SYSTEM: AIRCRAFT (ADVANCED DEVELOPMENT)"
+}, {
+  "naicsCode" : "541720",
+  "naicsTitle" : "RESEARCH AND DEVELOPMENT IN THE SOCIAL SCIENCES AND HUMANITIES",
+  "pscCode" : "AD24",
+  "pscTitle" : "R&D- DEFENSE OTHER: SERVICES (ENGINEERING DEVELOPMENT)"
+}, {
+  "naicsCode" : "541810",
+  "naicsTitle" : "ADVERTISING AGENCIES",
+  "pscCode" : "R701",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ADVERTISING"
+}, {
+  "naicsCode" : "541820",
+  "naicsTitle" : "PUBLIC RELATIONS AGENCIES",
+  "pscCode" : "R708",
+  "pscTitle" : "SUPPORT- MANAGEMENT: PUBLIC RELATIONS"
+}, {
+  "naicsCode" : "541830",
+  "naicsTitle" : "MEDIA BUYING AGENCIES",
+  "pscCode" : "R701",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ADVERTISING"
+}, {
+  "naicsCode" : "541840",
+  "naicsTitle" : "MEDIA REPRESENTATIVES",
+  "pscCode" : "R701",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ADVERTISING"
+}, {
+  "naicsCode" : "541850",
+  "naicsTitle" : "OUTDOOR ADVERTISING",
+  "pscCode" : "R701",
+  "pscTitle" : "SUPPORT- MANAGEMENT: ADVERTISING"
+}, {
+  "naicsCode" : "541860",
+  "naicsTitle" : "DIRECT MAIL ADVERTISING",
+  "pscCode" : "R604",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION"
+}, {
+  "naicsCode" : "541870",
+  "naicsTitle" : "ADVERTISING MATERIAL DISTRIBUTION SERVICES",
+  "pscCode" : "R604",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION"
+}, {
+  "naicsCode" : "541890",
+  "naicsTitle" : "OTHER SERVICES RELATED TO ADVERTISING",
+  "pscCode" : "9905",
+  "pscTitle" : "SIGNS, ADVERTISING DISPLAYS, AND IDENTIFICATION PLATES"
+}, {
+  "naicsCode" : "541910",
+  "naicsTitle" : "MARKETING RESEARCH AND PUBLIC OPINION POLLING",
+  "pscCode" : "AA24",
+  "pscTitle" : "R&D- AGRICULTURE: MARKETING (ENGINEERING DEVELOPMENT)"
+}, {
+  "naicsCode" : "541921",
+  "naicsTitle" : "PHOTOGRAPHY STUDIOS, PORTRAIT",
+  "pscCode" : "T010",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- GENERAL PHOTOGRAPHIC: STILL"
+}, {
+  "naicsCode" : "541922",
+  "naicsTitle" : "COMMERCIAL PHOTOGRAPHY",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "541930",
+  "naicsTitle" : "TRANSLATION AND INTERPRETATION SERVICES",
+  "pscCode" : "R608",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: TRANSLATION AND INTERPRETING"
+}, {
+  "naicsCode" : "541940",
+  "naicsTitle" : "VETERINARY SERVICES",
+  "pscCode" : "Q301",
+  "pscTitle" : "MEDICAL- LABORATORY TESTING"
+}, {
+  "naicsCode" : "541990",
+  "naicsTitle" : "ALL OTHER PROFESSIONAL, SCIENTIFIC, AND TECHNICAL SERVICES",
+  "pscCode" : "H320",
+  "pscTitle" : "INSPECTION- SHIP AND MARINE EQUIPMENT"
+}, {
+  "naicsCode" : "551111",
+  "naicsTitle" : "OFFICES OF BANK HOLDING COMPANIES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "551112",
+  "naicsTitle" : "OFFICES OF OTHER HOLDING COMPANIES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "551114",
+  "naicsTitle" : "CORPORATE, SUBSIDIARY, AND REGIONAL MANAGING OFFICES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "561110",
+  "naicsTitle" : "OFFICE ADMINISTRATIVE SERVICES",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "561210",
+  "naicsTitle" : "FACILITIES SUPPORT SERVICES",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "561311",
+  "naicsTitle" : "EMPLOYMENT PLACEMENT AGENCIES",
+  "pscCode" : "S299",
+  "pscTitle" : "HOUSEKEEPING- OTHER"
+}, {
+  "naicsCode" : "561312",
+  "naicsTitle" : "EXECUTIVE SEARCH SERVICES",
+  "pscCode" : "B524",
+  "pscTitle" : "SPECIAL STUDIES/ANALYSIS- MATHEMATICAL/STATISTICAL"
+}, {
+  "naicsCode" : "561320",
+  "naicsTitle" : "TEMPORARY HELP SERVICES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "561330",
+  "naicsTitle" : "PROFESSIONAL EMPLOYER ORGANIZATIONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "561410",
+  "naicsTitle" : "DOCUMENT PREPARATION SERVICES",
+  "pscCode" : "J077",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- MUSICAL INST/PHONOGRAPH/HOME RADIO"
+}, {
+  "naicsCode" : "561421",
+  "naicsTitle" : "TELEPHONE ANSWERING SERVICES",
+  "pscCode" : "D307",
+  "pscTitle" : "IT AND TELECOM- IT STRATEGY AND ARCHITECTURE"
+}, {
+  "naicsCode" : "561422",
+  "naicsTitle" : "TELEMARKETING BUREAUS AND OTHER CONTACT CENTERS",
+  "pscCode" : "R422",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: MARKET RESEARCH/PUBLIC OPINION"
+}, {
+  "naicsCode" : "561431",
+  "naicsTitle" : "PRIVATE MAIL CENTERS",
+  "pscCode" : "R604",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION"
+}, {
+  "naicsCode" : "561439",
+  "naicsTitle" : "OTHER BUSINESS SERVICE CENTERS (INCLUDING COPY SHOPS)",
+  "pscCode" : "T012",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- REPRODUCTION"
+}, {
+  "naicsCode" : "561440",
+  "naicsTitle" : "COLLECTION AGENCIES",
+  "pscCode" : "R702",
+  "pscTitle" : "SUPPORT- MANAGEMENT: DATA COLLECTION"
+}, {
+  "naicsCode" : "561450",
+  "naicsTitle" : "CREDIT BUREAUS",
+  "pscCode" : "R611",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: CREDIT REPORTING"
+}, {
+  "naicsCode" : "561491",
+  "naicsTitle" : "REPOSSESSION SERVICES",
+  "pscCode" : "R705",
+  "pscTitle" : "SUPPORT- MANAGEMENT: DEBT COLLECTION"
+}, {
+  "naicsCode" : "561492",
+  "naicsTitle" : "COURT REPORTING AND STENOTYPE SERVICES",
+  "pscCode" : "R606",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: COURT REPORTING"
+}, {
+  "naicsCode" : "561499",
+  "naicsTitle" : "ALL OTHER BUSINESS SUPPORT SERVICES",
+  "pscCode" : "R699",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: OTHER"
+}, {
+  "naicsCode" : "561510",
+  "naicsTitle" : "TRAVEL AGENCIES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "561520",
+  "naicsTitle" : "TOUR OPERATORS",
+  "pscCode" : "R708",
+  "pscTitle" : "SUPPORT- MANAGEMENT: PUBLIC RELATIONS"
+}, {
+  "naicsCode" : "561591",
+  "naicsTitle" : "CONVENTION AND VISITORS BUREAUS",
+  "pscCode" : "R708",
+  "pscTitle" : "SUPPORT- MANAGEMENT: PUBLIC RELATIONS"
+}, {
+  "naicsCode" : "561599",
+  "naicsTitle" : "ALL OTHER TRAVEL ARRANGEMENT AND RESERVATION SERVICES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "561611",
+  "naicsTitle" : "INVESTIGATION SERVICES",
+  "pscCode" : "R423",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: INTELLIGENCE"
+}, {
+  "naicsCode" : "561612",
+  "naicsTitle" : "SECURITY GUARDS AND PATROL SERVICES",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "561613",
+  "naicsTitle" : "ARMORED CAR SERVICES",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "561621",
+  "naicsTitle" : "SECURITY SYSTEMS SERVICES (EXCEPT LOCKSMITHS)",
+  "pscCode" : "S211",
+  "pscTitle" : "HOUSEKEEPING- SURVEILLANCE"
+}, {
+  "naicsCode" : "561622",
+  "naicsTitle" : "LOCKSMITHS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "561710",
+  "naicsTitle" : "EXTERMINATING AND PEST CONTROL SERVICES",
+  "pscCode" : "S207",
+  "pscTitle" : "HOUSEKEEPING- INSECT/RODENT CONTROL"
+}, {
+  "naicsCode" : "561720",
+  "naicsTitle" : "JANITORIAL SERVICES",
+  "pscCode" : "S201",
+  "pscTitle" : "HOUSEKEEPING- CUSTODIAL JANITORIAL"
+}, {
+  "naicsCode" : "561730",
+  "naicsTitle" : "LANDSCAPING SERVICES",
+  "pscCode" : "S208",
+  "pscTitle" : "HOUSEKEEPING- LANDSCAPING/GROUNDSKEEPING"
+}, {
+  "naicsCode" : "561740",
+  "naicsTitle" : "CARPET AND UPHOLSTERY CLEANING SERVICES",
+  "pscCode" : "S214",
+  "pscTitle" : "HOUSEKEEPING- CARPET LAYING/CLEANING"
+}, {
+  "naicsCode" : "561790",
+  "naicsTitle" : "OTHER SERVICES TO BUILDINGS AND DWELLINGS",
+  "pscCode" : "S201",
+  "pscTitle" : "HOUSEKEEPING- CUSTODIAL JANITORIAL"
+}, {
+  "naicsCode" : "561910",
+  "naicsTitle" : "PACKAGING AND LABELING SERVICES",
+  "pscCode" : "R604",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: MAILING/DISTRIBUTION"
+}, {
+  "naicsCode" : "561920",
+  "naicsTitle" : "CONVENTION AND TRADE SHOW ORGANIZERS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "561990",
+  "naicsTitle" : "ALL OTHER SUPPORT SERVICES",
+  "pscCode" : "R699",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: OTHER"
+}, {
+  "naicsCode" : "562111",
+  "naicsTitle" : "SOLID WASTE COLLECTION",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "562112",
+  "naicsTitle" : "HAZARDOUS WASTE COLLECTION",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "562119",
+  "naicsTitle" : "OTHER WASTE COLLECTION",
+  "pscCode" : "V112",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRANSPORTATION: MOTOR FREIGHT"
+}, {
+  "naicsCode" : "562211",
+  "naicsTitle" : "HAZARDOUS WASTE TREATMENT AND DISPOSAL",
+  "pscCode" : "4235",
+  "pscTitle" : "HAZARDOUS MATERIAL SPILL CONTAINMENT AND CLEAN-UP EQUIPMENT AND MATERIAL"
+}, {
+  "naicsCode" : "562212",
+  "naicsTitle" : "SOLID WASTE LANDFILL",
+  "pscCode" : "S222",
+  "pscTitle" : "HOUSEKEEPING- WASTE TREATMENT/STORAGE"
+}, {
+  "naicsCode" : "562213",
+  "naicsTitle" : "SOLID WASTE COMBUSTORS AND INCINERATORS",
+  "pscCode" : "4540",
+  "pscTitle" : "WASTE DISPOSAL EQUIPMENT"
+}, {
+  "naicsCode" : "562219",
+  "naicsTitle" : "OTHER NONHAZARDOUS WASTE TREATMENT AND DISPOSAL",
+  "pscCode" : "S222",
+  "pscTitle" : "HOUSEKEEPING- WASTE TREATMENT/STORAGE"
+}, {
+  "naicsCode" : "562910",
+  "naicsTitle" : "REMEDIATION SERVICES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "562920",
+  "naicsTitle" : "MATERIALS RECOVERY FACILITIES",
+  "pscCode" : "S222",
+  "pscTitle" : "HOUSEKEEPING- WASTE TREATMENT/STORAGE"
+}, {
+  "naicsCode" : "562991",
+  "naicsTitle" : "SEPTIC TANK AND RELATED SERVICES",
+  "pscCode" : "W085",
+  "pscTitle" : "LEASE OR RENTAL OF EQUIPMENT- TOILETRIES"
+}, {
+  "naicsCode" : "562998",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS WASTE MANAGEMENT SERVICES",
+  "pscCode" : "S201",
+  "pscTitle" : "HOUSEKEEPING- CUSTODIAL JANITORIAL"
+}, {
+  "naicsCode" : "611110",
+  "naicsTitle" : "ELEMENTARY AND SECONDARY SCHOOLS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "611210",
+  "naicsTitle" : "JUNIOR COLLEGES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "611310",
+  "naicsTitle" : "COLLEGES, UNIVERSITIES, AND PROFESSIONAL SCHOOLS",
+  "pscCode" : "U004",
+  "pscTitle" : "EDUCATION/TRAINING- SCIENTIFIC/MANAGEMENT"
+}, {
+  "naicsCode" : "611410",
+  "naicsTitle" : "BUSINESS AND SECRETARIAL SCHOOLS",
+  "pscCode" : "U006",
+  "pscTitle" : "EDUCATION/TRAINING- VOCATIONAL/TECHNICAL"
+}, {
+  "naicsCode" : "611420",
+  "naicsTitle" : "COMPUTER TRAINING",
+  "pscCode" : "U008",
+  "pscTitle" : "EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT"
+}, {
+  "naicsCode" : "611430",
+  "naicsTitle" : "PROFESSIONAL AND MANAGEMENT DEVELOPMENT TRAINING",
+  "pscCode" : "U008",
+  "pscTitle" : "EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT"
+}, {
+  "naicsCode" : "611511",
+  "naicsTitle" : "COSMETOLOGY AND BARBER SCHOOLS",
+  "pscCode" : "U009",
+  "pscTitle" : "EDUCATION/TRAINING- GENERAL"
+}, {
+  "naicsCode" : "611512",
+  "naicsTitle" : "FLIGHT TRAINING",
+  "pscCode" : "U099",
+  "pscTitle" : "EDUCATION/TRAINING- OTHER"
+}, {
+  "naicsCode" : "611513",
+  "naicsTitle" : "APPRENTICESHIP TRAINING",
+  "pscCode" : "U006",
+  "pscTitle" : "EDUCATION/TRAINING- VOCATIONAL/TECHNICAL"
+}, {
+  "naicsCode" : "611519",
+  "naicsTitle" : "OTHER TECHNICAL AND TRADE SCHOOLS",
+  "pscCode" : "U008",
+  "pscTitle" : "EDUCATION/TRAINING- TRAINING/CURRICULUM DEVELOPMENT"
+}, {
+  "naicsCode" : "611610",
+  "naicsTitle" : "FINE ARTS SCHOOLS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "611620",
+  "naicsTitle" : "SPORTS AND RECREATION INSTRUCTION",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "611630",
+  "naicsTitle" : "LANGUAGE SCHOOLS",
+  "pscCode" : "U099",
+  "pscTitle" : "EDUCATION/TRAINING- OTHER"
+}, {
+  "naicsCode" : "611691",
+  "naicsTitle" : "EXAM PREPARATION AND TUTORING",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "611692",
+  "naicsTitle" : "AUTOMOBILE DRIVING SCHOOLS",
+  "pscCode" : "U099",
+  "pscTitle" : "EDUCATION/TRAINING- OTHER"
+}, {
+  "naicsCode" : "611699",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS SCHOOLS AND INSTRUCTION",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "611710",
+  "naicsTitle" : "EDUCATIONAL SUPPORT SERVICES",
+  "pscCode" : "R419",
+  "pscTitle" : "EDUCATIONAL SERVICES"
+}, {
+  "naicsCode" : "621111",
+  "naicsTitle" : "OFFICES OF PHYSICIANS (EXCEPT MENTAL HEALTH SPECIALISTS)",
+  "pscCode" : "Q501",
+  "pscTitle" : "MEDICAL- ANESTHESIOLOGY"
+}, {
+  "naicsCode" : "621112",
+  "naicsTitle" : "OFFICES OF PHYSICIANS, MENTAL HEALTH SPECIALISTS",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "621210",
+  "naicsTitle" : "OFFICES OF DENTISTS",
+  "pscCode" : "Q503",
+  "pscTitle" : "MEDICAL- DENTISTRY"
+}, {
+  "naicsCode" : "621310",
+  "naicsTitle" : "OFFICES OF CHIROPRACTORS",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "621320",
+  "naicsTitle" : "OFFICES OF OPTOMETRISTS",
+  "pscCode" : "Q512",
+  "pscTitle" : "MEDICAL- OPTOMETRY"
+}, {
+  "naicsCode" : "621330",
+  "naicsTitle" : "OFFICES OF MENTAL HEALTH PRACTITIONERS (EXCEPT PHYSICIANS)",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "621340",
+  "naicsTitle" : "OFFICES OF PHYSICAL, OCCUPATIONAL AND SPEECH THERAPISTS, AND AUDIOLOGISTS",
+  "pscCode" : "Q502",
+  "pscTitle" : "MEDICAL- CARDIO-VASCULAR"
+}, {
+  "naicsCode" : "621391",
+  "naicsTitle" : "OFFICES OF PODIATRISTS",
+  "pscCode" : "Q512",
+  "pscTitle" : "MEDICAL- OPTOMETRY"
+}, {
+  "naicsCode" : "621399",
+  "naicsTitle" : "OFFICES OF ALL OTHER MISCELLANEOUS HEALTH PRACTITIONERS",
+  "pscCode" : "Q502",
+  "pscTitle" : "MEDICAL- CARDIO-VASCULAR"
+}, {
+  "naicsCode" : "621410",
+  "naicsTitle" : "FAMILY PLANNING CENTERS",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "621420",
+  "naicsTitle" : "OUTPATIENT MENTAL HEALTH AND SUBSTANCE ABUSE CENTERS",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "621491",
+  "naicsTitle" : "HMO MEDICAL CENTERS",
+  "pscCode" : "Q101",
+  "pscTitle" : "MEDICAL- DEPENDENT MEDICARE"
+}, {
+  "naicsCode" : "621492",
+  "naicsTitle" : "KIDNEY DIALYSIS CENTERS",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "621493",
+  "naicsTitle" : "FREESTANDING AMBULATORY SURGICAL AND EMERGENCY CENTERS",
+  "pscCode" : "Q523",
+  "pscTitle" : "MEDICAL- SURGERY"
+}, {
+  "naicsCode" : "621498",
+  "naicsTitle" : "ALL OTHER OUTPATIENT CARE CENTERS",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "621511",
+  "naicsTitle" : "MEDICAL LABORATORIES",
+  "pscCode" : "Q301",
+  "pscTitle" : "MEDICAL- LABORATORY TESTING"
+}, {
+  "naicsCode" : "621512",
+  "naicsTitle" : "DIAGNOSTIC IMAGING CENTERS",
+  "pscCode" : "Q301",
+  "pscTitle" : "MEDICAL- LABORATORY TESTING"
+}, {
+  "naicsCode" : "621610",
+  "naicsTitle" : "HOME HEALTH CARE SERVICES",
+  "pscCode" : "Q201",
+  "pscTitle" : "MEDICAL- GENERAL HEALTH CARE"
+}, {
+  "naicsCode" : "621910",
+  "naicsTitle" : "AMBULANCE SERVICES",
+  "pscCode" : "V225",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: AMBULANCE"
+}, {
+  "naicsCode" : "621991",
+  "naicsTitle" : "BLOOD AND ORGAN BANKS",
+  "pscCode" : "Q701",
+  "pscTitle" : "SPECIALIZED MEDICAL SUPPORT"
+}, {
+  "naicsCode" : "621999",
+  "naicsTitle" : "ALL OTHER MISCELLANEOUS AMBULATORY HEALTH CARE SERVICES",
+  "pscCode" : "Q999",
+  "pscTitle" : "MEDICAL- OTHER"
+}, {
+  "naicsCode" : "622110",
+  "naicsTitle" : "GENERAL MEDICAL AND SURGICAL HOSPITALS",
+  "pscCode" : "Q201",
+  "pscTitle" : "MEDICAL- GENERAL HEALTH CARE"
+}, {
+  "naicsCode" : "622210",
+  "naicsTitle" : "PSYCHIATRIC AND SUBSTANCE ABUSE HOSPITALS",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "622310",
+  "naicsTitle" : "SPECIALTY (EXCEPT PSYCHIATRIC AND SUBSTANCE ABUSE) HOSPITALS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "623110",
+  "naicsTitle" : "NURSING CARE FACILITIES (SKILLED NURSING FACILITIES)",
+  "pscCode" : "Q401",
+  "pscTitle" : "MEDICAL- NURSING"
+}, {
+  "naicsCode" : "623210",
+  "naicsTitle" : "RESIDENTIAL INTELLECTUAL AND DEVELOPMENTAL DISABILITY FACILITIES",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "623220",
+  "naicsTitle" : "RESIDENTIAL MENTAL HEALTH AND SUBSTANCE ABUSE FACILITIES",
+  "pscCode" : "Q526",
+  "pscTitle" : "MEDICAL- MEDICAL/PSYCHIATRIC CONSULTATION"
+}, {
+  "naicsCode" : "623311",
+  "naicsTitle" : "CONTINUING CARE RETIREMENT COMMUNITIES",
+  "pscCode" : "Q402",
+  "pscTitle" : "MEDICAL- NURSING HOME CARE CONTRACTS"
+}, {
+  "naicsCode" : "623312",
+  "naicsTitle" : "ASSISTED LIVING FACILITIES FOR THE ELDERLY",
+  "pscCode" : "Q402",
+  "pscTitle" : "MEDICAL- NURSING HOME CARE CONTRACTS"
+}, {
+  "naicsCode" : "623990",
+  "naicsTitle" : "OTHER RESIDENTIAL CARE FACILITIES",
+  "pscCode" : "R401",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)"
+}, {
+  "naicsCode" : "624110",
+  "naicsTitle" : "CHILD AND YOUTH SERVICES",
+  "pscCode" : "G099",
+  "pscTitle" : "SOCIAL- OTHER"
+}, {
+  "naicsCode" : "624120",
+  "naicsTitle" : "SERVICES FOR THE ELDERLY AND PERSONS WITH DISABILITIES",
+  "pscCode" : "Q402",
+  "pscTitle" : "MEDICAL- NURSING HOME CARE CONTRACTS"
+}, {
+  "naicsCode" : "624190",
+  "naicsTitle" : "OTHER INDIVIDUAL AND FAMILY SERVICES",
+  "pscCode" : "G099",
+  "pscTitle" : "SOCIAL- OTHER"
+}, {
+  "naicsCode" : "624210",
+  "naicsTitle" : "COMMUNITY FOOD SERVICES",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "624221",
+  "naicsTitle" : "TEMPORARY SHELTERS",
+  "pscCode" : "G099",
+  "pscTitle" : "SOCIAL- OTHER"
+}, {
+  "naicsCode" : "624229",
+  "naicsTitle" : "OTHER COMMUNITY HOUSING SERVICES",
+  "pscCode" : "G099",
+  "pscTitle" : "SOCIAL- OTHER"
+}, {
+  "naicsCode" : "624230",
+  "naicsTitle" : "EMERGENCY AND OTHER RELIEF SERVICES",
+  "pscCode" : "G099",
+  "pscTitle" : "SOCIAL- OTHER"
+}, {
+  "naicsCode" : "624310",
+  "naicsTitle" : "VOCATIONAL REHABILITATION SERVICES",
+  "pscCode" : "U006",
+  "pscTitle" : "EDUCATION/TRAINING- VOCATIONAL/TECHNICAL"
+}, {
+  "naicsCode" : "624410",
+  "naicsTitle" : "CHILD DAY CARE SERVICES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "711110",
+  "naicsTitle" : "THEATER COMPANIES AND DINNER THEATERS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "711120",
+  "naicsTitle" : "DANCE COMPANIES",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "711130",
+  "naicsTitle" : "MUSICAL GROUPS AND ARTISTS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "711190",
+  "naicsTitle" : "OTHER PERFORMING ARTS COMPANIES",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "711211",
+  "naicsTitle" : "SPORTS TEAMS AND CLUBS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "711212",
+  "naicsTitle" : "RACETRACKS",
+  "pscCode" : "V002",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- MOTOR POOL AND PACKING/CRATING: MOTOR POOL OPERATIONS"
+}, {
+  "naicsCode" : "711219",
+  "naicsTitle" : "OTHER SPECTATOR SPORTS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "711310",
+  "naicsTitle" : "PROMOTERS OF PERFORMING ARTS, SPORTS, AND SIMILAR EVENTS WITH FACILITIES",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "711320",
+  "naicsTitle" : "PROMOTERS OF PERFORMING ARTS, SPORTS, AND SIMILAR EVENTS WITHOUT FACILITIES",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "711410",
+  "naicsTitle" : "AGENTS AND MANAGERS FOR ARTISTS, ATHLETES, ENTERTAINERS, AND OTHER PUBLIC FIGURES",
+  "pscCode" : "R708",
+  "pscTitle" : "SUPPORT- MANAGEMENT: PUBLIC RELATIONS"
+}, {
+  "naicsCode" : "711510",
+  "naicsTitle" : "INDEPENDENT ARTISTS, WRITERS, AND PERFORMERS",
+  "pscCode" : "8415",
+  "pscTitle" : "CLOTHING, SPECIAL PURPOSE"
+}, {
+  "naicsCode" : "712110",
+  "naicsTitle" : "MUSEUMS",
+  "pscCode" : "M1JA",
+  "pscTitle" : "OPERATION OF MUSEUMS AND EXHIBITION BUILDINGS"
+}, {
+  "naicsCode" : "712120",
+  "naicsTitle" : "HISTORICAL SITES",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "712130",
+  "naicsTitle" : "ZOOS AND BOTANICAL GARDENS",
+  "pscCode" : "F099",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- OTHER"
+}, {
+  "naicsCode" : "712190",
+  "naicsTitle" : "NATURE PARKS AND OTHER SIMILAR INSTITUTIONS",
+  "pscCode" : "F099",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- OTHER"
+}, {
+  "naicsCode" : "713110",
+  "naicsTitle" : "AMUSEMENT AND THEME PARKS",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "713120",
+  "naicsTitle" : "AMUSEMENT ARCADES",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "713210",
+  "naicsTitle" : "CASINOS (EXCEPT CASINO HOTELS)",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "713290",
+  "naicsTitle" : "OTHER GAMBLING INDUSTRIES",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "713910",
+  "naicsTitle" : "GOLF COURSES AND COUNTRY CLUBS",
+  "pscCode" : "7810",
+  "pscTitle" : "ATHLETIC AND SPORTING EQUIPMENT"
+}, {
+  "naicsCode" : "713920",
+  "naicsTitle" : "SKIING FACILITIES",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "713930",
+  "naicsTitle" : "MARINAS",
+  "pscCode" : "F020",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- FISHERIES RESOURCES MANAGEMENT"
+}, {
+  "naicsCode" : "713940",
+  "naicsTitle" : "FITNESS AND RECREATIONAL SPORTS CENTERS",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "713950",
+  "naicsTitle" : "BOWLING CENTERS",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "713990",
+  "naicsTitle" : "ALL OTHER AMUSEMENT AND RECREATION INDUSTRIES",
+  "pscCode" : "7820",
+  "pscTitle" : "GAMES, TOYS, AND WHEELED GOODS"
+}, {
+  "naicsCode" : "721110",
+  "naicsTitle" : "HOTELS (EXCEPT CASINO HOTELS) AND MOTELS",
+  "pscCode" : "V231",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+}, {
+  "naicsCode" : "721120",
+  "naicsTitle" : "CASINO HOTELS",
+  "pscCode" : "V231",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+}, {
+  "naicsCode" : "721191",
+  "naicsTitle" : "BED-AND-BREAKFAST INNS",
+  "pscCode" : "V231",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+}, {
+  "naicsCode" : "721199",
+  "naicsTitle" : "ALL OTHER TRAVELER ACCOMMODATION",
+  "pscCode" : "V231",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+}, {
+  "naicsCode" : "721211",
+  "naicsTitle" : "RV (RECREATIONAL VEHICLE) PARKS AND CAMPGROUNDS",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "721214",
+  "naicsTitle" : "RECREATIONAL AND VACATION CAMPS (EXCEPT CAMPGROUNDS)",
+  "pscCode" : "G003",
+  "pscTitle" : "SOCIAL- RECREATIONAL"
+}, {
+  "naicsCode" : "721310",
+  "naicsTitle" : "ROOMING AND BOARDING HOUSES",
+  "pscCode" : "V231",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: LODGING, HOTEL/MOTEL"
+}, {
+  "naicsCode" : "722310",
+  "naicsTitle" : "FOOD SERVICE CONTRACTORS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "722320",
+  "naicsTitle" : "CATERERS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "722330",
+  "naicsTitle" : "MOBILE FOOD SERVICES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "722410",
+  "naicsTitle" : "DRINKING PLACES (ALCOHOLIC BEVERAGES)",
+  "pscCode" : "8965",
+  "pscTitle" : "BEVERAGES, ALCOHOLIC"
+}, {
+  "naicsCode" : "722511",
+  "naicsTitle" : "FULL-SERVICE RESTAURANTS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "722513",
+  "naicsTitle" : "LIMITED-SERVICE RESTAURANTS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "722514",
+  "naicsTitle" : "CAFETERIAS, GRILL BUFFETS, AND BUFFETS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "722515",
+  "naicsTitle" : "SNACK AND NONALCOHOLIC BEVERAGE BARS",
+  "pscCode" : "8920",
+  "pscTitle" : "BAKERY AND CEREAL PRODUCTS"
+}, {
+  "naicsCode" : "811111",
+  "naicsTitle" : "GENERAL AUTOMOTIVE REPAIR",
+  "pscCode" : "J023",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "811112",
+  "naicsTitle" : "AUTOMOTIVE EXHAUST SYSTEM REPAIR",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811113",
+  "naicsTitle" : "AUTOMOTIVE TRANSMISSION REPAIR",
+  "pscCode" : "J028",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- ENGINES, TURBINES, AND COMPONENTS"
+}, {
+  "naicsCode" : "811118",
+  "naicsTitle" : "OTHER AUTOMOTIVE MECHANICAL AND ELECTRICAL REPAIR AND MAINTENANCE",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811121",
+  "naicsTitle" : "AUTOMOTIVE BODY, PAINT, AND INTERIOR REPAIR AND MAINTENANCE",
+  "pscCode" : "J023",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- GROUND EFFECT VEHICLES, MOTOR VEHICLES, TRAILERS, AND CYCLES"
+}, {
+  "naicsCode" : "811122",
+  "naicsTitle" : "AUTOMOTIVE GLASS REPLACEMENT SHOPS",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811191",
+  "naicsTitle" : "AUTOMOTIVE OIL CHANGE AND LUBRICATION SHOPS",
+  "pscCode" : "J091",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- FUELS, LUBRICANTS, OILS, AND WAXES"
+}, {
+  "naicsCode" : "811192",
+  "naicsTitle" : "CAR WASHES",
+  "pscCode" : "J025",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- VEHICULAR EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811198",
+  "naicsTitle" : "ALL OTHER AUTOMOTIVE REPAIR AND MAINTENANCE",
+  "pscCode" : "J026",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- TIRES AND TUBES"
+}, {
+  "naicsCode" : "811211",
+  "naicsTitle" : "CONSUMER ELECTRONICS REPAIR AND MAINTENANCE",
+  "pscCode" : "J059",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811212",
+  "naicsTitle" : "COMPUTER AND OFFICE MACHINE REPAIR AND MAINTENANCE",
+  "pscCode" : "N070",
+  "pscTitle" : "INSTALLATION OF EQUIPMENT- ADP EQUIPMENT/SOFTWARE/SUPPLIES/SUPPORT EQUIPMENT"
+}, {
+  "naicsCode" : "811213",
+  "naicsTitle" : "COMMUNICATION EQUIPMENT REPAIR AND MAINTENANCE",
+  "pscCode" : "J058",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- COMMUNICATION, DETECTION, AND COHERENT RADIATION EQUIPMENT"
+}, {
+  "naicsCode" : "811219",
+  "naicsTitle" : "OTHER ELECTRONIC AND PRECISION EQUIPMENT REPAIR AND MAINTENANCE",
+  "pscCode" : "J052",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- MEASURING TOOLS"
+}, {
+  "naicsCode" : "811310",
+  "naicsTitle" : "COMMERCIAL AND INDUSTRIAL MACHINERY AND EQUIPMENT (EXCEPT AUTOMOTIVE AND ELECTRONIC) REPAIR AND MAINTENANCE",
+  "pscCode" : "J034",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- METALWORKING MACHINERY"
+}, {
+  "naicsCode" : "811411",
+  "naicsTitle" : "HOME AND GARDEN EQUIPMENT REPAIR AND MAINTENANCE",
+  "pscCode" : "J099",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- MISCELLANEOUS"
+}, {
+  "naicsCode" : "811412",
+  "naicsTitle" : "APPLIANCE REPAIR AND MAINTENANCE",
+  "pscCode" : "J059",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- ELECTRICAL AND ELECTRONIC EQUIPMENT COMPONENTS"
+}, {
+  "naicsCode" : "811420",
+  "naicsTitle" : "REUPHOLSTERY AND FURNITURE REPAIR",
+  "pscCode" : "J016",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- AIRCRAFT COMPONENTS AND ACCESSORIES"
+}, {
+  "naicsCode" : "811430",
+  "naicsTitle" : "FOOTWEAR AND LEATHER GOODS REPAIR",
+  "pscCode" : "J083",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- TEXTILES, LEATHER, FURS, APPAREL/SHOE FINDINGS, TENTS/FLAGS"
+}, {
+  "naicsCode" : "811490",
+  "naicsTitle" : "OTHER PERSONAL AND HOUSEHOLD GOODS REPAIR AND MAINTENANCE",
+  "pscCode" : "3530",
+  "pscTitle" : "INDUSTRIAL SEWING MACHINES AND MOBILE TEXTILE REPAIR SHOPS"
+}, {
+  "naicsCode" : "812111",
+  "naicsTitle" : "BARBER SHOPS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "812112",
+  "naicsTitle" : "BEAUTY SALONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "812113",
+  "naicsTitle" : "NAIL SALONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "812191",
+  "naicsTitle" : "DIET AND WEIGHT REDUCING CENTERS",
+  "pscCode" : "S203",
+  "pscTitle" : "HOUSEKEEPING- FOOD"
+}, {
+  "naicsCode" : "812199",
+  "naicsTitle" : "OTHER PERSONAL CARE SERVICES",
+  "pscCode" : "R401",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)"
+}, {
+  "naicsCode" : "812210",
+  "naicsTitle" : "FUNERAL HOMES AND FUNERAL SERVICES",
+  "pscCode" : "G001",
+  "pscTitle" : "SOCIAL- CARE OF REMAINS AND/OR FUNERAL"
+}, {
+  "naicsCode" : "812220",
+  "naicsTitle" : "CEMETERIES AND CREMATORIES",
+  "pscCode" : "G001",
+  "pscTitle" : "SOCIAL- CARE OF REMAINS AND/OR FUNERAL"
+}, {
+  "naicsCode" : "812310",
+  "naicsTitle" : "COIN-OPERATED LAUNDRIES AND DRYCLEANERS",
+  "pscCode" : "3510",
+  "pscTitle" : "LAUNDRY AND DRY CLEANING EQUIPMENT"
+}, {
+  "naicsCode" : "812320",
+  "naicsTitle" : "DRYCLEANING AND LAUNDRY SERVICES (EXCEPT COIN-OPERATED)",
+  "pscCode" : "S209",
+  "pscTitle" : "HOUSEKEEPING- LAUNDRY/DRYCLEANING"
+}, {
+  "naicsCode" : "812331",
+  "naicsTitle" : "LINEN SUPPLY",
+  "pscCode" : "8450",
+  "pscTitle" : "CHILDREN'S AND INFANTS' APPAREL AND ACCESSORIES"
+}, {
+  "naicsCode" : "812332",
+  "naicsTitle" : "INDUSTRIAL LAUNDERERS",
+  "pscCode" : "S209",
+  "pscTitle" : "HOUSEKEEPING- LAUNDRY/DRYCLEANING"
+}, {
+  "naicsCode" : "812910",
+  "naicsTitle" : "PET CARE (EXCEPT VETERINARY) SERVICES",
+  "pscCode" : "J088",
+  "pscTitle" : "MAINT/REPAIR/REBUILD OF EQUIPMENT- LIVE ANIMALS"
+}, {
+  "naicsCode" : "812921",
+  "naicsTitle" : "PHOTOFINISHING LABORATORIES (EXCEPT ONE-HOUR)",
+  "pscCode" : "T005",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM PROCESSING"
+}, {
+  "naicsCode" : "812922",
+  "naicsTitle" : "ONE-HOUR PHOTOFINISHING",
+  "pscCode" : "T005",
+  "pscTitle" : "PHOTO/MAP/PRINT/PUBLICATION- FILM PROCESSING"
+}, {
+  "naicsCode" : "812930",
+  "naicsTitle" : "PARKING LOTS AND GARAGES",
+  "pscCode" : "V212",
+  "pscTitle" : "TRANSPORTATION/TRAVEL/RELOCATION- TRAVEL/LODGING/RECRUITMENT: MOTOR PASSENGER"
+}, {
+  "naicsCode" : "812990",
+  "naicsTitle" : "ALL OTHER PERSONAL SERVICES",
+  "pscCode" : "3520",
+  "pscTitle" : "SHOE REPAIRING EQUIPMENT"
+}, {
+  "naicsCode" : "813110",
+  "naicsTitle" : "RELIGIOUS ORGANIZATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813211",
+  "naicsTitle" : "GRANTMAKING FOUNDATIONS",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "813212",
+  "naicsTitle" : "VOLUNTARY HEALTH ORGANIZATIONS",
+  "pscCode" : "Q201",
+  "pscTitle" : "MEDICAL- GENERAL HEALTH CARE"
+}, {
+  "naicsCode" : "813219",
+  "naicsTitle" : "OTHER GRANTMAKING AND GIVING SERVICES",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "813311",
+  "naicsTitle" : "HUMAN RIGHTS ORGANIZATIONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "813312",
+  "naicsTitle" : "ENVIRONMENT, CONSERVATION AND WILDLIFE ORGANIZATIONS",
+  "pscCode" : "F099",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- OTHER"
+}, {
+  "naicsCode" : "813319",
+  "naicsTitle" : "OTHER SOCIAL ADVOCACY ORGANIZATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813410",
+  "naicsTitle" : "CIVIC AND SOCIAL ORGANIZATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813910",
+  "naicsTitle" : "BUSINESS ASSOCIATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813920",
+  "naicsTitle" : "PROFESSIONAL ORGANIZATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813930",
+  "naicsTitle" : "LABOR UNIONS AND SIMILAR LABOR ORGANIZATIONS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "813940",
+  "naicsTitle" : "POLITICAL ORGANIZATIONS",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "813990",
+  "naicsTitle" : "OTHER SIMILAR ORGANIZATIONS (EXCEPT BUSINESS, PROFESSIONAL, LABOR, AND POLITICAL ORGANIZATIONS)",
+  "pscCode" : "R610",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE:- PERSONAL PROPERTY MANAGEMENT"
+}, {
+  "naicsCode" : "814110",
+  "naicsTitle" : "PRIVATE HOUSEHOLDS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "921110",
+  "naicsTitle" : "EXECUTIVE OFFICES",
+  "pscCode" : "M111",
+  "pscTitle" : "OPERATION OF OFFICE BUILDINGS"
+}, {
+  "naicsCode" : "921120",
+  "naicsTitle" : "LEGISLATIVE BODIES",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "921130",
+  "naicsTitle" : "PUBLIC FINANCE ACTIVITIES",
+  "pscCode" : "R710",
+  "pscTitle" : "SUPPORT- MANAGEMENT: FINANCIAL"
+}, {
+  "naicsCode" : "921140",
+  "naicsTitle" : "EXECUTIVE AND LEGISLATIVE OFFICES, COMBINED",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "921150",
+  "naicsTitle" : "AMERICAN INDIAN AND ALASKA NATIVE TRIBAL GOVERNMENTS",
+  "pscCode" : "R799",
+  "pscTitle" : "SUPPORT- MANAGEMENT: OTHER"
+}, {
+  "naicsCode" : "921190",
+  "naicsTitle" : "OTHER GENERAL GOVERNMENT SUPPORT",
+  "pscCode" : "R499",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: OTHER"
+}, {
+  "naicsCode" : "922110",
+  "naicsTitle" : "COURTS",
+  "pscCode" : "R418",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: LEGAL"
+}, {
+  "naicsCode" : "922120",
+  "naicsTitle" : "POLICE PROTECTION",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "922130",
+  "naicsTitle" : "LEGAL COUNSEL AND PROSECUTION",
+  "pscCode" : "G004",
+  "pscTitle" : "SOCIAL- SOCIAL REHABILITATION"
+}, {
+  "naicsCode" : "922140",
+  "naicsTitle" : "CORRECTIONAL INSTITUTIONS",
+  "pscCode" : null,
+  "pscTitle" : null
+}, {
+  "naicsCode" : "922150",
+  "naicsTitle" : "PAROLE OFFICES AND PROBATION OFFICES",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "922160",
+  "naicsTitle" : "FIRE PROTECTION",
+  "pscCode" : "S202",
+  "pscTitle" : "HOUSEKEEPING- FIRE PROTECTION"
+}, {
+  "naicsCode" : "922190",
+  "naicsTitle" : "OTHER JUSTICE, PUBLIC ORDER, AND SAFETY ACTIVITIES",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "923110",
+  "naicsTitle" : "ADMINISTRATION OF EDUCATION PROGRAMS",
+  "pscCode" : "U009",
+  "pscTitle" : "EDUCATION/TRAINING- GENERAL"
+}, {
+  "naicsCode" : "923120",
+  "naicsTitle" : "ADMINISTRATION OF PUBLIC HEALTH PROGRAMS",
+  "pscCode" : "Q201",
+  "pscTitle" : "MEDICAL- GENERAL HEALTH CARE"
+}, {
+  "naicsCode" : "923130",
+  "naicsTitle" : "ADMINISTRATION OF HUMAN RESOURCE PROGRAMS (EXCEPT EDUCATION, PUBLIC HEALTH, AND VETERANS' AFFAIRS PROGRAMS)",
+  "pscCode" : "R401",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)"
+}, {
+  "naicsCode" : "923140",
+  "naicsTitle" : "ADMINISTRATION OF VETERANS' AFFAIRS",
+  "pscCode" : "R401",
+  "pscTitle" : "SUPPORT- PROFESSIONAL: PERSONAL CARE (NON-MEDICAL)"
+}, {
+  "naicsCode" : "924110",
+  "naicsTitle" : "ADMINISTRATION OF AIR AND WATER RESOURCE AND SOLID WASTE MANAGEMENT PROGRAMS",
+  "pscCode" : "F101",
+  "pscTitle" : "ENVIRONMENTAL SYSTEMS PROTECTION- AIR QUALITY SUPPORT"
+}, {
+  "naicsCode" : "924120",
+  "naicsTitle" : "ADMINISTRATION OF CONSERVATION PROGRAMS",
+  "pscCode" : "F005",
+  "pscTitle" : "NATURAL RESOURCES/CONSERVATION- FOREST TREE PLANTING"
+}, {
+  "naicsCode" : "925110",
+  "naicsTitle" : "ADMINISTRATION OF HOUSING PROGRAMS",
+  "pscCode" : "M161",
+  "pscTitle" : "OPER OF GOVT FAMILY HOUSING"
+}, {
+  "naicsCode" : "925120",
+  "naicsTitle" : "ADMINISTRATION OF URBAN PLANNING AND COMMUNITY AND RURAL DEVELOPMENT",
+  "pscCode" : "AB46",
+  "pscTitle" : "R&D- COMMUNITY SERVICE/DEVELOPMENT: URBAN (MANAGEMENT/SUPPORT)"
+}, {
+  "naicsCode" : "926110",
+  "naicsTitle" : "ADMINISTRATION OF GENERAL ECONOMIC PROGRAMS",
+  "pscCode" : "AE92",
+  "pscTitle" : "R&D- ECONOMIC GROWTH: OTHER (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+}, {
+  "naicsCode" : "926120",
+  "naicsTitle" : "REGULATION AND ADMINISTRATION OF TRANSPORTATION PROGRAMS",
+  "pscCode" : "R699",
+  "pscTitle" : "SUPPORT- ADMINISTRATIVE: OTHER"
+}, {
+  "naicsCode" : "926130",
+  "naicsTitle" : "REGULATION AND ADMINISTRATION OF COMMUNICATIONS, ELECTRIC, GAS, AND OTHER UTILITIES",
+  "pscCode" : "S112",
+  "pscTitle" : "UTILITIES- ELECTRIC"
+}, {
+  "naicsCode" : "926140",
+  "naicsTitle" : "REGULATION OF AGRICULTURAL MARKETING AND COMMODITIES",
+  "pscCode" : "AA24",
+  "pscTitle" : "R&D- AGRICULTURE: MARKETING (ENGINEERING DEVELOPMENT)"
+}, {
+  "naicsCode" : "926150",
+  "naicsTitle" : "REGULATION, LICENSING, AND INSPECTION OF MISCELLANEOUS COMMERCIAL SECTORS",
+  "pscCode" : "H399",
+  "pscTitle" : "INSPECTION- MISCELLANEOUS"
+}, {
+  "naicsCode" : "927110",
+  "naicsTitle" : "SPACE RESEARCH AND TECHNOLOGY",
+  "pscCode" : "AR13",
+  "pscTitle" : "R&D- SPACE: AERONAUTICS/SPACE TECHNOLOGY (ADVANCED DEVELOPMENT)"
+}, {
+  "naicsCode" : "928110",
+  "naicsTitle" : "NATIONAL SECURITY",
+  "pscCode" : "S206",
+  "pscTitle" : "HOUSEKEEPING- GUARD"
+}, {
+  "naicsCode" : "928120",
+  "naicsTitle" : "INTERNATIONAL AFFAIRS",
+  "pscCode" : "AM12",
+  "pscTitle" : "R&D- INTERNATIONAL AFFAIRS AND COOPERATION (APPLIED RESEARCH/EXPLORATORY DEVELOPMENT)"
+} ]
