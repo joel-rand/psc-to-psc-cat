@@ -1,0 +1,906 @@
+[ {
+  "equipmentCode" : "252",
+  "equipmentTitle" : "GLOBAL HAWK",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "180",
+  "equipmentTitle" : "DDG 51",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "GCG",
+  "equipmentTitle" : "ELECTRONICS ALL SOURCE ANALYSIS SYS",
+  "coiCode" : "5C",
+  "coiTitle" : "INFORMATION COLLECTION/MANAGEMENT"
+}, {
+  "equipmentCode" : "367",
+  "equipmentTitle" : "HIMARS",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "CNQ",
+  "equipmentTitle" : "ZAGM-63 MISSILE",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "158",
+  "equipmentTitle" : "APACHE (AH-64A)",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "126",
+  "equipmentTitle" : "F/A-18A/B/C/D",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "580",
+  "equipmentTitle" : "FAAD C2I(ATCCS)",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "278",
+  "equipmentTitle" : "CH-47F",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "191",
+  "equipmentTitle" : "MH-60R",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "349",
+  "equipmentTitle" : "GCSS-AF",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "369",
+  "equipmentTitle" : "AOC-WS",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "285",
+  "equipmentTitle" : "CHEM DEMIL-CMA",
+  "coiCode" : "7B",
+  "coiTitle" : "CONTROL, DEFEAT, DISABLE AND/OR DISPOSE OF WMD THREATS"
+}, {
+  "equipmentCode" : "198",
+  "equipmentTitle" : "F-35",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "531",
+  "equipmentTitle" : "PATRIOT/MEADS",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "443",
+  "equipmentTitle" : "LCS MM",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "376",
+  "equipmentTitle" : "B-2 RMP",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "212",
+  "equipmentTitle" : "V22",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "555",
+  "equipmentTitle" : "JASSM",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "292",
+  "equipmentTitle" : "GPS III",
+  "coiCode" : "16C",
+  "coiTitle" : "POSITIONING, NAVIGATION AND TIMING (PNT)"
+}, {
+  "equipmentCode" : "746",
+  "equipmentTitle" : "FMTV",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "AIA",
+  "equipmentTitle" : "BLACKHAWK",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "156",
+  "equipmentTitle" : "BLACK HAWK (UH-60A/L)",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "963",
+  "equipmentTitle" : "NMD",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "123",
+  "equipmentTitle" : "F-14D",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "M21",
+  "equipmentTitle" : "ISPAN",
+  "coiCode" : "5D",
+  "coiTitle" : "SYNTHESIS/ANALYTICS/DECISION TOOLS"
+}, {
+  "equipmentCode" : "372",
+  "equipmentTitle" : "JLENS",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "AHW",
+  "equipmentTitle" : "AH-1G HUEYCOBRA",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "470",
+  "equipmentTitle" : "JMS INC 2",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "M73",
+  "equipmentTitle" : "TBMCS",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "298",
+  "equipmentTitle" : "C-130 AMP",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "204",
+  "equipmentTitle" : "DSP",
+  "coiCode" : "16D",
+  "coiTitle" : "INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE (ISR)"
+}, {
+  "equipmentCode" : "503",
+  "equipmentTitle" : "JDAM",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "234",
+  "equipmentTitle" : "STANDARD MISSILE 2 (SM 2)",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "155",
+  "equipmentTitle" : "TRIDENT SUB",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "AHV",
+  "equipmentTitle" : "SH-60 SEAHAWK",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "145",
+  "equipmentTitle" : "SIDEWINDER (AIM-9L) (AF)",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "115",
+  "equipmentTitle" : "CH-47D",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "515",
+  "equipmentTitle" : "EFV (AAAV)",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "334",
+  "equipmentTitle" : "MMA",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "333",
+  "equipmentTitle" : "LHA ( R )",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "240",
+  "equipmentTitle" : "T-45TS",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "AVQ",
+  "equipmentTitle" : "V22 VERTICAL LIFT AIRCRAFT",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "301",
+  "equipmentTitle" : "FCS",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "337",
+  "equipmentTitle" : "SSGN",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "200",
+  "equipmentTitle" : "C-17A",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "DJM",
+  "equipmentTitle" : "LIGHT ARMORED VEHICLE (LAV)",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "176",
+  "equipmentTitle" : "EELV",
+  "coiCode" : "16F",
+  "coiTitle" : "SPACE ACCESS (SA)"
+}, {
+  "equipmentCode" : "101",
+  "equipmentTitle" : "H-1 UPGRADES",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "246",
+  "equipmentTitle" : "HMMLTV",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "386",
+  "equipmentTitle" : "ADS",
+  "coiCode" : "17G",
+  "coiTitle" : "NON-LETHAL WEAPONS (NLW)"
+}, {
+  "equipmentCode" : "341",
+  "equipmentTitle" : "BLACK HAWK UPGRADE (UH-60M)",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "125",
+  "equipmentTitle" : "F-16",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "371",
+  "equipmentTitle" : "ACS",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "582",
+  "equipmentTitle" : "CEC",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "284",
+  "equipmentTitle" : "JTN",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "288",
+  "equipmentTitle" : "B1-B CMUP",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "404",
+  "equipmentTitle" : "B-1",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "N16",
+  "equipmentTitle" : "BIOMETRICS",
+  "coiCode" : "4A",
+  "coiTitle" : "BIOMEDICAL INFORMATICS / HEALTH INFORMATION SYSTEMS & TECHNOLOGY (BI/HIST)"
+}, {
+  "equipmentCode" : "258",
+  "equipmentTitle" : "SSN 21",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "ZBC",
+  "equipmentTitle" : "BRAC ACTIVITIES",
+  "coiCode" : "18",
+  "coiTitle" : "NON-COI"
+}, {
+  "equipmentCode" : "237",
+  "equipmentTitle" : "GBS",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "293",
+  "equipmentTitle" : "MP RTIP",
+  "coiCode" : "15A",
+  "coiTitle" : "RADIO FREQUENCY (RF) (NON-EW)"
+}, {
+  "equipmentCode" : "AHK",
+  "equipmentTitle" : "CH-47 CHINOOK",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "167",
+  "equipmentTitle" : "AV-8B",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "537",
+  "equipmentTitle" : "NAS",
+  "coiCode" : "1",
+  "coiTitle" : "ADVANCED ELECTRONICS"
+}, {
+  "equipmentCode" : "110",
+  "equipmentTitle" : "AEGIS",
+  "coiCode" : "15",
+  "coiTitle" : "SENSORS"
+}, {
+  "equipmentCode" : "N04",
+  "equipmentTitle" : "ISPAN",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "248",
+  "equipmentTitle" : "MINUTEMAN III PRP",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "545",
+  "equipmentTitle" : "ATACMS BAT",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "ZHK",
+  "equipmentTitle" : "HURRICANE KATRINA",
+  "coiCode" : "18",
+  "coiTitle" : "NON-COI"
+}, {
+  "equipmentCode" : "294",
+  "equipmentTitle" : "FBCB2",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "CNA",
+  "equipmentTitle" : "RIM 7-H-2 NATO SEA SPARROW",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "525",
+  "equipmentTitle" : "CGS",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "103",
+  "equipmentTitle" : "E-3A",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "282",
+  "equipmentTitle" : "MH-60S",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "157",
+  "equipmentTitle" : "M1/M1A1 ABRAMS TANK",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "184",
+  "equipmentTitle" : "AMRAAM (NAVY)",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "210",
+  "equipmentTitle" : "SBIRS HIGH",
+  "coiCode" : "16D",
+  "coiTitle" : "INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE (ISR)"
+}, {
+  "equipmentCode" : "CNX",
+  "equipmentTitle" : "THAAD-THEATER HIGH ALT AIR DEF",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "228",
+  "equipmentTitle" : "ABL",
+  "coiCode" : "17E",
+  "coiTitle" : "HIGH ENERGY LASERS (HEL)"
+}, {
+  "equipmentCode" : "429",
+  "equipmentTitle" : "VXX",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "272",
+  "equipmentTitle" : "TACTICAL UAV",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "166",
+  "equipmentTitle" : "NAVSTAR GPS",
+  "coiCode" : "16C",
+  "coiTitle" : "POSITIONING, NAVIGATION AND TIMING (PNT)"
+}, {
+  "equipmentCode" : "401",
+  "equipmentTitle" : "MINUTEMAN III",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "175",
+  "equipmentTitle" : "LAV (ARMY)",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "289",
+  "equipmentTitle" : "TACTOM",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "202",
+  "equipmentTitle" : "AH-64E REMANUFACTURE",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "197",
+  "equipmentTitle" : "DDG 1000",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "378",
+  "equipmentTitle" : "EA-18G",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "N11",
+  "equipmentTitle" : "CCIC2S",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "548",
+  "equipmentTitle" : "C-130H",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "147",
+  "equipmentTitle" : "SPARROW (AIM-7M) (N)",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "354",
+  "equipmentTitle" : "SDB",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "M26",
+  "equipmentTitle" : "DIMHRS",
+  "coiCode" : "5D",
+  "coiTitle" : "SYNTHESIS/ANALYTICS/DECISION TOOLS"
+}, {
+  "equipmentCode" : "307",
+  "equipmentTitle" : "HAWK IMPROVED",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "178",
+  "equipmentTitle" : "TRIDENT II MISSILE",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "280",
+  "equipmentTitle" : "JAVELIN",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "BJL",
+  "equipmentTitle" : "J-85",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "766",
+  "equipmentTitle" : "JSOW",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "N08",
+  "equipmentTitle" : "NAVY ERP",
+  "coiCode" : "5D",
+  "coiTitle" : "SYNTHESIS/ANALYTICS/DECISION TOOLS"
+}, {
+  "equipmentCode" : "177",
+  "equipmentTitle" : "TRIDENT II SUB",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "AEC",
+  "equipmentTitle" : "E-3A",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "213",
+  "equipmentTitle" : "KC-10A",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "231",
+  "equipmentTitle" : "CV HELO (SH-60F)",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "130",
+  "equipmentTitle" : "MLRS",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "365",
+  "equipmentTitle" : "COBRA JUDY REPLACEMENT",
+  "coiCode" : "15A",
+  "coiTitle" : "RADIO FREQUENCY (RF) (NON-EW)"
+}, {
+  "equipmentCode" : "M01",
+  "equipmentTitle" : "GCCS-J",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "188",
+  "equipmentTitle" : "A-6E / A-6 UPGRADE",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "311",
+  "equipmentTitle" : "POSEIDON",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "AVK",
+  "equipmentTitle" : "X-31",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "390",
+  "equipmentTitle" : "HLR",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "N18",
+  "equipmentTitle" : "DADS",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "171",
+  "equipmentTitle" : "JTIDS (NAVY)",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "260",
+  "equipmentTitle" : "GMLRS",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "326",
+  "equipmentTitle" : "WGS",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "578",
+  "equipmentTitle" : "NAVY AREA TBMD",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "151",
+  "equipmentTitle" : "SURTASS",
+  "coiCode" : "15B",
+  "coiTitle" : "ACOUSTIC, SEISMIC AND MAGNETIC"
+}, {
+  "equipmentCode" : "ZOP",
+  "equipmentTitle" : "OTHER ENVIRONMENTAL PROGRAMS",
+  "coiCode" : "18",
+  "coiTitle" : "NON-COI"
+}, {
+  "equipmentCode" : "N30",
+  "equipmentTitle" : "TDC",
+  "coiCode" : "18",
+  "coiTitle" : "NON-COI"
+}, {
+  "equipmentCode" : "FVH",
+  "equipmentTitle" : "AMMUNITION SIMULATORS, ALL TYPES",
+  "coiCode" : "17B",
+  "coiTitle" : "ORDNANCE"
+}, {
+  "equipmentCode" : "358",
+  "equipmentTitle" : "SBR",
+  "coiCode" : "16D",
+  "coiTitle" : "INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE (ISR)"
+}, {
+  "equipmentCode" : "374",
+  "equipmentTitle" : "LCS",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "CNT",
+  "equipmentTitle" : "MLRS - MULTIPLE LAUNCH ROCKET SYS",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "261",
+  "equipmentTitle" : "AEHF",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "153",
+  "equipmentTitle" : "AN/SQQ-89",
+  "coiCode" : "15B",
+  "coiTitle" : "ACOUSTIC, SEISMIC AND MAGNETIC"
+}, {
+  "equipmentCode" : "M90",
+  "equipmentTitle" : "GCCS-M",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "524",
+  "equipmentTitle" : "AWACS RSIP (E-3)",
+  "coiCode" : "15A",
+  "coiTitle" : "RADIO FREQUENCY (RF) (NON-EW)"
+}, {
+  "equipmentCode" : "364",
+  "equipmentTitle" : "E-2D AHE",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "161",
+  "equipmentTitle" : "CVN 68",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "174",
+  "equipmentTitle" : "KIOWA WARRIOR",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "219",
+  "equipmentTitle" : "ATIRCMS/CMWS",
+  "coiCode" : "9D",
+  "coiTitle" : "BROADBAND/MULTISPECTRAL COMPONENTS AND SYSTEMS"
+}, {
+  "equipmentCode" : "788",
+  "equipmentTitle" : "MILSTAR",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "N09",
+  "equipmentTitle" : "JMPS",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "362",
+  "equipmentTitle" : "BMDS",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "347",
+  "equipmentTitle" : "GCSS ARMY",
+  "coiCode" : "5D",
+  "coiTitle" : "SYNTHESIS/ANALYTICS/DECISION TOOLS"
+}, {
+  "equipmentCode" : "000",
+  "equipmentTitle" : "NONE",
+  "coiCode" : null,
+  "coiTitle" : null
+}, {
+  "equipmentCode" : "AFF",
+  "equipmentTitle" : "F-15 EAGLE",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "124",
+  "equipmentTitle" : "F-15",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "571",
+  "equipmentTitle" : "ATS",
+  "coiCode" : "18E",
+  "coiTitle" : "SUSTAINMENT"
+}, {
+  "equipmentCode" : "755",
+  "equipmentTitle" : "B-2A",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "549",
+  "equipmentTitle" : "F/A-18 E/F",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "328",
+  "equipmentTitle" : "PROPHET SYSTEM",
+  "coiCode" : "5C",
+  "coiTitle" : "INFORMATION COLLECTION/MANAGEMENT"
+}, {
+  "equipmentCode" : "AIC",
+  "equipmentTitle" : "APACHE (AH-64) ADV ATTACK",
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES"
+}, {
+  "equipmentCode" : "296",
+  "equipmentTitle" : "WIN-T",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "377",
+  "equipmentTitle" : "E-10",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "ZDE",
+  "equipmentTitle" : "DERP",
+  "coiCode" : "14C",
+  "coiTitle" : "ENVIRONMENTAL QUALITY"
+}, {
+  "equipmentCode" : "530",
+  "equipmentTitle" : "AV-8B REMANUFACTURE",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "AFH",
+  "equipmentTitle" : "F-16 FALCON",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "370",
+  "equipmentTitle" : "JOINT COMMON MISSILE",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "CAA",
+  "equipmentTitle" : "MDA SUPPORT",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "345",
+  "equipmentTitle" : "MUOS",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "274",
+  "equipmentTitle" : "JSTARS",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "276",
+  "equipmentTitle" : "E-2C REPRODUCTION",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "592",
+  "equipmentTitle" : "T-AKE",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "568",
+  "equipmentTitle" : "SMART-T",
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)"
+}, {
+  "equipmentCode" : "AEB",
+  "equipmentTitle" : "E-2 HAWKEYE",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "233",
+  "equipmentTitle" : "SINCGARS",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "203",
+  "equipmentTitle" : "DMSP",
+  "coiCode" : "16G",
+  "coiTitle" : "SPACE AND TERRESTRIAL ENVIRONMENTAL MONITORING (EM)"
+}, {
+  "equipmentCode" : "CNJ",
+  "equipmentTitle" : "UGM-96 TRIDENT",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "265",
+  "equipmentTitle" : "F/A-22",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "360",
+  "equipmentTitle" : "JTRS CLUSTER 1",
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS"
+}, {
+  "equipmentCode" : "AFX",
+  "equipmentTitle" : "F-18 HORNET",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "ADG",
+  "equipmentTitle" : "C-17 CARGO TRANSPORT",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "102",
+  "equipmentTitle" : "A-10",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "220",
+  "equipmentTitle" : "C-130J",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "N21",
+  "equipmentTitle" : "GCCS-AF",
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)"
+}, {
+  "equipmentCode" : "185",
+  "equipmentTitle" : "AMRAAM",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "299",
+  "equipmentTitle" : "STRYKER (IAV)",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "106",
+  "equipmentTitle" : "PATRIOT",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "149",
+  "equipmentTitle" : "SSN 688",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "324",
+  "equipmentTitle" : "P-3C",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "553",
+  "equipmentTitle" : "THAAD",
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES"
+}, {
+  "equipmentCode" : "516",
+  "equipmentTitle" : "SSN 774",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+}, {
+  "equipmentCode" : "M16",
+  "equipmentTitle" : "SPS",
+  "coiCode" : "18E",
+  "coiTitle" : "SUSTAINMENT"
+}, {
+  "equipmentCode" : "M08",
+  "equipmentTitle" : "HPCM",
+  "coiCode" : "5A",
+  "coiTitle" : "ADVANCED COMPUTING/SOFTWARE DEVELOPMENT"
+}, {
+  "equipmentCode" : "181",
+  "equipmentTitle" : "KC-135R",
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES"
+}, {
+  "equipmentCode" : "GAJ",
+  "equipmentTitle" : "NAVSTAR",
+  "coiCode" : "16C",
+  "coiTitle" : "POSITIONING, NAVIGATION AND TIMING (PNT)"
+}, {
+  "equipmentCode" : "330",
+  "equipmentTitle" : "AESA",
+  "coiCode" : "15A",
+  "coiTitle" : "RADIO FREQUENCY (RF) (NON-EW)"
+}, {
+  "equipmentCode" : "373",
+  "equipmentTitle" : "MQ-4C TRITON",
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS"
+}, {
+  "equipmentCode" : "575",
+  "equipmentTitle" : "ABRAMS UPGRADE",
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)"
+} ]
