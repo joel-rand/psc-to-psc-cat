@@ -11,7 +11,7 @@ describe('#xs',function() {
       expect(title).to.equal('GUNS, THROUGH 30MM');
     });
 
-    it ('Incorrect record values',function() {
+    it ('Check record values',function() {
       var record = _.find(xs,{pscCode:'AS46'});
       expect(record.pscTitle).to.equal('R&D- MODAL TRANSPORTATION: MARINE (MANAGEMENT/SUPPORT)');
       expect(record.pscCategoryCode).to.equal('A');
