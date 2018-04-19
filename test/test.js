@@ -2,11 +2,12 @@
 
 var psc_mapping = require('../psc-mapping.json');
 var naics_mapping = require('../naics-mapping.json');
+var equipment_mapping = require('../equipment-mapping.json');
 
 var _ = require('lodash');
 var expect = require('chai').expect;
 
-describe('PSC Mapping Tests', function() {
+describe('Mapping Tests', function() {
 
   it('PSC title should be GUNS, THROUGH 30MM', function() {
     var title = _.find(psc_mapping, {
@@ -56,6 +57,19 @@ describe('PSC Mapping Tests', function() {
       pscCode: '8920'
     });
     expect(records.length).to.equal(17);
+  });
+
+  it('Checking equipment code mapping', function() {
+    var record = _.find(equipment_mapping, {
+      equipmentCode: '330'
+    });
+    expect(record.equipmentTitle).to.equal('AESA');
+    expect(record.coiCode).to.equal('15A');
+    expect(record.coiTitle).to.equal('RADIO FREQUENCY (RF) (NON-EW)');
+    record = _.find(equipment_mapping, {
+      equipmentCode: 'XXAAA'
+    });
+    expect(record === undefined);
   });
 
 });
