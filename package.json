@@ -6,6 +6,10 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/joel-rand/psc-to-psc-cat"
+  },
   "author": "Joel Rand",
   "license": "MIT",
   "dependencies": {
