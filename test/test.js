@@ -24,9 +24,6 @@ describe('Mapping Tests', function() {
     expect(record.pscCategoryCode).to.equal('A');
     expect(record.pscCategoryTitle).to.equal('RESEARCH AND DEVELOPMENT');
     expect(record.coiCode).to.equal('12');
-    expect(record.coiTitle).to.equal('GROUND AND SEA PLATFORMS (G&SP)');
-    expect(record.budgetActivityCode).to.equal('06');
-    expect(record.budgetActivityTitle).to.equal('RDT&E MANAGEMENT SUPPORT');
   });
 
   it('Checking PSC record not found', function() {
@@ -42,7 +39,6 @@ describe('Mapping Tests', function() {
     });
     expect(record.naicsTitle).to.equal('WHEAT FARMING');
     expect(record.pscCode).to.equal('8920');
-    expect(record.pscTitle).to.equal('BAKERY AND CEREAL PRODUCTS');
   });
 
   it('Checking NAICS record not found', function() {
@@ -65,7 +61,6 @@ describe('Mapping Tests', function() {
     });
     expect(record.equipmentTitle).to.equal('AESA');
     expect(record.coiCode).to.equal('15A');
-    expect(record.coiTitle).to.equal('RADIO FREQUENCY (RF) (NON-EW)');
     record = _.find(equipment_mapping, {
       equipmentCode: 'XXAAA'
     });

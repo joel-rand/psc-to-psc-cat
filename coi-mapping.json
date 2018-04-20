@@ -1,0 +1,571 @@
+[ {
+  "coiCode" : "1",
+  "coiTitle" : "ADVANCED ELECTRONICS",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "10",
+  "coiTitle" : "ENERGY AND POWER (E&P) TECHNOLOGIES",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "10A",
+  "coiTitle" : "ELECTROMECHANICAL CONVERSION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "10B",
+  "coiTitle" : "ENERGY STORAGE",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "10C",
+  "coiTitle" : "POWER CONTROL AND DISTRIBUTION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "10D",
+  "coiTitle" : "POWER GENERATION/ENERGY CONVERSION",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "10E",
+  "coiTitle" : "THERMAL TRANSPORT AND CONTROL",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "11",
+  "coiTitle" : "ENGINEERED RESILIENT SYSTEMS (ERS)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "11A",
+  "coiTitle" : "COLLABORATIVE ANALYSIS AND DECISION-MAKING",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "11B",
+  "coiTitle" : "CONCEPTUAL, COMPUTATIONAL, AND WORLD-WIDE ENVIRONMENTAL REPRESENTATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "11C",
+  "coiTitle" : "TRADESPACE ANALYSIS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "11D",
+  "coiTitle" : "CAPABILITY INTEGRATION AND DEMONSTRATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "12",
+  "coiTitle" : "GROUND AND SEA PLATFORMS (G&SP)",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "12A",
+  "coiTitle" : "MAINTAINABILITY/SUSTAINABILITY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "12B",
+  "coiTitle" : "MODULARITY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "12C",
+  "coiTitle" : "MOBILITY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "12D",
+  "coiTitle" : "SURVIVABILITY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "12E",
+  "coiTitle" : "UNMANNED GROUND AND SEA VEHICLES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "13",
+  "coiTitle" : "HUMAN SYSTEMS",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "13A",
+  "coiTitle" : "PERSONALIZED ASSESSMENT, EDUCATION, AND TRAINING",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "13B",
+  "coiTitle" : "PROTECTION, SUSTAINMENT, AND WARFIGHTER PERFORMANCE",
+  "budgetActivityCode" : "04",
+  "budgetActivityTitle" : "ADVANCED COMPONENT DEVELOPMENT AND PROTOTYPES"
+}, {
+  "coiCode" : "13C",
+  "coiTitle" : "HUMAN ASPECTS OF OPERATIONS IN MILITARY ENVIRONMENTS",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "13D",
+  "coiTitle" : "SYSTEM INTERFACES & COGNITIVE PROCESSES",
+  "budgetActivityCode" : "02",
+  "budgetActivityTitle" : "APPLIED RESEARCH"
+}, {
+  "coiCode" : "14",
+  "coiTitle" : "MATERIALS & MANUFACTURING PROCESSES (M&MP)",
+  "budgetActivityCode" : "02",
+  "budgetActivityTitle" : "APPLIED RESEARCH"
+}, {
+  "coiCode" : "14A",
+  "coiTitle" : "MATERIALS/PROCESSES FOR SURVIVABILITY & LIFE EXTENSION",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "14B",
+  "coiTitle" : "MANUFACTURING TECHNOLOGY FOR AFFORDABILITY",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "14C",
+  "coiTitle" : "ENVIRONMENTAL QUALITY",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "14D",
+  "coiTitle" : "CIVIL ENGINEERING",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "15",
+  "coiTitle" : "SENSORS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "15A",
+  "coiTitle" : "RADIO FREQUENCY (RF) (NON-EW)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "15B",
+  "coiTitle" : "ACOUSTIC, SEISMIC AND MAGNETIC",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "15C",
+  "coiTitle" : "ELECTRO-OPTICAL/INFRARED (EO/IR)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16",
+  "coiTitle" : "SPACE",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "16A",
+  "coiTitle" : "SATELLITE COMMUNICATIONS (SATCOM)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16B",
+  "coiTitle" : "MISSILE WARNING, MISSILE DEFENSE, KILL ASSESSMENT AND ATTACK ASSESSMENT",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16C",
+  "coiTitle" : "POSITIONING, NAVIGATION AND TIMING (PNT)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16D",
+  "coiTitle" : "INTELLIGENCE, SURVEILLANCE AND RECONNAISSANCE (ISR)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16E",
+  "coiTitle" : "SPACE CONTROL (SC) AND SPACE SITUATIONAL AWARENESS (SSA)",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "16F",
+  "coiTitle" : "SPACE ACCESS (SA)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16G",
+  "coiTitle" : "SPACE AND TERRESTRIAL ENVIRONMENTAL MONITORING (EM)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16H",
+  "coiTitle" : "COMMAND AND CONTROL (C2); AND SATELLITE OPERATIONS (SATOPS)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "16I",
+  "coiTitle" : "SPACE ENABLERS",
+  "budgetActivityCode" : "02",
+  "budgetActivityTitle" : "APPLIED RESEARCH"
+}, {
+  "coiCode" : "16J",
+  "coiTitle" : "SPACE RESILIENCE",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17",
+  "coiTitle" : "WEAPONS TECHNOLOGIES",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "17A",
+  "coiTitle" : "GUIDANCE, NAVIGATION & CONTROL (GN&C) AND DATA LINKS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17B",
+  "coiTitle" : "ORDNANCE",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "17C",
+  "coiTitle" : "PROPULSION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17D",
+  "coiTitle" : "UNDERSEA WEAPONS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17E",
+  "coiTitle" : "HIGH ENERGY LASERS (HEL)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17F",
+  "coiTitle" : "RADIO FREQUENCY WEAPONS (RFW)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17G",
+  "coiTitle" : "NON-LETHAL WEAPONS (NLW)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "17H",
+  "coiTitle" : "GUIDED WEAPON DEMONSTRATORS (GWD)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "18",
+  "coiTitle" : "NON-COI",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "18A",
+  "coiTitle" : "OCEAN BATTLESPACE ENVIRONMENTS",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "18B",
+  "coiTitle" : "LOWER ATMOSPHERE BATTLESPACE ENVIRONMENTS",
+  "budgetActivityCode" : "03",
+  "budgetActivityTitle" : "ADVANCED TECHNOLOGY DEVELOPMENT"
+}, {
+  "coiCode" : "18C",
+  "coiTitle" : "TERRESTRIAL BATTLESPACE ENVIRONMENTS",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "18D",
+  "coiTitle" : "MODELING AND SIMULATION TECHNOLOGY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "18E",
+  "coiTitle" : "SUSTAINMENT",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "18F",
+  "coiTitle" : "CLASSIFIED",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "1A",
+  "coiTitle" : "ELECTRONICS INTEGRATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "1B",
+  "coiTitle" : "ELECTRONIC MATERIALS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "1C",
+  "coiTitle" : "EO/IR COMPONENTS FOR SENSING, TRANSMISSION AND COMMUNICATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "1D",
+  "coiTitle" : "MICROELECTRONICS AND NANOELECTRONICS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "1E",
+  "coiTitle" : "RF COMPONENTS FOR SENSING, TRANSMISSION AND COMMUNICATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "2",
+  "coiTitle" : "AIR PLATFORMS",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "2A",
+  "coiTitle" : "AIRCRAFT PROPULSION, POWER AND THERMAL",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "2B",
+  "coiTitle" : "FIXED WING VEHICLES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "2C",
+  "coiTitle" : "HIGH-SPEED/HYPERSONICS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "2D",
+  "coiTitle" : "ROTARY WING VEHICLES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "3",
+  "coiTitle" : "AUTONOMY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "3A",
+  "coiTitle" : "HUMAN/AUTONOMOUS SYSTEM INTERACTION AND COLLABORATION (HASIC)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "3B",
+  "coiTitle" : "MACHINE PERCEPTION, REASONING AND INTELLIGENCE (MPRI)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "3C",
+  "coiTitle" : "SCALABLE TEAMING OF AUTONOMOUS SYSTEMS (STAS)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "3D",
+  "coiTitle" : "TEST, EVALUATION, VALIDATION, AND VERIFICATION (TEVV)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "4",
+  "coiTitle" : "BIOMEDICAL (ASBREM)",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "4A",
+  "coiTitle" : "BIOMEDICAL INFORMATICS / HEALTH INFORMATION SYSTEMS & TECHNOLOGY (BI/HIST)",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "4B",
+  "coiTitle" : "MILITARY INFECTIOUS DISEASES (MID)",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "4C",
+  "coiTitle" : "MILITARY OPERATIONAL MEDICINE (MOM)",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "4D",
+  "coiTitle" : "COMBAT CASUALTY CARE (CCC)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "4E",
+  "coiTitle" : "MEDICAL RADIOLOGICAL DEFENSE (MRD)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "4F",
+  "coiTitle" : "CLINICAL AND REHABILITATIVE MEDICINE (CRM)",
+  "budgetActivityCode" : "04",
+  "budgetActivityTitle" : "ADVANCED COMPONENT DEVELOPMENT AND PROTOTYPES"
+}, {
+  "coiCode" : "4G",
+  "coiTitle" : "MEDICAL CHEM-BIO DEFENSE (MCBD)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "5",
+  "coiTitle" : "COMMAND, CONTROL, COMMUNICATIONS, COMPUTERS & INTELLIGENCE (C4I)",
+  "budgetActivityCode" : "05",
+  "budgetActivityTitle" : "SYSTEM DEVELOPMENT AND DEMONSTRATION"
+}, {
+  "coiCode" : "5A",
+  "coiTitle" : "ADVANCED COMPUTING/SOFTWARE DEVELOPMENT",
+  "budgetActivityCode" : "07",
+  "budgetActivityTitle" : "OPERATION SYSTEMS DEVELOPMENT"
+}, {
+  "coiCode" : "5B",
+  "coiTitle" : "HUMAN COMPUTER INTERFACES (HCI) FOR DECISION MAKING",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "5C",
+  "coiTitle" : "INFORMATION COLLECTION/MANAGEMENT",
+  "budgetActivityCode" : "06",
+  "budgetActivityTitle" : "RDT&E MANAGEMENT SUPPORT"
+}, {
+  "coiCode" : "5D",
+  "coiTitle" : "SYNTHESIS/ANALYTICS/DECISION TOOLS",
+  "budgetActivityCode" : "03",
+  "budgetActivityTitle" : "ADVANCED TECHNOLOGY DEVELOPMENT"
+}, {
+  "coiCode" : "5E",
+  "coiTitle" : "NETWORKS AND COMMUNICATIONS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6",
+  "coiTitle" : "COUNTER IMPROVISED EXPLOSIVE DEVICES (C-IED)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6A",
+  "coiTitle" : "IDENTIFY THREAT NETWORKS THAT EMPLOY OR FACILITATE IEDS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6B",
+  "coiTitle" : "DETECT IEDS AND/OR IED COMPONENTS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6C",
+  "coiTitle" : "PREVENT AND/OR NEUTRALIZE IEDS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6D",
+  "coiTitle" : "MITIGATE IED EFFECTS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6E",
+  "coiTitle" : "DISTRIBUTE IED-RELATED DATA ACROSS THE COI",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "6F",
+  "coiTitle" : "TRAIN C-IED CAPABILITIES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "7",
+  "coiTitle" : "COUNTER WEAPONS OF MASS DESTRUCTION (C-WMD)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "7A",
+  "coiTitle" : "UNDERSTAND THE ENVIRONMENT, THREATS, AND VULNERABILITIES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "7B",
+  "coiTitle" : "CONTROL, DEFEAT, DISABLE AND/OR DISPOSE OF WMD THREATS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "7C",
+  "coiTitle" : "SAFEGUARD THE FORCE AND MANAGE CONSEQUENCES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8",
+  "coiTitle" : "CYBER",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8A",
+  "coiTitle" : "ASSURING EFFECTIVE MISSIONS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8B",
+  "coiTitle" : "AGILE OPERATIONS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8C",
+  "coiTitle" : "RESILIENT INFRASTRUCTURE",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8D",
+  "coiTitle" : "TRUST FOUNDATIONS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8E",
+  "coiTitle" : "EMBEDDED, MOBILE, AND TACTICAL",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "8F",
+  "coiTitle" : "MODELING, SIMULATION, AND EXPERIMENTATION",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9",
+  "coiTitle" : "ELECTRONIC WARFARE (EW)",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "99",
+  "coiTitle" : "UNASSIGNED",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9A",
+  "coiTitle" : "COGNITIVE/ADAPTIVE CAPABILITIES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9B",
+  "coiTitle" : "DISTRIBUTED/COORDINATED/NET-ENABLED SYSTEMS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9C",
+  "coiTitle" : "PREEMPTIVE/PROACTIVE EFFECTS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9D",
+  "coiTitle" : "BROADBAND/MULTISPECTRAL COMPONENTS AND SYSTEMS",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9E",
+  "coiTitle" : "MODULAR/OPEN/RECONFIGURABLE ARCHITECTURES",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+}, {
+  "coiCode" : "9F",
+  "coiTitle" : "ADVANCED ELECTRONIC PROTECTION TECHNIQUES AND TECHNOLOGY",
+  "budgetActivityCode" : null,
+  "budgetActivityTitle" : null
+} ]
