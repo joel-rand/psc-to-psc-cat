@@ -42,9 +42,9 @@ Usage:
 
 Maps an `North American Industry Classification System (NAICS)` code to its title. Also maps the NAICS code to a COI code (optional).
 
-## equipment-mapping.json
+## acquistion-code-mapping.json
 
-Maps an `Equipment` code to its title. Also maps the Equipment code to a COI code (optional)
+Maps a DoD `Program Acquisition` code to its title. Also maps the Acquisition code to a COI code (optional).
 
 ## agency-mapping.json
 

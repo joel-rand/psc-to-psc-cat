@@ -1,0 +1,3085 @@
+[ {
+  "acquistionProgramCode" : "000",
+  "acquistionProgramDescription" : "NONE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "100",
+  "acquistionProgramDescription" : "GPALS (SDS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "101",
+  "acquistionProgramDescription" : "H-1 UPGRADES",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "102",
+  "acquistionProgramDescription" : "A-10",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "103",
+  "acquistionProgramDescription" : "E-3A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "104",
+  "acquistionProgramDescription" : "EF-111A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "105",
+  "acquistionProgramDescription" : "AN/BQS-13",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "106",
+  "acquistionProgramDescription" : "PATRIOT",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "107",
+  "acquistionProgramDescription" : "PERSHING II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "108",
+  "acquistionProgramDescription" : "LASER HELLFIRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "109",
+  "acquistionProgramDescription" : "5-INCH GUIDED PROJECTILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "110",
+  "acquistionProgramDescription" : "AEGIS",
+  "coiCode" : "15"
+}, {
+  "acquistionProgramCode" : "111",
+  "acquistionProgramDescription" : "ALCM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "112",
+  "acquistionProgramDescription" : "AN/TTC-39",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "113",
+  "acquistionProgramDescription" : "CAPTOR (MK 60 MINE)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "114",
+  "acquistionProgramDescription" : "CGN-38",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "115",
+  "acquistionProgramDescription" : "CH-47D",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "116",
+  "acquistionProgramDescription" : "C/MH-53E",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "117",
+  "acquistionProgramDescription" : "CHEYENNE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "118",
+  "acquistionProgramDescription" : "COPPERHEAD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "119",
+  "acquistionProgramDescription" : "SGT YORK GUN (DIVAD)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "120",
+  "acquistionProgramDescription" : "DSCS III",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "121",
+  "acquistionProgramDescription" : "EPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "122",
+  "acquistionProgramDescription" : "E-4 (AABNCP)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "123",
+  "acquistionProgramDescription" : "F-14D",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "124",
+  "acquistionProgramDescription" : "F-15",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "125",
+  "acquistionProgramDescription" : "F-16",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "126",
+  "acquistionProgramDescription" : "F/A-18A/B/C/D",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "127",
+  "acquistionProgramDescription" : "FFG-7",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "128",
+  "acquistionProgramDescription" : "BRADLEY FVS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "129",
+  "acquistionProgramDescription" : "GLCM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "130",
+  "acquistionProgramDescription" : "MLRS",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "131",
+  "acquistionProgramDescription" : "HARM (NAVY)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "132",
+  "acquistionProgramDescription" : "HARM (AIR FORCE)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "133",
+  "acquistionProgramDescription" : "HARPOON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "134",
+  "acquistionProgramDescription" : "LAMPS MKIII (SH-60B)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "135",
+  "acquistionProgramDescription" : "LHA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "136",
+  "acquistionProgramDescription" : "M198 TOWED HOWITZER (155MM)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "137",
+  "acquistionProgramDescription" : "MAVERICK (IR)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "138",
+  "acquistionProgramDescription" : "MK 48 ADCAP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "139",
+  "acquistionProgramDescription" : "MK 48 TORPEDO",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "140",
+  "acquistionProgramDescription" : "DD 963",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "141",
+  "acquistionProgramDescription" : "NATO PHM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "142",
+  "acquistionProgramDescription" : "PHOENIX (AIM-54A/B)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "143",
+  "acquistionProgramDescription" : "ROLAND",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "144",
+  "acquistionProgramDescription" : "SIDEWINDER (AIM-9L) (N)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "145",
+  "acquistionProgramDescription" : "SIDEWINDER (AIM-9L) (AF)",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "146",
+  "acquistionProgramDescription" : "SOTAS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "147",
+  "acquistionProgramDescription" : "SPARROW (AIM-7M) (N)",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "148",
+  "acquistionProgramDescription" : "PAC-3",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "149",
+  "acquistionProgramDescription" : "SSN 688",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "150",
+  "acquistionProgramDescription" : "STINGER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "151",
+  "acquistionProgramDescription" : "SURTASS",
+  "coiCode" : "15B"
+}, {
+  "acquistionProgramCode" : "152",
+  "acquistionProgramDescription" : "TACFIRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "153",
+  "acquistionProgramDescription" : "AN/SQQ-89",
+  "coiCode" : "15B"
+}, {
+  "acquistionProgramCode" : "154",
+  "acquistionProgramDescription" : "TOMAHAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "155",
+  "acquistionProgramDescription" : "TRIDENT SUB",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "156",
+  "acquistionProgramDescription" : "BLACK HAWK (UH-60A/L)",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "157",
+  "acquistionProgramDescription" : "M1/M1A1 ABRAMS TANK",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "158",
+  "acquistionProgramDescription" : "APACHE (AH-64A)",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "159",
+  "acquistionProgramDescription" : "CG-47",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "160",
+  "acquistionProgramDescription" : "TACTAS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "161",
+  "acquistionProgramDescription" : "CVN 68",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "162",
+  "acquistionProgramDescription" : "SIDWINGER (AIM-9M) (N)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "163",
+  "acquistionProgramDescription" : "SIDWINGER (AIM-9M) (AF)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "164",
+  "acquistionProgramDescription" : "SPARROW (AIM-7F) (N)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "165",
+  "acquistionProgramDescription" : "SPARROW (AIM-7M) (AF)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "166",
+  "acquistionProgramDescription" : "NAVSTAR GPS",
+  "coiCode" : "16C"
+}, {
+  "acquistionProgramCode" : "167",
+  "acquistionProgramDescription" : "AV-8B",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "168",
+  "acquistionProgramDescription" : "B1-B",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "169",
+  "acquistionProgramDescription" : "PHOENIX (AIM-54C)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "170",
+  "acquistionProgramDescription" : "JTIDS (ARMY)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "171",
+  "acquistionProgramDescription" : "JTIDS (NAVY)",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "172",
+  "acquistionProgramDescription" : "JTIDY (AIR FORCE)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "173",
+  "acquistionProgramDescription" : "BMTC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "174",
+  "acquistionProgramDescription" : "KIOWA WARRIOR",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "175",
+  "acquistionProgramDescription" : "LAV (ARMY)",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "176",
+  "acquistionProgramDescription" : "EELV",
+  "coiCode" : "16F"
+}, {
+  "acquistionProgramCode" : "177",
+  "acquistionProgramDescription" : "TRIDENT II SUB",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "178",
+  "acquistionProgramDescription" : "TRIDENT II MISSILE",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "179",
+  "acquistionProgramDescription" : "ARH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "180",
+  "acquistionProgramDescription" : "DDG 51",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "181",
+  "acquistionProgramDescription" : "KC-135R",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "182",
+  "acquistionProgramDescription" : "LUH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "183",
+  "acquistionProgramDescription" : "FCA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "184",
+  "acquistionProgramDescription" : "AMRAAM (NAVY)",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "185",
+  "acquistionProgramDescription" : "AMRAAM",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "186",
+  "acquistionProgramDescription" : "IUS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "187",
+  "acquistionProgramDescription" : "LANTRIN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "188",
+  "acquistionProgramDescription" : "A-6E / A-6 UPGRADE",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "189",
+  "acquistionProgramDescription" : "EJS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "190",
+  "acquistionProgramDescription" : "ADDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "191",
+  "acquistionProgramDescription" : "MH-60R",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "192",
+  "acquistionProgramDescription" : "MK 50 TORPEDO",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "193",
+  "acquistionProgramDescription" : "SCOUT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "194",
+  "acquistionProgramDescription" : "ASAT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "195",
+  "acquistionProgramDescription" : "ASPJ",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "196",
+  "acquistionProgramDescription" : "SEA LANCE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "197",
+  "acquistionProgramDescription" : "DDG 1000",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "198",
+  "acquistionProgramDescription" : "F-35",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "199",
+  "acquistionProgramDescription" : "FAB-T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "200",
+  "acquistionProgramDescription" : "C-17A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "201",
+  "acquistionProgramDescription" : "C-5B",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "202",
+  "acquistionProgramDescription" : "AH-64E REMANUFACTURE",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "203",
+  "acquistionProgramDescription" : "DMSP",
+  "coiCode" : "16G"
+}, {
+  "acquistionProgramCode" : "204",
+  "acquistionProgramDescription" : "DSP",
+  "coiCode" : "16D"
+}, {
+  "acquistionProgramCode" : "206",
+  "acquistionProgramDescription" : "EA-6B",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "207",
+  "acquistionProgramDescription" : "E-6A (TACAMO)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "208",
+  "acquistionProgramDescription" : "HHD-60",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "209",
+  "acquistionProgramDescription" : "ODSI",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "210",
+  "acquistionProgramDescription" : "SBIRS HIGH",
+  "coiCode" : "16D"
+}, {
+  "acquistionProgramCode" : "211",
+  "acquistionProgramDescription" : "ATACMS-APAM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "212",
+  "acquistionProgramDescription" : "V-22",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "213",
+  "acquistionProgramDescription" : "KC-10A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "214",
+  "acquistionProgramDescription" : "CHEM DEMIL (LEGACY)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "215",
+  "acquistionProgramDescription" : "LLLBGK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "216",
+  "acquistionProgramDescription" : "LCAC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "217",
+  "acquistionProgramDescription" : "LHD 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "218",
+  "acquistionProgramDescription" : "LSD-41",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "219",
+  "acquistionProgramDescription" : "ATIRCMS/CMWS",
+  "coiCode" : "9D"
+}, {
+  "acquistionProgramCode" : "220",
+  "acquistionProgramDescription" : "C-130J",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "221",
+  "acquistionProgramDescription" : "ECSS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "222",
+  "acquistionProgramDescription" : "BTLFLD DIGITALIZATION",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "223",
+  "acquistionProgramDescription" : "CVN 78",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "224",
+  "acquistionProgramDescription" : "B-2 EHF INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "225",
+  "acquistionProgramDescription" : "PEACEKEEPER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "226",
+  "acquistionProgramDescription" : "T-46A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "227",
+  "acquistionProgramDescription" : "OTH-B RADAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "228",
+  "acquistionProgramDescription" : "ABL",
+  "coiCode" : "17E"
+}, {
+  "acquistionProgramCode" : "229",
+  "acquistionProgramDescription" : "RPV (AQUILA)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "230",
+  "acquistionProgramDescription" : "B-1 CMUP-DSUP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "231",
+  "acquistionProgramDescription" : "CV HELO (SH-60F)",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "232",
+  "acquistionProgramDescription" : "SIAP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "233",
+  "acquistionProgramDescription" : "SINCGARS",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "234",
+  "acquistionProgramDescription" : "STANDARD MISSILE 2 (SM 2)",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "235",
+  "acquistionProgramDescription" : "AN/BSY-1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "236",
+  "acquistionProgramDescription" : "TOW 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "237",
+  "acquistionProgramDescription" : "GBS",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "238",
+  "acquistionProgramDescription" : "JPALS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "239",
+  "acquistionProgramDescription" : "NPOESS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "240",
+  "acquistionProgramDescription" : "T-45TS",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "241",
+  "acquistionProgramDescription" : "SSDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "242",
+  "acquistionProgramDescription" : "CG(X)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "243",
+  "acquistionProgramDescription" : "CHEM DEMIL-ACWA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "244",
+  "acquistionProgramDescription" : "CHEM DEMIL-CMA NEWPORT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "245",
+  "acquistionProgramDescription" : "ASAS (ATCCS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "246",
+  "acquistionProgramDescription" : "HMMLTV",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "248",
+  "acquistionProgramDescription" : "MINUTEMAN III PRP",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "250",
+  "acquistionProgramDescription" : "MLRS-TGW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "252",
+  "acquistionProgramDescription" : "RQ-4A/B GLOBAL HAWK",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "254",
+  "acquistionProgramDescription" : "COMANCHE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "255",
+  "acquistionProgramDescription" : "MSE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "257",
+  "acquistionProgramDescription" : "HC/MC-130 RECAP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "258",
+  "acquistionProgramDescription" : "SSN 21",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "259",
+  "acquistionProgramDescription" : "T-AO 187 OILER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "260",
+  "acquistionProgramDescription" : "GMLRS/GMLRS AW",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "261",
+  "acquistionProgramDescription" : "AEHF",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "262",
+  "acquistionProgramDescription" : "B1-CMUP COMPUTER UPGRADE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "263",
+  "acquistionProgramDescription" : "SRAM II / SRAM T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "264",
+  "acquistionProgramDescription" : "MLS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "265",
+  "acquistionProgramDescription" : "F/A-22",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "266",
+  "acquistionProgramDescription" : "CIS (MK XV IFF)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "267",
+  "acquistionProgramDescription" : "SMALL ICBM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "268",
+  "acquistionProgramDescription" : "NTW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "269",
+  "acquistionProgramDescription" : "CSRL",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "270",
+  "acquistionProgramDescription" : "TITAN IV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "271",
+  "acquistionProgramDescription" : "PREDATOR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "272",
+  "acquistionProgramDescription" : "TACTICAL UAV",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "273",
+  "acquistionProgramDescription" : "FIV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "274",
+  "acquistionProgramDescription" : "JSTARS",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "275",
+  "acquistionProgramDescription" : "SFW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "276",
+  "acquistionProgramDescription" : "E-2C REPRODUCTION",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "278",
+  "acquistionProgramDescription" : "CH-47F",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "279",
+  "acquistionProgramDescription" : "JLTV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "280",
+  "acquistionProgramDescription" : "JAVELIN",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "281",
+  "acquistionProgramDescription" : "HDBTDC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "282",
+  "acquistionProgramDescription" : "MH-60S",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "283",
+  "acquistionProgramDescription" : "155 MM HIP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "284",
+  "acquistionProgramDescription" : "JTN",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "285",
+  "acquistionProgramDescription" : "CHEM DEMIL-CMA",
+  "coiCode" : "7B"
+}, {
+  "acquistionProgramCode" : "287",
+  "acquistionProgramDescription" : "LAND WARRIOR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "288",
+  "acquistionProgramDescription" : "B1-B CMUP",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "289",
+  "acquistionProgramDescription" : "TACTOM",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "292",
+  "acquistionProgramDescription" : "GPS III",
+  "coiCode" : "16C"
+}, {
+  "acquistionProgramCode" : "293",
+  "acquistionProgramDescription" : "MP RTIP",
+  "coiCode" : "15A"
+}, {
+  "acquistionProgramCode" : "294",
+  "acquistionProgramDescription" : "FBCB2",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "295",
+  "acquistionProgramDescription" : "ADV WIDEBAND",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "296",
+  "acquistionProgramDescription" : "WIN-T",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "297",
+  "acquistionProgramDescription" : "HAEUAV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "298",
+  "acquistionProgramDescription" : "C-130 AMP",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "299",
+  "acquistionProgramDescription" : "STRYKER (IAV)",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "300",
+  "acquistionProgramDescription" : "MAVERICK (LASER)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "301",
+  "acquistionProgramDescription" : "FCS",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "302",
+  "acquistionProgramDescription" : "MINUTEMAN III GRP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "304",
+  "acquistionProgramDescription" : "LANCE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "306",
+  "acquistionProgramDescription" : "D-HLH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "307",
+  "acquistionProgramDescription" : "HAWK IMPROVED",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "308",
+  "acquistionProgramDescription" : "TOW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "309",
+  "acquistionProgramDescription" : "A-7E",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "310",
+  "acquistionProgramDescription" : "CONDOR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "311",
+  "acquistionProgramDescription" : "POSEIDON",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "312",
+  "acquistionProgramDescription" : "S-3A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "313",
+  "acquistionProgramDescription" : "A-7D",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "315",
+  "acquistionProgramDescription" : "F-111A/D/E/F",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "316",
+  "acquistionProgramDescription" : "F-5E",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "317",
+  "acquistionProgramDescription" : "MAVERICK (TV)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "318",
+  "acquistionProgramDescription" : "8-INCH GUIDED PROJ",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "319",
+  "acquistionProgramDescription" : "TRI-TACK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "321",
+  "acquistionProgramDescription" : "WAM (WWMCCS/WIS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "322",
+  "acquistionProgramDescription" : "PLSS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "323",
+  "acquistionProgramDescription" : "PHALANX CIWS (MK-15)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "324",
+  "acquistionProgramDescription" : "P-3C",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "325",
+  "acquistionProgramDescription" : "I-S/A AMPE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "326",
+  "acquistionProgramDescription" : "WGS",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "327",
+  "acquistionProgramDescription" : "C-5 RERP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "328",
+  "acquistionProgramDescription" : "PROPHET SYSTEM",
+  "coiCode" : "5C"
+}, {
+  "acquistionProgramCode" : "329",
+  "acquistionProgramDescription" : "PRV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "330",
+  "acquistionProgramDescription" : "AESA",
+  "coiCode" : "15A"
+}, {
+  "acquistionProgramCode" : "331",
+  "acquistionProgramDescription" : "ALAM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "332",
+  "acquistionProgramDescription" : "JCC(X)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "333",
+  "acquistionProgramDescription" : "LHA 6",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "334",
+  "acquistionProgramDescription" : "P-8A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "335",
+  "acquistionProgramDescription" : "MPF",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "336",
+  "acquistionProgramDescription" : "SAFEGUARD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "337",
+  "acquistionProgramDescription" : "SSGN",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "338",
+  "acquistionProgramDescription" : "SBL",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "339",
+  "acquistionProgramDescription" : "JSIMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "340",
+  "acquistionProgramDescription" : "SRAM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "341",
+  "acquistionProgramDescription" : "UH-60M BLACK HAWK",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "342",
+  "acquistionProgramDescription" : "VAST",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "343",
+  "acquistionProgramDescription" : "CDL",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "344",
+  "acquistionProgramDescription" : "AV-8A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "345",
+  "acquistionProgramDescription" : "MUOS",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "346",
+  "acquistionProgramDescription" : "CBDP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "347",
+  "acquistionProgramDescription" : "GCSS ARMY",
+  "coiCode" : "5D"
+}, {
+  "acquistionProgramCode" : "348",
+  "acquistionProgramDescription" : "GCSS MARITIME",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "349",
+  "acquistionProgramDescription" : "WIN-T INC 2",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "350",
+  "acquistionProgramDescription" : "WIN-T INC 3",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "351",
+  "acquistionProgramDescription" : "C-5A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "352",
+  "acquistionProgramDescription" : "HPCM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "353",
+  "acquistionProgramDescription" : "GCSS MARITIME",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "354",
+  "acquistionProgramDescription" : "SDB",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "355",
+  "acquistionProgramDescription" : "GCSS DOD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "356",
+  "acquistionProgramDescription" : "GCSS DOD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "357",
+  "acquistionProgramDescription" : "GCSS ARMY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "358",
+  "acquistionProgramDescription" : "SBR",
+  "coiCode" : "16D"
+}, {
+  "acquistionProgramCode" : "359",
+  "acquistionProgramDescription" : "MINUTEMAN II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "360",
+  "acquistionProgramDescription" : "JTRS CLUSTER 1",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "361",
+  "acquistionProgramDescription" : "DE 1052",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "362",
+  "acquistionProgramDescription" : "BMDS",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "363",
+  "acquistionProgramDescription" : "SSN 637",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "364",
+  "acquistionProgramDescription" : "E-2D AHE",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "365",
+  "acquistionProgramDescription" : "COBRA JUDY REPLACEMENT",
+  "coiCode" : "15A"
+}, {
+  "acquistionProgramCode" : "366",
+  "acquistionProgramDescription" : "EXCALIBUR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "367",
+  "acquistionProgramDescription" : "HIMARS",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "368",
+  "acquistionProgramDescription" : "AGM-88E AARGM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "369",
+  "acquistionProgramDescription" : "AOC-WS",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "370",
+  "acquistionProgramDescription" : "JOINT COMMON MISSILE",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "371",
+  "acquistionProgramDescription" : "ACS",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "372",
+  "acquistionProgramDescription" : "JLENS",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "373",
+  "acquistionProgramDescription" : "MQ-4C TRITON",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "374",
+  "acquistionProgramDescription" : "LCS",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "375",
+  "acquistionProgramDescription" : "T-AOE(X)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "376",
+  "acquistionProgramDescription" : "B-2 RMP",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "377",
+  "acquistionProgramDescription" : "E-10",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "378",
+  "acquistionProgramDescription" : "EA-18G",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "379",
+  "acquistionProgramDescription" : "SHILLELAGH MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "380",
+  "acquistionProgramDescription" : "JTRS AMF",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "381",
+  "acquistionProgramDescription" : "ASDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "382",
+  "acquistionProgramDescription" : "TSAT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "383",
+  "acquistionProgramDescription" : "SSN 685",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "385",
+  "acquistionProgramDescription" : "JTRS HMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "386",
+  "acquistionProgramDescription" : "G/ATOR",
+  "coiCode" : "17G"
+}, {
+  "acquistionProgramCode" : "387",
+  "acquistionProgramDescription" : "KC-46A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "388",
+  "acquistionProgramDescription" : "JOINT UCAS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "389",
+  "acquistionProgramDescription" : "DCGS-A INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "390",
+  "acquistionProgramDescription" : "CH-53K",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "391",
+  "acquistionProgramDescription" : "SM-6",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "392",
+  "acquistionProgramDescription" : "VXX",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "394",
+  "acquistionProgramDescription" : "MPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "395",
+  "acquistionProgramDescription" : "PREDATOR B",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "396",
+  "acquistionProgramDescription" : "FEWS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "397",
+  "acquistionProgramDescription" : "E-2C",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "398",
+  "acquistionProgramDescription" : "BATTLESHIP REACT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "399",
+  "acquistionProgramDescription" : "F-14A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "400",
+  "acquistionProgramDescription" : "DSCS II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "401",
+  "acquistionProgramDescription" : "MINUTEMAN III",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "403",
+  "acquistionProgramDescription" : "FB-111A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "404",
+  "acquistionProgramDescription" : "B-1",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "405",
+  "acquistionProgramDescription" : "SPARROW (AIM-7E) (N)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "406",
+  "acquistionProgramDescription" : "SPARROW (AIM-7E) (AF)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "407",
+  "acquistionProgramDescription" : "DRAGON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "408",
+  "acquistionProgramDescription" : "SPARROW (AIM-7F) (AF)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "409",
+  "acquistionProgramDescription" : "M60A2 TANK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "410",
+  "acquistionProgramDescription" : "A-12",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "411",
+  "acquistionProgramDescription" : "XM803 TANK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "412",
+  "acquistionProgramDescription" : "AN/SQQ-23",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "413",
+  "acquistionProgramDescription" : "DLG AAW MOD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "414",
+  "acquistionProgramDescription" : "CVN-68",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "415",
+  "acquistionProgramDescription" : "CVN-69",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "416",
+  "acquistionProgramDescription" : "M551 (AR/AAV)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "503",
+  "acquistionProgramDescription" : "JDAM",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "504",
+  "acquistionProgramDescription" : "P-7A (LRAACA)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "508",
+  "acquistionProgramDescription" : "UHF FOLLOW-ON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "511",
+  "acquistionProgramDescription" : "SLAT (AQM-127A)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "514",
+  "acquistionProgramDescription" : "JTUAV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "515",
+  "acquistionProgramDescription" : "EFV (AAAV)",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "516",
+  "acquistionProgramDescription" : "SSN 774",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "517",
+  "acquistionProgramDescription" : "CMU",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "524",
+  "acquistionProgramDescription" : "AWACS RSIP (E-3)",
+  "coiCode" : "15A"
+}, {
+  "acquistionProgramCode" : "525",
+  "acquistionProgramDescription" : "CGS",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "526",
+  "acquistionProgramDescription" : "AFATDS (ATCCS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "530",
+  "acquistionProgramDescription" : "AV-8B REMANUFACTURE",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "531",
+  "acquistionProgramDescription" : "PATRIOT/MEADS CAP",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "532",
+  "acquistionProgramDescription" : "STINGER RMP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "533",
+  "acquistionProgramDescription" : "AN/SQY-1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "534",
+  "acquistionProgramDescription" : "TACIT RAINBOW (JGL)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "536",
+  "acquistionProgramDescription" : "AFX",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "537",
+  "acquistionProgramDescription" : "NAS",
+  "coiCode" : "1"
+}, {
+  "acquistionProgramCode" : "541",
+  "acquistionProgramDescription" : "LONGBOW HELLFIRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "542",
+  "acquistionProgramDescription" : "LPD 17",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "543",
+  "acquistionProgramDescription" : "CSSCS (ATCCS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "545",
+  "acquistionProgramDescription" : "ATACMS BAT",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "546",
+  "acquistionProgramDescription" : "F-14 BLOCK I STRIKE UPGRADE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "548",
+  "acquistionProgramDescription" : "C-130H",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "549",
+  "acquistionProgramDescription" : "F/A-18 E/F",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "551",
+  "acquistionProgramDescription" : "NESP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "553",
+  "acquistionProgramDescription" : "THAAD",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "554",
+  "acquistionProgramDescription" : "MIDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "555",
+  "acquistionProgramDescription" : "JASSM",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "557",
+  "acquistionProgramDescription" : "CRUSADER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "560",
+  "acquistionProgramDescription" : "JPATS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "561",
+  "acquistionProgramDescription" : "MLR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "564",
+  "acquistionProgramDescription" : "PATRIOT P3I",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "565",
+  "acquistionProgramDescription" : "STRATEGIC SEALIFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "566",
+  "acquistionProgramDescription" : "SCAMP (BLOCK II)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "568",
+  "acquistionProgramDescription" : "SMART-T",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "571",
+  "acquistionProgramDescription" : "ATS",
+  "coiCode" : "18E"
+}, {
+  "acquistionProgramCode" : "572",
+  "acquistionProgramDescription" : "JSIPS (CIGS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "573",
+  "acquistionProgramDescription" : "MLV III",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "575",
+  "acquistionProgramDescription" : "ABRAMS UPGRADE",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "578",
+  "acquistionProgramDescription" : "NAVY AREA TBMD",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "580",
+  "acquistionProgramDescription" : "FAAD C2I(ATCCS)",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "581",
+  "acquistionProgramDescription" : "AIM-9X",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "582",
+  "acquistionProgramDescription" : "CEC",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "587",
+  "acquistionProgramDescription" : "LOSAT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "592",
+  "acquistionProgramDescription" : "T-AKE",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "593",
+  "acquistionProgramDescription" : "CID",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "598",
+  "acquistionProgramDescription" : "B-1 CMUP-JDAM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "601",
+  "acquistionProgramDescription" : "BRADLEY UPGRADE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "700",
+  "acquistionProgramDescription" : "ACM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "708",
+  "acquistionProgramDescription" : "ATM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "715",
+  "acquistionProgramDescription" : "ADATS (FAADS LOS-F-H)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "716",
+  "acquistionProgramDescription" : "FDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "720",
+  "acquistionProgramDescription" : "ATCCS-CHS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "724",
+  "acquistionProgramDescription" : "TMC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "735",
+  "acquistionProgramDescription" : "SADARM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "737",
+  "acquistionProgramDescription" : "AN/BSY-2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "743",
+  "acquistionProgramDescription" : "ASM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "746",
+  "acquistionProgramDescription" : "FMTV",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "747",
+  "acquistionProgramDescription" : "PLS (FHTV)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "752",
+  "acquistionProgramDescription" : "NATO AAWS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "754",
+  "acquistionProgramDescription" : "TACIT RAINBOW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "755",
+  "acquistionProgramDescription" : "B-2A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "760",
+  "acquistionProgramDescription" : "AAAM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "761",
+  "acquistionProgramDescription" : "HFAJ",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "766",
+  "acquistionProgramDescription" : "JSOW",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "769",
+  "acquistionProgramDescription" : "LAV (NAVY)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "770",
+  "acquistionProgramDescription" : "LSD 41 CARGO VAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "771",
+  "acquistionProgramDescription" : "MCM 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "772",
+  "acquistionProgramDescription" : "MHC 51",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "774",
+  "acquistionProgramDescription" : "ROTHR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "775",
+  "acquistionProgramDescription" : "SURTASS (T-AGOS)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "776",
+  "acquistionProgramDescription" : "T-AGOS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "779",
+  "acquistionProgramDescription" : "ATARS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "782",
+  "acquistionProgramDescription" : "B-52 OAS/CMI MODS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "788",
+  "acquistionProgramDescription" : "MILSTAR",
+  "coiCode" : "16A"
+}, {
+  "acquistionProgramCode" : "793",
+  "acquistionProgramDescription" : "RAIL GARRISON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "794",
+  "acquistionProgramDescription" : "AOE 6",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "795",
+  "acquistionProgramDescription" : "STINGRAY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "801",
+  "acquistionProgramDescription" : "AN/BQQ-5",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "812",
+  "acquistionProgramDescription" : "HAVE FLAG",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "831",
+  "acquistionProgramDescription" : "LONGBOW APACHE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "832",
+  "acquistionProgramDescription" : "EMSP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "948",
+  "acquistionProgramDescription" : "AVENGER (FAADS LOS-R)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "949",
+  "acquistionProgramDescription" : "FAADS NLOS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "963",
+  "acquistionProgramDescription" : "NMD",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "A",
+  "acquistionProgramDescription" : "AIRCRAFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "B",
+  "acquistionProgramDescription" : "AIRCRAFT ENGINES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "C",
+  "acquistionProgramDescription" : "MISSILES & ROCKETS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CAA",
+  "acquistionProgramDescription" : "MDA SUPPORT",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "D",
+  "acquistionProgramDescription" : "VEHICLES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "E",
+  "acquistionProgramDescription" : "WEAPONS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "F",
+  "acquistionProgramDescription" : "AMMUNITION",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "G",
+  "acquistionProgramDescription" : "ELECTRONICS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "H",
+  "acquistionProgramDescription" : "OTHER EQUIPMENT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M01",
+  "acquistionProgramDescription" : "GCCS-J",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "M05",
+  "acquistionProgramDescription" : "DPPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M06",
+  "acquistionProgramDescription" : "DJAS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M07",
+  "acquistionProgramDescription" : "TMIP-J INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M08",
+  "acquistionProgramDescription" : "HPCM",
+  "coiCode" : "5A"
+}, {
+  "acquistionProgramCode" : "M09",
+  "acquistionProgramDescription" : "JCALS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M10",
+  "acquistionProgramDescription" : "TRAC2ES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M11",
+  "acquistionProgramDescription" : "RCAS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M12",
+  "acquistionProgramDescription" : "TCAIMS II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M13",
+  "acquistionProgramDescription" : "CHCS II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M14",
+  "acquistionProgramDescription" : "DMLSS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M15",
+  "acquistionProgramDescription" : "DMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M16",
+  "acquistionProgramDescription" : "SPS",
+  "coiCode" : "18E"
+}, {
+  "acquistionProgramCode" : "M17",
+  "acquistionProgramDescription" : "BSM ENERGY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M21",
+  "acquistionProgramDescription" : "ISPAN",
+  "coiCode" : "5D"
+}, {
+  "acquistionProgramCode" : "M22",
+  "acquistionProgramDescription" : "GTN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M23",
+  "acquistionProgramDescription" : "NSIPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M24",
+  "acquistionProgramDescription" : "NTCSS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M26",
+  "acquistionProgramDescription" : "DIMHRS",
+  "coiCode" : "5D"
+}, {
+  "acquistionProgramCode" : "M31",
+  "acquistionProgramDescription" : "DLS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M33",
+  "acquistionProgramDescription" : "GCSS-AT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M49",
+  "acquistionProgramDescription" : "DTS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M73",
+  "acquistionProgramDescription" : "TBMCS",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "M85",
+  "acquistionProgramDescription" : "BSM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M87",
+  "acquistionProgramDescription" : "ILS-S",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M88",
+  "acquistionProgramDescription" : "IMDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M90",
+  "acquistionProgramDescription" : "GCCS-M",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "M91",
+  "acquistionProgramDescription" : "GCSS-AF",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M92",
+  "acquistionProgramDescription" : "CCMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M93",
+  "acquistionProgramDescription" : "DCD/DCW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M94",
+  "acquistionProgramDescription" : "TELEPORT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M96",
+  "acquistionProgramDescription" : "TBMMP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M98",
+  "acquistionProgramDescription" : "PKI",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M99",
+  "acquistionProgramDescription" : "CMM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N01",
+  "acquistionProgramDescription" : "GIGBE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N02",
+  "acquistionProgramDescription" : "DJC2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N03",
+  "acquistionProgramDescription" : "GCCS-A BLK 4",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N04",
+  "acquistionProgramDescription" : "ISPAN",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "N05",
+  "acquistionProgramDescription" : "GTN-21",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N06",
+  "acquistionProgramDescription" : "GFEBS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N07",
+  "acquistionProgramDescription" : "EDC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N08",
+  "acquistionProgramDescription" : "NAVY ERP",
+  "coiCode" : "5D"
+}, {
+  "acquistionProgramCode" : "N09",
+  "acquistionProgramDescription" : "JMPS",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "N10",
+  "acquistionProgramDescription" : "REBA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N11",
+  "acquistionProgramDescription" : "CCIC2S",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "N12",
+  "acquistionProgramDescription" : "GCSS-MC LCM INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N15",
+  "acquistionProgramDescription" : "BCS-M",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N16",
+  "acquistionProgramDescription" : "BEC INC 1",
+  "coiCode" : "4A"
+}, {
+  "acquistionProgramCode" : "N17",
+  "acquistionProgramDescription" : "CITS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N18",
+  "acquistionProgramDescription" : "DADS",
+  "coiCode" : "5E"
+}, {
+  "acquistionProgramCode" : "N19",
+  "acquistionProgramDescription" : "DCAPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N20",
+  "acquistionProgramDescription" : "DEAMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N21",
+  "acquistionProgramDescription" : "GCCS-AF",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "N22",
+  "acquistionProgramDescription" : "GCSS-J INC 7",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N23",
+  "acquistionProgramDescription" : "GEMSIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N24",
+  "acquistionProgramDescription" : "GFEBS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N25",
+  "acquistionProgramDescription" : "JC2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N26",
+  "acquistionProgramDescription" : "KMI INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N27",
+  "acquistionProgramDescription" : "LMP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N28",
+  "acquistionProgramDescription" : "NCES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N29",
+  "acquistionProgramDescription" : "NEMAIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N30",
+  "acquistionProgramDescription" : "TDC",
+  "coiCode" : "18"
+}, {
+  "acquistionProgramCode" : "S",
+  "acquistionProgramDescription" : "SHIPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ZBC",
+  "acquistionProgramDescription" : "BRAC ACTIVITIES",
+  "coiCode" : "18"
+}, {
+  "acquistionProgramCode" : "ZDE",
+  "acquistionProgramDescription" : "DERP",
+  "coiCode" : "14C"
+}, {
+  "acquistionProgramCode" : "ZHK",
+  "acquistionProgramDescription" : "HURRICANE KATRINA",
+  "coiCode" : "18"
+}, {
+  "acquistionProgramCode" : "ZHR",
+  "acquistionProgramDescription" : "HURRICANE RITA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ZHW",
+  "acquistionProgramDescription" : "HURRICANE WILMA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ZOP",
+  "acquistionProgramDescription" : "OTHER ENVIRONMENTAL PROGRAMS",
+  "coiCode" : "18"
+}, {
+  "acquistionProgramCode" : "ZSE",
+  "acquistionProgramDescription" : "EPA SUPERFUND",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GHL",
+  "acquistionProgramDescription" : "AIRBORNE RECON LOW (ARL)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AAC",
+  "acquistionProgramDescription" : "A-4 SKYHAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDN",
+  "acquistionProgramDescription" : "SUBMARINE NUCLEAR - SSN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AVQ",
+  "acquistionProgramDescription" : "V22 VERTICAL LIFT AIRCRAFT",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "CMN",
+  "acquistionProgramDescription" : "RIM-66 STANDARD MISSILE (MED)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACE",
+  "acquistionProgramDescription" : "C-12",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AIA",
+  "acquistionProgramDescription" : "BLACKHAWK",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "CNS",
+  "acquistionProgramDescription" : "JAVELIN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNE",
+  "acquistionProgramDescription" : "PATRIOT MISSILE SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "VFH",
+  "acquistionProgramDescription" : "AMMUNITION SIMULATORS, ALL TYPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "FVH",
+  "acquistionProgramDescription" : "AMMUNITION SIMULATORS, ALL TYPES",
+  "coiCode" : "17B"
+}, {
+  "acquistionProgramCode" : "CNX",
+  "acquistionProgramDescription" : "THAAD-THEATER HIGH ALT AIR DEF",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "SDF",
+  "acquistionProgramDescription" : "SUBMARINE SS GUPPY III",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDA",
+  "acquistionProgramDescription" : "SSN-21 SEAWOLF CLASS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDI",
+  "acquistionProgramDescription" : "SUBMARINE SSN-688",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDK",
+  "acquistionProgramDescription" : "SUBMARINE SS BN-741",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDL",
+  "acquistionProgramDescription" : "SUBMARINE FBM-SSBN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDJ",
+  "acquistionProgramDescription" : "SUBMARINE GUIDED MISSILE-SSG",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SDR",
+  "acquistionProgramDescription" : "TRIDENT SUBMARINE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SAB",
+  "acquistionProgramDescription" : "BATTLESHIP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SAF",
+  "acquistionProgramDescription" : "CRUISER GUIDED MISSILE-CG",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SAH",
+  "acquistionProgramDescription" : "CRUISER GD MSL NUCLEAR-CGN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "HFC",
+  "acquistionProgramDescription" : "TYPE 18 PERISCOPE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ZRS",
+  "acquistionProgramDescription" : "RSA DINING FACILITY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DBV",
+  "acquistionProgramDescription" : "BRADLEY, INFANTRY FT VEH FAMILY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAM",
+  "acquistionProgramDescription" : "HMMWV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAG",
+  "acquistionProgramDescription" : "TRUCKS 10T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAD",
+  "acquistionProgramDescription" : "TRUCKS < 1T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAE",
+  "acquistionProgramDescription" : "TRUCKS 2 1/2T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAF",
+  "acquistionProgramDescription" : "TRUCKS 5T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAI",
+  "acquistionProgramDescription" : "RECOVERY VEHICLE M88 IMPROVED",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAJ",
+  "acquistionProgramDescription" : "ARMORED SECURITY VEHICLE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAH",
+  "acquistionProgramDescription" : "TRUCKS >10T",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DBL",
+  "acquistionProgramDescription" : "LANDING VEH TRACKED AMPHIB",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CRW",
+  "acquistionProgramDescription" : "LONGBOW HELLFIRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GCG",
+  "acquistionProgramDescription" : "ELECTRONICS ALL SOURCE ANALYSIS SYS",
+  "coiCode" : "5C"
+}, {
+  "acquistionProgramCode" : "DCP",
+  "acquistionProgramDescription" : "CARRIER M113 MODS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHA",
+  "acquistionProgramDescription" : "UH-1 IROQUOIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AIC",
+  "acquistionProgramDescription" : "APACHE (AH-64) ADV ATTACK",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "AHC",
+  "acquistionProgramDescription" : "OH-58 KIOWA (AHIP)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GVE",
+  "acquistionProgramDescription" : "SATELLITE COMMUNICATIONS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNW",
+  "acquistionProgramDescription" : "GBR - GROUND BASED RADAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CRV",
+  "acquistionProgramDescription" : "MULTIPLE LAUNCH ROCKET SYSTEM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNJ",
+  "acquistionProgramDescription" : "UGM-96 TRIDENT",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "CMA",
+  "acquistionProgramDescription" : "RIM-2 TERRIER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMB",
+  "acquistionProgramDescription" : "AIM-7 SPARROW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNA",
+  "acquistionProgramDescription" : "RIM 7-H-2 NATO SEA SPARROW",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "CMD",
+  "acquistionProgramDescription" : "AIM-9 SIDEWINDER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNC",
+  "acquistionProgramDescription" : "MIM-23 HAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMU",
+  "acquistionProgramDescription" : "RIM-24 TARTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMF",
+  "acquistionProgramDescription" : "UGM-27 POLARIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMG",
+  "acquistionProgramDescription" : "BQM-34 FIREBEE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMI",
+  "acquistionProgramDescription" : "AQM-37 TARGET DRONE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMS",
+  "acquistionProgramDescription" : "FIM-43 REDEYE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMJ",
+  "acquistionProgramDescription" : "UUM-44 SUBROC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMK",
+  "acquistionProgramDescription" : "AGM-45 SHRIKE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNZ",
+  "acquistionProgramDescription" : "CG-47 AEGIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CML",
+  "acquistionProgramDescription" : "AIM-54 PHOENIX",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNL",
+  "acquistionProgramDescription" : "PQM-56 MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNN",
+  "acquistionProgramDescription" : "ZRGM-59 MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMM",
+  "acquistionProgramDescription" : "AGM-62 WALLEYE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNQ",
+  "acquistionProgramDescription" : "ZAGM-63 MISSILE",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "CMP",
+  "acquistionProgramDescription" : "RIM-66 STANDARD MISSILE(EXT)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNG",
+  "acquistionProgramDescription" : "MGM-71 TOW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMQ",
+  "acquistionProgramDescription" : "ZUGM-73 POSEIDON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPI",
+  "acquistionProgramDescription" : "BQM-74 MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPK",
+  "acquistionProgramDescription" : "BQM-74E SSAT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPL",
+  "acquistionProgramDescription" : "ADM-141C ITALD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPM",
+  "acquistionProgramDescription" : "TUAV OUTRIDER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNU",
+  "acquistionProgramDescription" : "AGM-84 HARPOON",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNP",
+  "acquistionProgramDescription" : "AGM-88 HARM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNV",
+  "acquistionProgramDescription" : "AIM-95 AGILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNY",
+  "acquistionProgramDescription" : "BGM-109 TOMAHAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMZ",
+  "acquistionProgramDescription" : "CHAFF DECOY WARHEADS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPE",
+  "acquistionProgramDescription" : "STANDARD MISSILE 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPJ",
+  "acquistionProgramDescription" : "UAV HUNTER (SHORT RANGE UAV)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPN",
+  "acquistionProgramDescription" : "JSOW-AGM-154 MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPO",
+  "acquistionProgramDescription" : "AGM-154A MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPP",
+  "acquistionProgramDescription" : "AGM-154B MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPQ",
+  "acquistionProgramDescription" : "AGM-154C MISSILE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPR",
+  "acquistionProgramDescription" : "AN/SWG-1A HSCLLS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CPS",
+  "acquistionProgramDescription" : "TOMAHAWK STRIKE COOR MDLE (TSCM)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNM",
+  "acquistionProgramDescription" : "TOW-2 TB-LH, OP-TRK, WG ANTI ARM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CMC",
+  "acquistionProgramDescription" : "MIM-23 HAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNB",
+  "acquistionProgramDescription" : "ASSAULT BREAKER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNR",
+  "acquistionProgramDescription" : "IMPROVED TARGET ACQ SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CNT",
+  "acquistionProgramDescription" : "MLRS - MULTIPLE LAUNCH ROCKET SYS",
+  "coiCode" : "17"
+}, {
+  "acquistionProgramCode" : "CRM",
+  "acquistionProgramDescription" : "LAUNCHER, ROCKET 2.75",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CRN",
+  "acquistionProgramDescription" : "ROCKET HYDRA 70 - ALL TYPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CRO",
+  "acquistionProgramDescription" : "LAW - ALL TYPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CRG",
+  "acquistionProgramDescription" : "2.75 INCH ROCKET - ALL TYPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACF",
+  "acquistionProgramDescription" : "C-23 SHERPA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACH",
+  "acquistionProgramDescription" : "C-20 ACFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AII",
+  "acquistionProgramDescription" : "COMMANCHE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AIG",
+  "acquistionProgramDescription" : "LONGBOW APACHE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AIE",
+  "acquistionProgramDescription" : "SCOUT ASH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AIH",
+  "acquistionProgramDescription" : "RAH 66 COMMANCHE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHM",
+  "acquistionProgramDescription" : "AH-1 COBRA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHJ",
+  "acquistionProgramDescription" : "CH-46 SEA KNIGHT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHK",
+  "acquistionProgramDescription" : "CH-47 CHINOOK",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "AHS",
+  "acquistionProgramDescription" : "214 COMMERCIAL HELICOPTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ARA",
+  "acquistionProgramDescription" : "RV-1 RECONNAISSANCE AIRCRAFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ATH",
+  "acquistionProgramDescription" : "HELICOPTER NEW TRAINING",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AUE",
+  "acquistionProgramDescription" : "U-21 UTE UTILITY AIRCRAFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AVA",
+  "acquistionProgramDescription" : "OV-1 MOHAWK VTOL/STOL",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ATG",
+  "acquistionProgramDescription" : "2B-24 SYNTHETIC FLIGHT TRAINER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DJN",
+  "acquistionProgramDescription" : "ABRAMS SERIES (M1/M1A1/M1A2)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DJM",
+  "acquistionProgramDescription" : "LIGHT ARMORED VEHICLE (LAV)",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "EHC",
+  "acquistionProgramDescription" : "M16 5.56 MM RIFLE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABH",
+  "acquistionProgramDescription" : "B-1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABK",
+  "acquistionProgramDescription" : "B-2 STEALTH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABA",
+  "acquistionProgramDescription" : "B-26 INVADER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABD",
+  "acquistionProgramDescription" : "B-47 STRATOJET",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABG",
+  "acquistionProgramDescription" : "B-50 SUPER FORTRESS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABC",
+  "acquistionProgramDescription" : "B-52 STRATO FORTRESS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABE",
+  "acquistionProgramDescription" : "B-57 CANBERRA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABF",
+  "acquistionProgramDescription" : "B-58 HUSTLER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ABM",
+  "acquistionProgramDescription" : "B-70 VALKYRIE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFC",
+  "acquistionProgramDescription" : "F-4 PHANTOM II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFA",
+  "acquistionProgramDescription" : "F-5 FREEDOM FIGHTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFE",
+  "acquistionProgramDescription" : "F-12",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFU",
+  "acquistionProgramDescription" : "F-14 TOMCAT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFF",
+  "acquistionProgramDescription" : "F-15 EAGLE",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "AFH",
+  "acquistionProgramDescription" : "F-16 FALCON",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "AFP",
+  "acquistionProgramDescription" : "F-80 SHOOTING STAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFR",
+  "acquistionProgramDescription" : "F-86 SABRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFS",
+  "acquistionProgramDescription" : "F-89 SCORPION",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFG",
+  "acquistionProgramDescription" : "F-100 SUPER SABRE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFJ",
+  "acquistionProgramDescription" : "F-101 VOODOO",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFT",
+  "acquistionProgramDescription" : "F-102 DELTA DAGGER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFK",
+  "acquistionProgramDescription" : "F-104 STARFIGHTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFL",
+  "acquistionProgramDescription" : "F-105 THUNDERCHIEF",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFM",
+  "acquistionProgramDescription" : "F-106 DELTA DART",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFN",
+  "acquistionProgramDescription" : "F-111",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFV",
+  "acquistionProgramDescription" : "F-117 STEALTH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFB",
+  "acquistionProgramDescription" : "ADVANCED TACTICAL FIGHTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHD",
+  "acquistionProgramDescription" : "H-3 JOLLY GREEN GIANT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHP",
+  "acquistionProgramDescription" : "CH-53 SEA STALLION",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHL",
+  "acquistionProgramDescription" : "HH-53 SUPER JOLLY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AWC",
+  "acquistionProgramDescription" : "X-22",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHV",
+  "acquistionProgramDescription" : "SH-60 SEAHAWK",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "AAE",
+  "acquistionProgramDescription" : "A-6 INTRUDER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GAU",
+  "acquistionProgramDescription" : "AN/BSY-2 SUBMARINE COMBAT SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "EBA",
+  "acquistionProgramDescription" : "7.62MM M60 MACHINE GUN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "437",
+  "acquistionProgramDescription" : "AH-64E NEW BUILD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "421",
+  "acquistionProgramDescription" : "AMF JTRS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DKE",
+  "acquistionProgramDescription" : "UNIVERSAL (FT) W/DOZER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GRU",
+  "acquistionProgramDescription" : "SINCGARS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACC",
+  "acquistionProgramDescription" : "C-3",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AEB",
+  "acquistionProgramDescription" : "E-2 HAWKEYE",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "ASF",
+  "acquistionProgramDescription" : "S-3 VIKING",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ATR",
+  "acquistionProgramDescription" : "T-45 GOSHAWK",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GCA",
+  "acquistionProgramDescription" : "AN/SLQ-25 TORPEDO CM TRANS SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AAK",
+  "acquistionProgramDescription" : "A-10",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACA",
+  "acquistionProgramDescription" : "C-5 GALAXY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACD",
+  "acquistionProgramDescription" : "C-130 HERCULES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACN",
+  "acquistionProgramDescription" : "C-124 GLOBEMASTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GAJ",
+  "acquistionProgramDescription" : "NAVSTAR",
+  "coiCode" : "16C"
+}, {
+  "acquistionProgramCode" : "GYY",
+  "acquistionProgramDescription" : "AFSCN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DAL",
+  "acquistionProgramDescription" : "STRYKER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GIB",
+  "acquistionProgramDescription" : "JSTARS GND STATION MODULE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GCI",
+  "acquistionProgramDescription" : "AN/ALE-50",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BSJ",
+  "acquistionProgramDescription" : "TF-39",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AEC",
+  "acquistionProgramDescription" : "E-3A",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "FCN",
+  "acquistionProgramDescription" : "40MM AMMUNITION ALL TYPES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AFX",
+  "acquistionProgramDescription" : "F-18 HORNET",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "GAF",
+  "acquistionProgramDescription" : "AN/ALQ-122 ECM SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GHR",
+  "acquistionProgramDescription" : "LW MAN-TRANSP RADIO DIR FND SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ADG",
+  "acquistionProgramDescription" : "C-17 CARGO TRANSPORT",
+  "coiCode" : "2B"
+}, {
+  "acquistionProgramCode" : "ARE",
+  "acquistionProgramDescription" : "RF-4C",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GYZ",
+  "acquistionProgramDescription" : "DEF MET SAT PROGRAM (DMSP)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHW",
+  "acquistionProgramDescription" : "AH-1G HUEYCOBRA",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "EBE",
+  "acquistionProgramDescription" : "MK15 CLOSE IN WPN SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SCY",
+  "acquistionProgramDescription" : "DESTROYER DDG-51",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "402",
+  "acquistionProgramDescription" : "GCSS-A INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "417",
+  "acquistionProgramDescription" : "CANES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "465",
+  "acquistionProgramDescription" : "IEHR INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "469",
+  "acquistionProgramDescription" : "LMP INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "470",
+  "acquistionProgramDescription" : "JMS INC 2",
+  "coiCode" : "5"
+}, {
+  "acquistionProgramCode" : "483",
+  "acquistionProgramDescription" : "GCSS-J INC 8",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "M89",
+  "acquistionProgramDescription" : "GCCS-M INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N35",
+  "acquistionProgramDescription" : "MPS INC 4",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N36",
+  "acquistionProgramDescription" : "CAC2S INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N40",
+  "acquistionProgramDescription" : "DCGS-N INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N42",
+  "acquistionProgramDescription" : "AOC-WS INC 10.2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N43",
+  "acquistionProgramDescription" : "ISPAN INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N61",
+  "acquistionProgramDescription" : "NGEN INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N62",
+  "acquistionProgramDescription" : "PKI INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N78",
+  "acquistionProgramDescription" : "BITI WIRED",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N81",
+  "acquistionProgramDescription" : "TELEPORT GEN 3",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N82",
+  "acquistionProgramDescription" : "JMS INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N84",
+  "acquistionProgramDescription" : "EPROCUREMENT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N87",
+  "acquistionProgramDescription" : "DEAMS INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N88",
+  "acquistionProgramDescription" : "IPPS-A INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "205",
+  "acquistionProgramDescription" : "IAMD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "253",
+  "acquistionProgramDescription" : "MQ-8 FIRE SCOUT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "277",
+  "acquistionProgramDescription" : "AWACS BLK 40/45 UPGRADE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "286",
+  "acquistionProgramDescription" : "RMS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "290",
+  "acquistionProgramDescription" : "NMT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "303",
+  "acquistionProgramDescription" : "SSC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "384",
+  "acquistionProgramDescription" : "AMDR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "418",
+  "acquistionProgramDescription" : "IDECM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "420",
+  "acquistionProgramDescription" : "MQ-1C GRAY EAGLE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "424",
+  "acquistionProgramDescription" : "MQ-9 REAPER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "433",
+  "acquistionProgramDescription" : "KC-130J",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "439",
+  "acquistionProgramDescription" : "SDB II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "442",
+  "acquistionProgramDescription" : "AIM-9X BLOCK II",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "443",
+  "acquistionProgramDescription" : "LCS MM",
+  "coiCode" : "12"
+}, {
+  "acquistionProgramCode" : "456",
+  "acquistionProgramDescription" : "OCX",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "466",
+  "acquistionProgramDescription" : "PIM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "468",
+  "acquistionProgramDescription" : "B61 MOD 12 LEP TKA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "474",
+  "acquistionProgramDescription" : "F-22 INC 3.2B MOD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BJN",
+  "acquistionProgramDescription" : "F414-GE-400",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHB",
+  "acquistionProgramDescription" : "UH-2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AHE",
+  "acquistionProgramDescription" : "AH-1W SUPER COBRA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "APC",
+  "acquistionProgramDescription" : "P-3 ORION",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BJM",
+  "acquistionProgramDescription" : "F404-GE-400 OR 402",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "EBJ",
+  "acquistionProgramDescription" : "MK45 MOD-0 5.54 GUN MOUNT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SKM",
+  "acquistionProgramDescription" : "RESCUE AND SALVAGE SHIP",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SFF",
+  "acquistionProgramDescription" : "MINEHUNTER COASTAL NON-MAG-MHC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GHI",
+  "acquistionProgramDescription" : "AN/UYQ-21 NTDS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ATI",
+  "acquistionProgramDescription" : "T-2 BUCKEYE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GFD",
+  "acquistionProgramDescription" : "AFATDS ADV FLD ART TAC DATA SYS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GIH",
+  "acquistionProgramDescription" : "AVIONICS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GNL",
+  "acquistionProgramDescription" : "AN/TPQ-36",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GNB",
+  "acquistionProgramDescription" : "AN/APR-39",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DPH",
+  "acquistionProgramDescription" : "TRACTOR M915 50000 LBS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GIL",
+  "acquistionProgramDescription" : "INTGR FAMILY OF TEST EQUIPMENT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BJL",
+  "acquistionProgramDescription" : "J-85",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "GNP",
+  "acquistionProgramDescription" : "AN/FSD JOINT STARS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AUJ",
+  "acquistionProgramDescription" : "U-2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "DNC",
+  "acquistionProgramDescription" : "LOADER A/C 40K",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GAV",
+  "acquistionProgramDescription" : "AN/ALQ-119",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GAE",
+  "acquistionProgramDescription" : "AN/ALQ-135",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BSR",
+  "acquistionProgramDescription" : "F-100",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "429",
+  "acquistionProgramDescription" : "VH-92A",
+  "coiCode" : "2D"
+}, {
+  "acquistionProgramCode" : "438",
+  "acquistionProgramDescription" : "SPACE FENCE INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "479",
+  "acquistionProgramDescription" : "CRH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "481",
+  "acquistionProgramDescription" : "ISPAN INC 4",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "491",
+  "acquistionProgramDescription" : "DAI INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AVG",
+  "acquistionProgramDescription" : "AV-8 HARRIER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEP",
+  "acquistionProgramDescription" : "LANDING SHIP DOCK-LSD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEB",
+  "acquistionProgramDescription" : "LANDING CRAFT AIR CUSHION LCAC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SBP",
+  "acquistionProgramDescription" : "CARRIER AIRCRAFT NUCLEAR-CVAN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "EDK",
+  "acquistionProgramDescription" : "M109 155MM MED SP HOWITZER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "BTD",
+  "acquistionProgramDescription" : "T-56",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ZBL",
+  "acquistionProgramDescription" : "PERFORMANCE BASED LOGISTICS (PBL)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GHY",
+  "acquistionProgramDescription" : "E-6A (TACAMO)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ATS",
+  "acquistionProgramDescription" : "T-45TS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GNW",
+  "acquistionProgramDescription" : "AN/FPS-117 RADAR SEEK IGLOO",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "IAA",
+  "acquistionProgramDescription" : "ARC-210 RADIO SET",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "FQG",
+  "acquistionProgramDescription" : "155MM ARTILLERY ALL (EXCLUDING SADARM)",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GCH",
+  "acquistionProgramDescription" : "GUARDRAIL COMMON SENSOR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GHT",
+  "acquistionProgramDescription" : "AN/ALR-67 COUNT WARNING SYSTEM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SHC",
+  "acquistionProgramDescription" : "COMMAND SHIP-CC",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SCH",
+  "acquistionProgramDescription" : "DESTROYER GD MSL DDG-2 CLASS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEJ",
+  "acquistionProgramDescription" : "DOCK AMPHIBIOUS TRANSPORT-LPD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SCA",
+  "acquistionProgramDescription" : "DESTROYER DDG-47 AEGIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "AVK",
+  "acquistionProgramDescription" : "X-31",
+  "coiCode" : "2"
+}, {
+  "acquistionProgramCode" : "ACS",
+  "acquistionProgramDescription" : "C-141 STARLIFTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEA",
+  "acquistionProgramDescription" : "ASSAULT SHIP AMPHIBIOUS-LHD-1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SED",
+  "acquistionProgramDescription" : "ASSAULT SHIP AMPHIBIOUS-LHA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEC",
+  "acquistionProgramDescription" : "ASSAULT SHIP AMPHIBIOUS-LPH",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEF",
+  "acquistionProgramDescription" : "CARGO SHIP LKA117",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEG",
+  "acquistionProgramDescription" : "CARGO SHIP ATTACK-AKA",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SEE",
+  "acquistionProgramDescription" : "LANDING CRAFT LCU",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SES",
+  "acquistionProgramDescription" : "LANDING SHIP TANK-LST",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "393",
+  "acquistionProgramDescription" : "3DELRR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "EBU",
+  "acquistionProgramDescription" : "25MM M242 AUTOMATIC GUN",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GBU",
+  "acquistionProgramDescription" : "AN/ALQ-136 COUNTERMEASURES",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GII",
+  "acquistionProgramDescription" : "BAT FLD CMBT ID SYS - NEAR TRM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GIE",
+  "acquistionProgramDescription" : "TACTICAL CONTROL SYSTEM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GNF",
+  "acquistionProgramDescription" : "AN/SPS-48 AIR SEARCH RADAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GNT",
+  "acquistionProgramDescription" : "AN/SPS 49",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GSS",
+  "acquistionProgramDescription" : "AN/SQQ-89 SONAR",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GTP",
+  "acquistionProgramDescription" : "TOWED SONAR ARRAY",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "SLJ",
+  "acquistionProgramDescription" : "SERVICE CRAFT",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "ACR",
+  "acquistionProgramDescription" : "KC-135 STRATOLIFTER",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "CEA",
+  "acquistionProgramDescription" : "DEFENSE METEOR SAT PROG",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "GYB",
+  "acquistionProgramDescription" : "IDHS INTELLIGENCE DATA HANDL",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "446",
+  "acquistionProgramDescription" : "CIRCM",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "492",
+  "acquistionProgramDescription" : "PAC-3 MSE",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "451",
+  "acquistionProgramDescription" : "RQ-7B SHADOW",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "502",
+  "acquistionProgramDescription" : "DCGS-A INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "501",
+  "acquistionProgramDescription" : "GCSS-A INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "467",
+  "acquistionProgramDescription" : "IPPS-A INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "464",
+  "acquistionProgramDescription" : "DCGS-N INC 2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "497",
+  "acquistionProgramDescription" : "DCAPES INC 2A",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "500",
+  "acquistionProgramDescription" : "DCAPES INC 2B",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "522",
+  "acquistionProgramDescription" : "ISPAN INC 5",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "509",
+  "acquistionProgramDescription" : "MPS INC 5",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "521",
+  "acquistionProgramDescription" : "JOMIS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "471",
+  "acquistionProgramDescription" : "AMPV",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "529",
+  "acquistionProgramDescription" : "AAG",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "472",
+  "acquistionProgramDescription" : "ACV 1.1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "510",
+  "acquistionProgramDescription" : "IRST",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "445",
+  "acquistionProgramDescription" : "NGJ INC 1",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "431",
+  "acquistionProgramDescription" : "B-2 DMS-M",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "498",
+  "acquistionProgramDescription" : "ICBM FUZE MOD",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "512",
+  "acquistionProgramDescription" : "ACWS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "528",
+  "acquistionProgramDescription" : "MTC2",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "N86",
+  "acquistionProgramDescription" : "AFIPPS",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "507",
+  "acquistionProgramDescription" : "JMS INC 3",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "523",
+  "acquistionProgramDescription" : "MROI",
+  "coiCode" : null
+}, {
+  "acquistionProgramCode" : "496",
+  "acquistionProgramDescription" : "DHMSM",
+  "coiCode" : null
+} ]

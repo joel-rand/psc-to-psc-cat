@@ -1,6 +1,6 @@
 {
   "name": "psc-to-psc-cat",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Maps codes to titles for PSC, NAICS, and EQUIPMENT",
   "main": "psc-mapping.json",
   "scripts": {
