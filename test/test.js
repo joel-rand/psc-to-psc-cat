@@ -2,7 +2,7 @@
 
 var psc_mapping = require('../psc-mapping.json');
 var naics_mapping = require('../naics-mapping.json');
-var equipment_mapping = require('../equipment-mapping.json');
+var program_mapping = require('../acquisition-code-mapping.json');
 
 var _ = require('lodash');
 var expect = require('chai').expect;
@@ -56,12 +56,12 @@ describe('Mapping Tests', function() {
   });
 
   it('Checking equipment code mapping', function() {
-    var record = _.find(equipment_mapping, {
-      equipmentCode: '330'
+    var record = _.find(program_mapping, {
+      acquistionProgramCode: '330'
     });
-    expect(record.equipmentTitle).to.equal('AESA');
+    expect(record.acquistionProgramDescription).to.equal('AESA');
     expect(record.coiCode).to.equal('15A');
-    record = _.find(equipment_mapping, {
+    record = _.find(program_mapping, {
       equipmentCode: 'XXAAA'
     });
     expect(record === undefined);
