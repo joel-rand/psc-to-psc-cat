@@ -1,20 +1,19 @@
 {
   "name": "psc-to-psc-cat",
-  "version": "2.0.1",
-  "description": "Maps codes to titles for PSC, NAICS, and EQUIPMENT",
+  "version": "2.1.0",
+  "description": "Maps codes to titles for PSC, NAICS, and Acquistion Codes, etc.",
   "main": "psc-mapping.json",
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/joel-rand/psc-to-psc-cat"
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/joel-rand/psc-to-psc-cat"
   },
   "author": "Joel Rand",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.5",
-    "npm": "^5.8.0"
+    "lodash": "^4.17.5"
   },
   "devDependencies": {
     "chai": "^4.1.2",
