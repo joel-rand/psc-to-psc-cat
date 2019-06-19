@@ -1,285 +1,667 @@
-[{
-  "idvPrefix": "0002515",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "DABK0103D",
-  "name": "Operations, Planning, Training, and Resource Support Services",
-  "acronym": "OPTARSS"
-}, {
-  "idvPrefix": "DJJ3C",
-  "name": null,
-  "acronym": "MEGA 4"
-}, {
-  "idvPrefix": "FA807514D",
-  "name": null,
-  "acronym": "HD-TAT"
-}, {
-  "idvPrefix": "FA822212D",
-  "name": null,
-  "acronym": "DESPIII"
-}, {
-  "idvPrefix": "FA830717D",
-  "name": "Flexible Information Assurance Acquisition Tool",
-  "acronym": "FIA2T"
-}, {
-  "idvPrefix": "FA852215D",
-  "name": "Corporate Contaract 2",
-  "acronym": "CORPK2"
-}, {
-  "idvPrefix": "FA862115D",
-  "name": "AF Training Systems Acquisiiton III",
-  "acronym": "TSA III"
-}, {
-  "idvPrefix": "FA873",
-  "name": "Network-Centric Solutions",
-  "acronym": "NETCENTS "
-}, {
-  "idvPrefix": "FA873213",
-  "name": "Network-Centric Solutions II",
-  "acronym": "NETCENTS II "
-}, {
-  "idvPrefix": "FA873214",
-  "name": "Network-Centric Solutions II",
-  "acronym": "NETCENTS II "
-}, {
-  "idvPrefix": "FA873215",
-  "name": "Network-Centric Solutions II",
-  "acronym": "NETCENTS II "
-}, {
-  "idvPrefix": "FA877",
-  "name": "Network-Centric Solutions",
-  "acronym": "NETCENTS "
-}, {
-  "idvPrefix": "FA877111",
-  "name": "Network-Centric Solutions II",
-  "acronym": "NETCENTS II "
-}, {
-  "idvPrefix": "FA877112",
-  "name": "Network-Centric Solutions II",
-  "acronym": "NETCENTS II "
-}, {
-  "idvPrefix": "GS##P##",
-  "name": "Professional and Business Services",
-  "acronym": "PBS"
-}, {
-  "idvPrefix": "GS00Q09",
-  "name": "Alliant Governmentwide Acquisition Contract",
-  "acronym": "Alliant"
-}, {
-  "idvPrefix": "GS00Q16AJD000",
-  "name": "CYBERCOM Support",
-  "acronym": "CYBERCOM SPT"
-}, {
-  "idvPrefix": "GS00T07NSD",
-  "name": "Networx Enterprise and Networx Universal",
-  "acronym": "Networx"
-}, {
-  "idvPrefix": "GS00T13AJA",
-  "name": "Continuous Diagnostics and Mitigation",
-  "acronym": "CDM"
-}, {
-  "idvPrefix": "HC101307",
-  "name": "ENCORE",
-  "acronym": "DISA ENCORE II"
-}, {
-  "idvPrefix": "HC102808",
-  "name": "ENCORE",
-  "acronym": "DISA ENCORE II"
-}, {
-  "idvPrefix": "HC102808D",
-  "name": null,
-  "acronym": "Encore II"
-}, {
-  "idvPrefix": "HDTRA1111D",
-  "name": null,
-  "acronym": "DTRA CTRIC II"
-}, {
-  "idvPrefix": "HDTRA114D",
-  "name": "Defense Threat Reduction Agency Combatting Weapons of Mass Destruction",
-  "acronym": "DTRA CWMD"
-}, {
-  "idvPrefix": "HHM40215D0031",
-  "name": "DIA E-SITE",
-  "acronym": "E-SITE"
-}, {
-  "idvPrefix": "HHSD2002013",
-  "name": "CDC Information Management Services (CIMS)",
-  "acronym": "CIMS"
-}, {
-  "idvPrefix": "HHSM5002007",
-  "name": "CMS Enterprise Systems Development",
-  "acronym": "EDS"
-}, {
-  "idvPrefix": "HHSM5002013",
-  "name": "CMS Virtual Data Center-Prime (VDCP)",
-  "acronym": "VDCP"
-}, {
-  "idvPrefix": "HHSM5002016",
-  "name": "Strategic Partnres Acquisition Readiness Contract",
-  "acronym": "SPARC"
-}, {
-  "idvPrefix": "HHSN3162012",
-  "name": "Chief Information Officer – Solutions and Partners 3 ",
-  "acronym": "CIO-SP3"
-}, {
-  "idvPrefix": "HHSN3162015",
-  "name": "CHIEF INFORMATION OFFICER –COMMODITIES AND SOLUTIONS (CIO-CS)",
-  "acronym": "CIO-CS"
-}, {
-  "idvPrefix": "HQ072716D",
-  "name": "Advanced Technology Support Program III",
-  "acronym": "ATSP3"
-}, {
-  "idvPrefix": "HSHQDC06",
-  "name": "Enterprise Acquisition Gateway for Leading Edge",
-  "acronym": "EAGLE (DHS)"
-}, {
-  "idvPrefix": "HSHQDC10",
-  "name": "Enterprise Acquisition Gateway for Leading Edge",
-  "acronym": "EAGLE (DHS)"
-}, {
-  "idvPrefix": "HSHQDC13DE2",
-  "name": "Enterprise Acquisition Gateway for Leading Edge",
-  "acronym": "EAGLE II (DHS)"
-}, {
-  "idvPrefix": "HSHQDC14DE2",
-  "name": "Enterprise Acquisition Gateway for Leading Edge",
-  "acronym": "EAGLE II (DHS)"
-}, {
-  "idvPrefix": "HSSS0112D",
-  "name": "Tactical CommunicationsEquipment & Services",
-  "acronym": "TacCom"
-}, {
-  "idvPrefix": "N0002413",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "N0002414",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "N0002516",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "N0003913 (N0003913D0013 specifically?)",
-  "name": "Next Generation Enterprise Network",
-  "acronym": "NGEN"
-}, {
-  "idvPrefix": "N0017814",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "N0017815",
-  "name": "SEAPORT Enhanced",
-  "acronym": "SEAPORT E"
-}, {
-  "idvPrefix": "N6523613D",
-  "name": "Pillar Battlespace Awareness Support Services",
-  "acronym": "BA"
-}, {
-  "idvPrefix": "N6600116D",
-  "name": "SPAWAR Cyber",
-  "acronym": null
-}, {
-  "idvPrefix": "SPRBLI15D0017",
-  "name": "DLA Enterprise",
-  "acronym": "DLA-E"
-}, {
-  "idvPrefix": "SS001016",
-  "name": "Information Technology Support Services Contract",
-  "acronym": "ITSSC"
-}, {
-  "idvPrefix": "VA11816D",
-  "name": "Transformation TwentyOne Total Technology",
-  "acronym": "T4"
-}, {
-  "idvPrefix": "W15P7T10D",
-  "name": "Rapid Response 3rd Generation",
-  "acronym": "R2-3G"
-}, {
-  "idvPrefix": "W15P7T13D",
-  "name": "Global Tactical Advanced Communications Systems and Services",
-  "acronym": "GTACS"
-}, {
-  "idvPrefix": "W15P7T17D",
-  "name": "Responsive Strategic Sourcing for Services",
-  "acronym": "RS3"
-}, {
-  "idvPrefix": "W52P1J",
-  "name": "Army Communication and Transmission Systems",
-  "acronym": "CTS"
-}, {
-  "idvPrefix": "W56KGU15",
-  "name": "TIES",
-  "acronym": "TIES"
-}, {
-  "idvPrefix": "W900KK07D",
-  "name": "Warfighter Focus",
-  "acronym": "Warfighter Focus"
-}, {
-  "idvPrefix": "W900KK09D",
-  "name": "PEO-STRI Omnibus Contract II ",
-  "acronym": "STOC II"
-}, {
-  "idvPrefix": "W9113M16D",
-  "name": "DOD Counter-Narcoterrorism Technology Program Office",
-  "acronym": "CNTPO"
-}, {
-  "idvPrefix": "W9113M17D",
-  "name": "Army D3I",
-  "acronym": "D3I"
-}, {
-  "idvPrefix": "W911NF15D",
-  "name": "Advanced Expeditionary Warfare Development",
-  "acronym": "AEWD"
-}, {
-  "idvPrefix": "W911NF17D",
-  "name": "Deployable Adaptive Global Responder Support",
-  "acronym": "DAGRS"
-}, {
-  "idvPrefix": "W911SE04",
-  "name": "Field and Installation Readiness Support Team",
-  "acronym": "FIRST"
-}, {
-  "idvPrefix": "W911SE05",
-  "name": "Field and Installation Readiness Support Team",
-  "acronym": "FIRST"
-}, {
-  "idvPrefix": "W911SE07",
-  "name": "Field and Installation Readiness Support Team",
-  "acronym": "FIRST"
-}, {
-  "idvPrefix": "W911SE08",
-  "name": "Field and Installation Readiness Support Team",
-  "acronym": "FIRST"
-}, {
-  "idvPrefix": "W911SE11",
-  "name": "Field and Installation Readiness Support Team",
-  "acronym": "FIRST"
-}, {
-  "idvPrefix": "W911SR16D",
-  "name": "Joint Enterprise Contracted Logistics and Services Support",
-  "acronym": "JE-CLASS"
-}, {
-  "idvPrefix": "W911W4",
-  "name": "Army Defense Language Interpretation and Transition Enterprise",
-  "acronym": "DLITE"
-}, {
-  "idvPrefix": "W911W415D",
-  "name": "INSCOM Global Intelligence",
-  "acronym": "IGI"
-}, {
-  "idvPrefix": "W91QUZ",
-  "name": "Information Technology and Electronics Support Hardware",
-  "acronym": "ITES-2H (CHESS)"
-}, {
-  "idvPrefix": "W91QUZ06",
-  "name": "Information Technology and Electronics Support 2S",
-  "acronym": "ITES 2S (CHESS)"
-}, {
-  "idvPrefix": "W991QY18D",
-  "name": "Joint Enterprise - Research, Development, Acquisition, Production/Procurement",
-  "acronym": "JE-RDAP"
-}]
+[
+  {
+    "idvPrefix": "N0017804D",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "HDTRA114D",
+    "acronym": "CWMD",
+    "name": "DTRA Combatting Weapons of Mass Destruction"
+  },
+  {
+    "idvPrefix": "W900KK07D",
+    "acronym": "Warfighter Focus",
+    "name": "Army Warfighter Focus"
+  },
+  {
+    "idvPrefix": "W9113M17D",
+    "acronym": "D3I",
+    "name": "Army D3I"
+  },
+  {
+    "idvPrefix": "FA873215",
+    "acronym": "NETCENTS II ",
+    "name": "Network-Centric Solutions II"
+  },
+  {
+    "idvPrefix": "FA873214",
+    "acronym": "NETCENTS II ",
+    "name": "Network-Centric Solutions II"
+  },
+  {
+    "idvPrefix": "FA873213",
+    "acronym": "NETCENTS II ",
+    "name": "Network-Centric Solutions II"
+  },
+  {
+    "idvPrefix": "GS30F",
+    "bicCategory": "Transportation & Logistics",
+    "bicContractTitle": "Fleet for Vehicle Leasing - BIC - T&L",
+    "name": "GSA Fleet for Vehicle Leasing",
+    "bicContractName": "GSA Fleet for Vehicle Leasing"
+  },
+  {
+    "idvPrefix": "N0017815",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "DJJ3C",
+    "acronym": "MEGA 4",
+    "name": "DOJ Automated Litigation Support Services (MEGA 4)"
+  },
+  {
+    "idvPrefix": "W911SE11",
+    "acronym": "FIRST",
+    "name": "Field and Installation Readiness Support Team"
+  },
+  {
+    "idvPrefix": "W911SR16D",
+    "acronym": "JE-CLASS",
+    "name": "Joint Enterprise Contracted Logistics and Services Support"
+  },
+  {
+    "idvPrefix": "VA797P12",
+    "bicCategory": "Medical Category",
+    "bicContractTitle": "DOD VA JNCGP - BIC - Medical",
+    "name": "DOD VA Joint National Contracts for Generic Pharmaceuticals",
+    "bicContractName": "DOD VA Joint National Contracts for Generic Pharmaceuticals"
+  },
+  {
+    "idvPrefix": "W91QUZ",
+    "acronym": "ITES-2H (CHESS)",
+    "name": "Information Technology and Electronics Support Hardware"
+  },
+  {
+    "idvPrefix": "47QTCH18",
+    "acronym": "VETS 2",
+    "name": "VETS 2 SDVOB GWAC"
+  },
+  {
+    "idvPrefix": "N0017814",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "HC102808D",
+    "acronym": "Encore II",
+    "name": "DISA ENCORE II"
+  },
+  {
+    "idvPrefix": "W52P1J-19-D-0044",
+    "acronym": "LOGCAP V",
+    "name": "Logistics Civil Augmentation Program (LOGCAP) V - KBR"
+  },
+  {
+    "idvPrefix": "W52P1J-19-D-0045",
+    "acronym": "LOGCAP V",
+    "name": "Logistics Civil Augmentation Program (LOGCAP) V - Vectrus"
+  },
+  {
+    "idvPrefix": "47QTCK18D",
+    "acronym": "ALLIANT 2",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "Alliant 2 - BIC - IT",
+    "name": "Alliant 2 Governmentwide Acquisition Contract (Alliant 2)",
+    "bicContractName": "Alliant 2"
+  },
+  {
+    "idvPrefix": "W52P1J-19-D-0046",
+    "acronym": "LOGCAP V",
+    "name": "Logistics Civil Augmentation Program (LOGCAP) V - Fluor"
+  },
+  {
+    "idvPrefix": "W52P1J-19-D-0047",
+    "acronym": "LOGCAP V",
+    "name": "Logistics Civil Augmentation Program (LOGCAP) V - PAE-Parsons"
+  },
+  {
+    "idvPrefix": "W911W4",
+    "acronym": "DLITE",
+    "name": "Army Defense Language Interpretation and Transition Enterprise"
+  },
+  {
+    "idvPrefix": "HQ0147-16-C",
+    "acronym": "TEAMS",
+    "name": "MDA Technical Engineering Advisory and Management Support (TEAMS)"
+  },
+  {
+    "idvPrefix": "HSHQDC14DE2",
+    "acronym": "EAGLE II (DHS)",
+    "name": "DHS Enterprise Acquisition Gateway for Leading Edge (EAGLE)"
+  },
+  {
+    "idvPrefix": "NNG15SE",
+    "acronym": "SEWP V",
+    "name": "NASA Solutions for Enterprise Wide Procurement (SEWP)"
+  },
+  {
+    "idvPrefix": "NNG15SD",
+    "acronym": "SEWP V",
+    "name": "NASA Solutions for Enterprise Wide Procurement (SEWP)"
+  },
+  {
+    "idvPrefix": "HQ0796-18-C",
+    "acronym": "TEAMS",
+    "name": "MDA Technical Engineering Advisory and Management Support (TEAMS)"
+  },
+  {
+    "idvPrefix": "FA822212D",
+    "acronym": "DESPIII",
+    "name": "AF Design Engineering Support Program III"
+  },
+  {
+    "idvPrefix": "FA830717D",
+    "acronym": "FIA2T",
+    "name": "Flexible Information Assurance Acquisition Tool"
+  },
+  {
+    "idvPrefix": "NNG15SC",
+    "acronym": "SEWP V",
+    "name": "NASA Solutions for Enterprise Wide Procurement (SEWP)"
+  },
+  {
+    "idvPrefix": "W900KK09D",
+    "acronym": "STOC II",
+    "name": "Army PEO-STRI Omnibus Contract II "
+  },
+  {
+    "idvPrefix": "GS-33F",
+    "bicCategory": "Travel Category",
+    "bicContractTitle": "Civilian Employee Reloc - BIC - Travel",
+    "name": "Civilian Employee Relocation Schedule 48",
+    "bicContractName": "Civilian Employee Relocation Schedule 48"
+  },
+  {
+    "idvPrefix": "GS00Q17NS",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "EIS - BIC - IT",
+    "name": "Enterprise Infrastucture Services (EIS)",
+    "bicContractName": "Enterprise Infrastucture Services (EIS)"
+  },
+  {
+    "idvPrefix": "NNG15S",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "NASA SEWP - BIC - IT",
+    "name": "NASA SEWP",
+    "bicContractName": "NASA SEWP"
+  },
+  {
+    "idvPrefix": "W911W415D",
+    "acronym": "IGI",
+    "name": "INSCOM Global Intelligence"
+  },
+  {
+    "idvPrefix": "DABK0103D",
+    "acronym": "OPTARSS",
+    "name": "Operations, Planning, Training, and Resource Support Services"
+  },
+  {
+    "idvPrefix": "47QRAD18D",
+    "acronym": "OASIS-SB",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "OASIS SB2 - BIC - IT",
+    "name": "One Acquisition Solution for Integrated Services (OASIS)-Small Business",
+    "bicContractName": "OASIS SB2"
+  },
+  {
+    "idvPrefix": "47QSHA18",
+    "bicCategory": "Facilities & Construction Category",
+    "bicContractTitle": "FSSI BMO - BIC - F&C",
+    "name": "FSSI Building Maintenance & Operations (BMO)",
+    "bicContractName": "FSSI Building Maintenance & Operations (BMO)"
+  },
+  {
+    "idvPrefix": "GS00Q16AJD000",
+    "acronym": "CYBERCOM SPT",
+    "name": "CYBERCOM Support"
+  },
+  {
+    "idvPrefix": "W15P7T17D",
+    "acronym": "RS3",
+    "name": "Responsive Strategic Sourcing for Services"
+  },
+  {
+    "idvPrefix": "W91QUZ06D0005",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "CHESS ADMC2 - BIC - IT",
+    "name": "Army Chess ADMC2",
+    "bicContractName": "Army Chess ADMC2"
+  },
+  {
+    "idvPrefix": "HSHQDC10",
+    "acronym": "EAGLE (DHS)",
+    "name": "DHS Enterprise Acquisition Gateway for Leading Edge (EAGLE)"
+  },
+  {
+    "idvPrefix": "GS00Q17GWD",
+    "acronym": "STARS II",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "8(a) STARS II GWAC - BIC - IT                                                   ",
+    "name": "8(a) STARS II GWAC",
+    "bicContractName": "8(a) STARS II GWAC                                         "
+  },
+  {
+    "idvPrefix": "W991QY18D",
+    "acronym": "JE-RDAP",
+    "name": "Joint Enterprise - Research, Development, Acquisition, Production/Procurement"
+  },
+  {
+    "idvPrefix": "GS00Q14OADU",
+    "acronym": "OASIS-U",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "OASIS - BIC - IT",
+    "name": "One Acquisition Solution for Integrated Services (OASIS)-Unrestricted",
+    "bicContractName": "OASIS"
+  },
+  {
+    "idvPrefix": "GS10FCA017",
+    "bicCategory": "Professional Services Category",
+    "bicContractTitle": "IPS - BIC - PSC",
+    "name": "Identity Protection Services (IPS)",
+    "bicContractName": "Identity Protection Services (IPS)"
+  },
+  {
+    "idvPrefix": "GS00Q14OADS",
+    "acronym": "OASIS-SB",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "OASIS SB1 - BIC - IT",
+    "name": "One Acquisition Solution for Integrated Services (OASIS)-Small Business",
+    "bicContractName": "OASIS SB1"
+  },
+  {
+    "idvPrefix": "N0002414",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "N0002413",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "HHSN3162",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "NITAAC CIO SP3 - ",
+    "name": "NITAAC CIO-CS",
+    "bicContractName": "NITAAC CIO SP3 Small Business"
+  },
+  {
+    "idvPrefix": "N6600116D",
+    "acronym": null,
+    "name": "SPAWAR Cyber"
+  },
+  {
+    "idvPrefix": "HSHQDC06",
+    "acronym": "EAGLE (DHS)",
+    "name": "DHS Enterprise Acquisition Gateway for Leading Edge (EAGLE)"
+  },
+  {
+    "idvPrefix": "HDTRA1111D",
+    "acronym": "CTRIC II",
+    "name": "DTRA Cooperative Threat Reduction Integrating Contract II"
+  },
+  {
+    "idvPrefix": "W911SE04",
+    "acronym": "FIRST",
+    "name": "Field and Installation Readiness Support Team"
+  },
+  {
+    "idvPrefix": "W911SE05",
+    "acronym": "FIRST",
+    "name": "Field and Installation Readiness Support Team"
+  },
+  {
+    "idvPrefix": "W911NF17D",
+    "acronym": "DAGRS",
+    "name": "Army Deployable Adaptive Global Responder Support"
+  },
+  {
+    "idvPrefix": "W911SE07",
+    "acronym": "FIRST",
+    "name": "Field and Installation Readiness Support Team"
+  },
+  {
+    "idvPrefix": "W911SE08",
+    "acronym": "FIRST",
+    "name": "Field and Installation Readiness Support Team"
+  },
+  {
+    "idvPrefix": "FA873",
+    "acronym": "NETCENTS ",
+    "name": "Network-Centric Solutions"
+  },
+  {
+    "idvPrefix": "GS00Q17NSD",
+    "acronym": "EIS",
+    "name": "GSA Enterprise Information Solutions"
+  },
+  {
+    "idvPrefix": "N0017808D",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "FA877",
+    "acronym": "NETCENTS ",
+    "name": "Network-Centric Solutions"
+  },
+  {
+    "idvPrefix": "HHSM5002013",
+    "acronym": "VDCP",
+    "name": "HHS CMS Virtual Data Center-Prime (VDCP)"
+  },
+  {
+    "idvPrefix": "HHSM5002016",
+    "acronym": "SPARC",
+    "name": "HHS Strategic Partners Acquisition Readiness Contract (SPARC)"
+  },
+  {
+    "idvPrefix": "HSBP1017D",
+    "bicCategory": "Security & Protection",
+    "bicContractTitle": "DHS BODY ARMOR III - BIC - S&P",
+    "name": "DHS Body Armor III",
+    "bicContractName": "DHS Body Armor III"
+  },
+  {
+    "idvPrefix": "HHSM5002007",
+    "acronym": "EDS",
+    "name": "CMS Enterprise Systems Development"
+  },
+  {
+    "idvPrefix": "HSSS0112D",
+    "acronym": "TacCom",
+    "name": "Tactical Communications Equipment & Services"
+  },
+  {
+    "idvPrefix": "FA862115D",
+    "acronym": "TSA III",
+    "name": "AF Training Systems Acquisiiton III"
+  },
+  {
+    "idvPrefix": "VA11816D",
+    "acronym": "T4",
+    "name": "VA Transformation TwentyOne Total Technology"
+  },
+  {
+    "idvPrefix": "FA807514D",
+    "acronym": "HD-TAT",
+    "name": "Homeland Defense & Security Technical Area Tasks (HD TAT)"
+  },
+  {
+    "idvPrefix": "GS06F",
+    "acronym": "STARS II",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "8(a) STARS II GWAC - BIC - IT                                                   ",
+    "name": "8(a) STARS II GWAC",
+    "bicContractName": "8(a) STARS II GWAC                                         "
+  },
+  {
+    "idvPrefix": "HSHQDC13DE2",
+    "acronym": "EAGLE II (DHS)",
+    "name": "DHS Enterprise Acquisition Gateway for Leading Edge (EAGLE)"
+  },
+  {
+    "idvPrefix": "W15P7T19D",
+    "acronym": "RS3",
+    "name": "Responsive Strategic Sourcing for Service"
+  },
+  {
+    "idvPrefix": "GS##P##",
+    "acronym": "PBS",
+    "name": "Professional and Business Services"
+  },
+  {
+    "idvPrefix": "N0002516",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "N0002515",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "W15P7T10D",
+    "acronym": "R2-3G",
+    "name": "Rapid Response 3rd Generation"
+  },
+  {
+    "idvPrefix": "N0017819D",
+    "acronym": "SEAPORT NxG",
+    "name": "Navy SeaPort Next Generation"
+  },
+  {
+    "idvPrefix": "N0017807D",
+    "acronym": "SEAPORT E",
+    "name": "Navy SEAPORT Enhanced"
+  },
+  {
+    "idvPrefix": "W52P1J",
+    "acronym": "CTS",
+    "name": "Army Communication and Transmission Systems"
+  },
+  {
+    "idvPrefix": "SS001016",
+    "acronym": "ITSSC",
+    "name": "Information Technology Support Services Contract"
+  },
+  {
+    "idvPrefix": "GS02Q14DCR",
+    "bicCategory": "Office Management",
+    "bicContractTitle": "FSSI Office Supplies - BIC - Office Mgmt",
+    "name": "FSSI Office Supplies",
+    "bicContractName": "FSSI Office Supplies"
+  },
+  {
+    "idvPrefix": "HQ0147-18-C",
+    "acronym": "TEAMS",
+    "name": "MDA Technical Engineering Advisory and Management Support (TEAMS)"
+  },
+  {
+    "idvPrefix": "HHSD2002013",
+    "acronym": "CIMS",
+    "name": "HHS CDC Information Management Services (CIMS)"
+  },
+  {
+    "idvPrefix": "GS35F",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "GSA COMSATCOM - BIC - IT",
+    "name": "GSA COMSATCOM",
+    "bicContractName": "GSA COMSATCOM"
+  },
+  {
+    "idvPrefix": "W911NF15D",
+    "acronym": "AEWD",
+    "name": "Advanced Expeditionary Warfare Development"
+  },
+  {
+    "idvPrefix": "W56KGU15",
+    "acronym": "TIES",
+    "name": "Technical, Information and Engineering Services (TIES)"
+  },
+  {
+    "idvPrefix": "W912DY08R",
+    "bicCategory": "Facilities & Construction Category",
+    "bicContractTitle": "USACE FRP - BIC - F&C",
+    "name": "USACE Facilities Reduction Program",
+    "bicContractName": "USACE Facilities Reduction Program"
+  },
+  {
+    "idvPrefix": "HHM40215D0031",
+    "acronym": "E-SITE",
+    "name": "DIA E-SITE"
+  },
+  {
+    "idvPrefix": "FA877112",
+    "acronym": "NETCENTS II ",
+    "name": "Network-Centric Solutions II"
+  },
+  {
+    "idvPrefix": "GS07FHA267",
+    "bicCategory": "Industrial Products & Services",
+    "bicContractTitle": "FSSI Jan San - BIC - ID&S",
+    "name": "FSSI Janitorial & Sanitation",
+    "bicContractName": "FSSI Janitorial & Sanitation"
+  },
+  {
+    "idvPrefix": "FA877111",
+    "acronym": "NETCENTS II ",
+    "name": "Network-Centric Solutions II"
+  },
+  {
+    "idvPrefix": "W52P1J07D0009",
+    "acronym": "LOGCAP IV",
+    "name": "Logistics Civil Augmentation Program IV-KBR"
+  },
+  {
+    "idvPrefix": "HQ0147-17-R",
+    "acronym": "TEAMS",
+    "name": "MDA Technical Engineering Advisory and Management Support (TEAMS)"
+  },
+  {
+    "idvPrefix": "N6523613D",
+    "acronym": "BA",
+    "name": "Pillar Battlespace Awareness Support Services"
+  },
+  {
+    "idvPrefix": "W15P7T13D",
+    "acronym": "GTACS",
+    "name": "Global Tactical Advanced Communications Systems and Services"
+  },
+  {
+    "idvPrefix": "W52P1J07D0008",
+    "acronym": "LOGCAP IV",
+    "name": "Logistics Civil Augmentation Program IV-Fluor"
+  },
+  {
+    "idvPrefix": "HQ072716D",
+    "acronym": "ATSP3",
+    "name": "Advanced Technology Support Program III"
+  },
+  {
+    "idvPrefix": "HQ0147-10-D-0010",
+    "acronym": "MiDAESS",
+    "name": "Missile Defense Agency Engineering and Support Services (MiDAESS)"
+  },
+  {
+    "idvPrefix": "HQ0147-10-D-0011",
+    "acronym": "MiDAESS",
+    "name": "Missile Defense Agency Engineering and Support Services (MiDAESS)"
+  },
+  {
+    "idvPrefix": "GS00T07NSD",
+    "acronym": "NETWORX",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "GSA NETWORX - BIC - IT",
+    "name": "GSA NETWORX",
+    "bicContractName": "GSA NETWORX"
+  },
+  {
+    "idvPrefix": "GS00Q09BGD",
+    "acronym": "ALLIANT",
+    "bicCategory": "Information Technology",
+    "bicContractTitle": "Alliant - BIC - IT",
+    "name": "Alliant Governmentwide Acquisition Contract (Alliant)",
+    "bicContractName": "Alliant"
+  },
+  {
+    "idvPrefix": "W52P1J07D0007",
+    "acronym": "LOGCAP IV",
+    "name": "Logistics Civil Augmentation Program IV-Dyncorp"
+  },
+  {
+    "idvPrefix": "FA852215D",
+    "acronym": "CORPK2",
+    "name": "Corporate Contract 2"
+  },
+  {
+    "idvPrefix": "36C25618",
+    "bicCategory": "Medical Category",
+    "bicContractTitle": "DOD VA HTME - BIC - Medical",
+    "name": "DOD VA High Tech Medical Equipment",
+    "bicContractName": "DOD VA High Tech Medical Equipment"
+  },
+  {
+    "idvPrefix": "GS23FBA006",
+    "bicCategory": "Industrial Products & Services",
+    "bicContractTitle": "FSSI MRO - BIC - ID&S",
+    "name": "FSSI Maintenance, Repair & Operations (MRO)",
+    "bicContractName": "FSSI Maintenance, Repair & Operations (MRO)"
+  },
+  {
+    "idvPrefix": "W9113M16D",
+    "acronym": "CNTPO",
+    "name": "DOD Counter-Narcoterrorism Technology Program Office"
+  },
+  {
+    "idvPrefix": "N0003913D0013",
+    "acronym": "NGEN",
+    "name": "Next Generation Enterprise Network"
+  },
+  {
+    "idvPrefix": "HC102818D003",
+    "acronym": "ENCORE III",
+    "name": "DISA ENCORE III - Small Business"
+  },
+  {
+    "idvPrefix": "W91QUZ06",
+    "acronym": "ITES 2S (CHESS)",
+    "name": "Information Technology and Electronics Support 2S"
+  },
+  {
+    "idvPrefix": "HC102818D001",
+    "acronym": "ENCORE III",
+    "name": "DISA ENCORE III - Unrestricted"
+  },
+  {
+    "idvPrefix": "HC102818D002",
+    "acronym": "ENCORE III",
+    "name": "DISA ENCORE III - Small Business"
+  },
+  {
+    "idvPrefix": "HHSN3162012",
+    "acronym": "CIO-SP3",
+    "name": "HHS CIO – Solutions and Partners 3 "
+  },
+  {
+    "idvPrefix": "HC102818D000",
+    "acronym": "ENCORE III",
+    "name": "DISA ENCORE III - Unrestricted"
+  },
+  {
+    "idvPrefix": "HHSN3162015",
+    "acronym": "CIO-CS",
+    "name": "HHS CIO - Commodities and Solutions (CIO-CS)"
+  },
+  {
+    "idvPrefix": "SPRBLI15D0017",
+    "acronym": "DLA-E",
+    "name": "DLA Enterprise"
+  },
+  {
+    "idvPrefix": "HQ0147-17-C",
+    "acronym": "TEAMS",
+    "name": "MDA Technical Engineering Advisory and Management Support (TEAMS)"
+  },
+  {
+    "idvPrefix": "HTC71117",
+    "bicCategory": "Transportation & Logistics",
+    "bicContractTitle": "DOD NGDS - BIC - T&L",
+    "name": "DOD Next Generation Delivery Service",
+    "bicContractName": "DOD Next Generation Delivery Service"
+  },
+  {
+    "idvPrefix": "HSFLGL14B",
+    "bicCategory": "Security & Protection",
+    "bicContractTitle": "RHTA - BIC - S&P",
+    "name": "Reduced Hazard Training Ammunition",
+    "bicContractName": "Reduced Hazard Training Ammunition"
+  },
+  {
+    "idvPrefix": "GS00T13AJA",
+    "acronym": "CDM",
+    "name": "Continuous Diagnostics and Mitigation"
+  }
+]
